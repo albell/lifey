@@ -1,0 +1,9 @@
+{
+	"name": "Snacker 2",
+	"pattern": "2o32b$bo32b$bobo25b2o3b$2b2o23bo2bo3b$7bo4bo14b3o4b$5b2ob4ob2o3bo4bo6b3ob$7bo4bo3b2ob4ob2o3bo3bo$2b2o14bo4bo6b3ob$bobo23b3o4b$bo25bo2bo3b$2o27b2o",
+	"author": "Dean Hickerson",
+	"comments": "A period 9 oscillator in which two pentadecathlons with stabilizers which force them into a lower period. www.conwaylife.com/wiki/index.php?title=Snacker_2",
+	"width": 34,
+	"height": 11,
+	"rule": "3/23"
+}

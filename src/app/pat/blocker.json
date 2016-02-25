@@ -1,0 +1,9 @@
+{
+	"name": "Blocker",
+	"pattern": "6bobob$5bo4b$2o2bo4bo$2obo2bob2o$4b2o",
+	"author": "Robert Wainwright",
+	"comments": "A period 8 oscillator. www.conwaylife.com/wiki/index.php?title=Blocker",
+	"width": 10,
+	"height": 5,
+	"rule": "3/23"
+}

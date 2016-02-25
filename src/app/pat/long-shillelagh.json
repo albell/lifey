@@ -1,0 +1,8 @@
+{
+	"name": "Long Shillelagh",
+	"pattern": "2o2b2o$o2bobo$b2o",
+	"comments": "A 9-cell still life that is the long version of the shillelagh. http://www.conwaylife.com/wiki/index.php?title=Long_shillelagh",
+	"width": 6,
+	"height": 3,
+	"rule": "3/23"
+}

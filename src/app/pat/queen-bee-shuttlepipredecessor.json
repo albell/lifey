@@ -1,0 +1,9 @@
+{
+	"name": "Queen Bee Shuttle Pi Predecessor",
+	"pattern": "2o31b2o$2o31b2o3$16b3o16b$5b3o8bobo8b3o5b$16bobo",
+	"author": "Bill Gosper",
+	"comments": "A queen bee shuttle predecessor found in April 1992. www.conwaylife.com/wiki/index.php?title=Queen_bee_shuttle",
+	"width": 35,
+	"height": 7,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Unidimensional Pentadecathlon",
+	"pattern": "10o",
+	"comments": "A unidimensional pattern that is a predecessor of the pentadecathlo n. www.conwaylife.com/wiki/index.php?title=Unidimensional_pattern",
+	"width": 10,
+	"height": 1,
+	"rule": "3/23"
+}

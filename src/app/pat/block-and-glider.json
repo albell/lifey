@@ -1,0 +1,8 @@
+{
+	"name": "Block and Glider",
+	"pattern": "2o2b$obob$2b2o",
+	"comments": "A methuselah with lifespan 106. www.conwaylife.com/wiki/index.php?title=Block_and_glider",
+	"width": 4,
+	"height": 3,
+	"rule": "3/23"
+}

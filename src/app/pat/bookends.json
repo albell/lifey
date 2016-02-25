@@ -1,0 +1,8 @@
+{
+	"name": "Bookends",
+	"pattern": "2o3b2o$obobobo$2bobo2b$b2ob2o",
+	"comments": "A 14-cell still life. www.conwaylife.com/wiki/index.php?title=Bookends",
+	"width": 7,
+	"height": 4,
+	"rule": "3/23"
+}

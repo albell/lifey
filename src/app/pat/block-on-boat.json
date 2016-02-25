@@ -1,0 +1,8 @@
+{
+	"name": "Block on Boat",
+	"pattern": "2ob2ob$2obobo$4bo",
+	"comments": "A 9-cell pseudo still life. www.conwaylife.com/wiki/index.php?title=Block_on_boat",
+	"width": 6,
+	"height": 3,
+	"rule": "23/3"
+}

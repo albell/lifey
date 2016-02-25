@@ -1,0 +1,13 @@
+{
+	"name": "Edna",
+	"author": "Erik de Neve",
+	"comments": "A methuselah with lifespan 31,192. The pattern is named after Methuselah's wife, Edna. www.conwaylife.com/wiki/index.php?title=Edna",
+	"width": 20,
+	"height": 20,
+	"rule": "3/23",
+	"minCanvasX": 750,
+	"minCanvasY": 850,
+	"offsetX": 350,
+	"offsetY": 225,
+	"pattern": "2bo2bo2bo5bo4bo$2b2o4bo2bo2b2obo2b$b4ob2ob4obobobob$2obo5b2ob2o2b3ob$8bo2bo2b3o3b$3ob2o3bo2bo2bo3bo$b4o5bo2b3o2b2o$obo2bo3bo5bobo2b$2obob2ob3obo7b$2bo2b2o5bobo2bobo$2o2bobob2o3bo2b2o2b$4bobo3bobo4b2ob$bo2bobo4bo2b2o4b$3o3bo3bo4b4ob$2ob2o6bo4bo2bo$5bo3bobo6b2o$6bo2bo5bobo2b$8bo2bo2bobo3b$2b4obo2bob2o5bo$ob2o2bo6b2ob3o"
+}

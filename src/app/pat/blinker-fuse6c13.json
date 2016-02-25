@@ -1,0 +1,8 @@
+{
+	"name": "Blinker Fuse (6c/13)",
+	"pattern": "3o4bo5bo5bo5bo5bo5bo5bo5bo5bo5bo$obo4bo5bo5bo5bo5bo5bo5bo5bo5bo5bo$3o4bo5bo5bo5bo5bo5bo5bo5bo5bo5bo",
+	"comments": "A 6c/13 orthogonal period 26 blinker fuse. www.conwaylife.com/wiki/index.php?title=Blinker_fuse",
+	"width": 62,
+	"height": 3,
+	"rule": "3/23"
+}

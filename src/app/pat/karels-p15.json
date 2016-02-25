@@ -1,0 +1,9 @@
+{
+	"name": "Karel's p15",
+	"pattern": "2bo4bo2b$2b6o2b$2bo4bo2b4$2b6o2b$bo6bob$o8bo$bo6bob$2b6o",
+	"author": "Karel Suhajda",
+	"comments": "A period 15 oscillator discovered on December 11, 2002 http://www.conwaylife.com/wiki/index.php?title=Karel's_p15",
+	"width": 10,
+	"height": 11,
+	"rule": "3/23"
+}

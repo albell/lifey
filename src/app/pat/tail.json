@@ -1,0 +1,8 @@
+{
+	"name": "Tail",
+	"pattern": "ob$ob$2o",
+	"comments": "A tetromino often attached to still lifes to create larger still li fes. www.conwaylife.com/wiki/index.php?title=Tail",
+	"width": 2,
+	"height": 3,
+	"rule": "3/23"
+}

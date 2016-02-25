@@ -1,0 +1,9 @@
+{
+	"name": "Queen Bee Shuttle",
+	"pattern": "9bo12b$7bobo12b$6bobo13b$2o3bo2bo11b2o$2o4bobo11b2o$7bobo12b$9bo",
+	"author": "Bill Gosper",
+	"comments": "A period 30 oscillator. www.conwaylife.com/wiki/index.php?title=Queen_bee_shuttle",
+	"width": 22,
+	"height": 7,
+	"rule": "3/23"
+}

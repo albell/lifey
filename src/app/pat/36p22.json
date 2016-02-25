@@ -1,0 +1,8 @@
+{
+	"name": "36P22",
+	"pattern": "2o25b$bo25b$bobo13b3o7b$2b2o3bo8bo3bo6b$6bob2o6bo4bo5b$5bo4bo6b2obo6b$6bo3bo8bo3b2o2b$7b3o13bobob$25bob$25b2o",
+	"comments": "The smallest known period 22 oscillator. www.conwaylife.com/wiki/index.php?title=36P22",
+	"width": 27,
+	"height": 10,
+	"rule": "3/23"
+}

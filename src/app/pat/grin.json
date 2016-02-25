@@ -1,0 +1,8 @@
+{
+	"name": "Grin",
+	"pattern": "o2bo$b2o",
+	"comments": "A common parent of the block. http://www.conwaylife.com/wiki/index.php?title=Grin",
+	"width": 4,
+	"height": 2,
+	"rule": "3/23"
+}

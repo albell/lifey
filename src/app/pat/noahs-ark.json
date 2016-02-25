@@ -1,0 +1,13 @@
+{
+	"name": "Noah's Ark",
+	"author": "Charles Corderman",
+	"comments": "A diagonal period 1344 c/12 puffer made up of two switch engines that was found in 1971. www.conwaylife.com/wiki/index.php?title=Noah's_ark",
+	"width": 15,
+	"height": 15,
+	"rule": "23/3",
+	"offsetX": 650,
+	"offsetY": 650,
+	"minCanvasX": 800,
+	"minCanvasY": 800,
+	"pattern": "10bobo2b$9bo5b$10bo2bob$12b3o6$bo13b$obo12b2$o2bo11b$2b2o11b$3bo"
+}

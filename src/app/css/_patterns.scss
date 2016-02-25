@@ -1,0 +1,142 @@
+.patterns {
+	top: 431px;
+	height: calc(100% - 446px);
+}
+
+.patterns__actions {
+	border-bottom: 1px solid $offBlack;
+	padding: 5px 7px;
+}
+
+.patterns__outer-wrapper {
+	background: #464646;
+	height: calc(100% - 69px);
+	position: relative;
+}
+
+.patterns__inner-wrapper {
+	height: 100%;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	padding: 0;
+}
+
+.patterns__group {
+	background: $darkGray;
+	border-bottom: 1px solid $offBlack;
+	list-style: none;
+	padding: 0 0 0 4px;
+}
+
+	@media (min-device-pixel-ratio: 2) {
+		.patterns__group {
+			border-width: 0.5px;
+		}
+	}
+
+// Checkbox hack controls accordion visibility.
+.patterns__group-checkbox {
+	position: absolute;
+	visibility: hidden;
+}
+
+.patterns__group-name,
+.pat__link {
+	display: block;
+	height: 20px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+// Neutralize default button styling.
+.patterns__group-name {
+	background: transparent;
+	border: 0;
+	font-size: 1em;
+	padding: 3px 0 0 22px;
+	position: relative;
+	text-align: left;
+	width: 100%;
+}
+
+// Arrow points right in collapsed state.
+.patterns__group-name:before {
+	content: "";
+	border-left: 5px solid $midLightGray;
+	border-top: 5px solid transparent;
+	border-bottom: 5px solid transparent;
+	height: 10px;
+	width: 10px;
+	position: absolute;
+	left: 7px;
+	top: 5px;
+}
+
+.patterns__group-items {
+	background-color: $darkGray;
+	display: none; // Initially hidden in accordion
+	list-style: none;
+	margin: 0;	
+	padding: 0 0 0 18px;
+}
+
+// Arrow points down in accordion open state.
+// FWIW Adobe doesn't animate a rotation here.
+.patterns__group-checkbox:checked + .patterns__group-name:before {
+	border-left: 5px solid transparent;
+	border-right: 5px solid transparent;
+	border-top: 5px solid $midLightGray;
+	display: block;
+	left: 5px;
+	top: 8px;
+}
+
+// Show pattern group when box is checked.
+.patterns__group-checkbox:checked ~ .patterns__group-items {
+	display: block;
+}
+
+
+.pat {
+	border-top: 1px solid $offBlack;
+	display: block;
+	height: 20px;
+	position: relative;
+}
+
+// Modifiers need to be set on the parent element, because overflow is hidden
+// on the link to prevent the pattern title from flowing into the wiki "W".
+.pat--selected {
+	background: $highlightGrayBlue;
+}
+
+.pat--loading:before {
+	background-image: url(lib-img/loading.gif);
+	content: "";
+	position: absolute;
+	width: 16px;
+	height: 11px;
+	left: -17px;
+	top: 4px;
+}
+
+.pat__link {
+	padding: 3px 0 0 4px;
+	position: relative;
+	width: calc(100% - 20px);
+}
+
+.pat__wiki-link {
+	border-bottom: 1px solid $offBlack;
+	display: block;
+	font-family: "wiki";
+	height: 20px;
+	padding: 4px 0 0 0;
+	position: absolute;
+	right: 0;
+	text-align: center;
+	text-shadow: 0px -1px 2px rgba(0,0,0,0.9);
+	top: 0;
+	width: 20px;
+}

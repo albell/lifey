@@ -1,0 +1,9 @@
+{
+	"name": "Candelabra",
+	"pattern": "4b2o4b2o4b$bo2bo6bo2bob$obobo6bobobo$bo2bob4obo2bob$4bobo2bobo4b$5bo4bo",
+	"author": "Charles Trawick",
+	"comments": "A period 3 oscillator. www.conwaylife.com/wiki/index.php?title=Candelabra",
+	"width": 16,
+	"height": 6,
+	"rule": "3/23"
+}

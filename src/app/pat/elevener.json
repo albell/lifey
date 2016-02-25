@@ -1,0 +1,8 @@
+{
+	"name": "Elevener",
+	"pattern": "4b2o$3bobo$3bo2b$b3o2b$o5b$2o",
+	"comments": "An 11-cell still life. http://www.conwaylife.com/wiki/index.php?title=Elevener",
+	"width": 6,
+	"height": 6,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Trans-Mirrored R-Bee",
+	"pattern": "5bob$b2obobo$obobobo$obob2ob$bo",
+	"comments": "A 14-cell still life made up of two buns facing each other. http://www.conwaylife.com/wiki/index.php?title=Trans-mirrored_R-bee",
+	"width": 7,
+	"height": 5,
+	"rule": "3/23"
+}

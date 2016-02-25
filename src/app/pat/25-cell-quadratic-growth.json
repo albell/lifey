@@ -1,0 +1,9 @@
+{
+	"name": "25-cell quadratic growth",
+	"pattern": "21368bo$21368bo$21369b2o$21371bo$21371bo$21324bo46bo$21325bo45bo$21326bo$21325bo$21324bo$21326b3o151$70b2o$71bo$8b2o$9bo5$o$o$o",
+	"author": "Michael Simkin",
+	"comments": "It had been the smallest known pattern, that exhibits quadratic population growth, before it was superseded by 24-cell quadratic growth and switch engine ping-pong. www.conwaylife.com/wiki/25-cell_quadratic_growth",
+	"width": 21372,
+	"height": 172,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Pi-Heptomino",
+	"pattern": "3o$obo$obo",
+	"comments": "One of 108 heptominoes. www.conwaylife.com/wiki/index.php?title=Pi-heptomino",
+	"width": 3,
+	"height": 3,
+	"rule": "3/23"
+}

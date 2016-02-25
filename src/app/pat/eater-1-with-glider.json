@@ -1,0 +1,8 @@
+{
+	"name": "Eater 1 with Glider",
+	"pattern": "2bo5b$obo5b$b2o5b$4b2o2b$4bobob$6bob$6b2o",
+	"comments": "An eater 1 about to eat a glider. www.conwaylife.com/wiki/index.php?title=Eater_1",
+	"width": 8,
+	"height": 7,
+	"rule": "3/23"
+}

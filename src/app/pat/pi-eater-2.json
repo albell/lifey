@@ -1,0 +1,8 @@
+{
+	"name": "Pi Eater 2",
+	"pattern": "2o19b2o$bo8b3o8bob$bobo6bobo6bobob$2b2o6bobo6b2o",
+	"comments": "A pi eater. www.conwaylife.com/wiki/index.php?title=Pi-heptomino",
+	"width": 23,
+	"height": 4,
+	"rule": "3/23"
+}

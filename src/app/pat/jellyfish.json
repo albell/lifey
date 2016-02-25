@@ -1,0 +1,8 @@
+{
+	"name": "Jellyfish",
+	"pattern": "bo2b$obob$3bo$2bo",
+	"comments": "A c/7 period 7 diagonal spaceship for the move rule. www.conwaylife.com/wiki/index.php?title=Move",
+	"width": 4,
+	"height": 4,
+	"rule": "245/368"
+}

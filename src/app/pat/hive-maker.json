@@ -1,0 +1,8 @@
+{
+	"name": "Hive Maker",
+	"comments": "A period 4 diagonal lightspeed fuse that creates beehives as its burns. www.conwaylife.com/wiki/index.php?title=Hive_maker",
+	"width": 33,
+	"height": 30,
+	"rule": "3/23",
+	"pattern": "31b2o$30bobo$29bo$28bo$27bo$26bo$25bo$24bo$23bo$22bo$21bo$20bo$19bo$18bo$17bo$16bo$15bo$14bo$13bo$12bo$11bo$10bo$9bo$8bo$7bo$6bo$5bo$4bo$3bo$3o"
+}

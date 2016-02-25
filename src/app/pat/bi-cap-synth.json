@@ -1,0 +1,9 @@
+{
+	"name": "Bi-cap Synth",
+	"pattern": "11bobo49b$11b2o17bo32b$12bo16bo33b$9bo19b3o31b$7b2o54b$8b2o53b11$60b2ob$59bo2bo$o58b4o$obo60b$2o57b4o$59bo2bo$60b2ob$5b2o56b$4b2o57b$6bo56b3$3b2o58b$3bobo57b$3bo59b5$25b3o35b$12bo12bo37b$11b2o13bo36b$11bobo49b7$44b2o17b$44bobo16b$44bo",
+	"author": "Dean Hickerson",
+	"comments": "Glider synthesis of bi-cap. www.conwaylife.com/wiki/index.php?title=Bi-cap",
+	"width": 63,
+	"height": 48,
+	"rule": "3/23"
+}

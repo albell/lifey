@@ -1,0 +1,8 @@
+{
+	"name": "17c/45_Reaction",
+	"pattern": "15bo$o13b2o$o12b2ob$o13b2o$15bo",
+	"comments": "A reaction between a pi-heptomino and a blinker in which the pi moves forward 17 cells in the course of 45 generations while the blinker moves back 6 cells and is rephased.",
+	"width": 16,
+	"height": 5,
+	"rule": "3/23"
+}

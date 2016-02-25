@@ -1,0 +1,8 @@
+{
+	"name": "Ship on Long Boat",
+	"pattern": "2o5b$obo4b$b2o4b$3b2o2b$3bobob$4bobo$5bo",
+	"comments": "A 13-cell still life. http://www.conwaylife.com/wiki/index.php?title=Ship_on_long_boat",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

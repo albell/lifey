@@ -1,0 +1,8 @@
+{
+	"name": "HWSS Blinker Fuse",
+	"pattern": "b6o21b$o5bo21b$6bo21b$o4bo22b$2b2o24b2$3bo3bo3bo3bo3bo3bo3bo$3bo3bo3bo3bo3bo3bo3bo$3bo3bo3bo3bo3bo3bo3bo",
+	"comments": "A c/2 orthogonal period 8 blinker fuse. www.conwaylife.com/wiki/index.php?title=Blinker_fuse",
+	"width": 28,
+	"height": 9,
+	"rule": "3/23"
+}

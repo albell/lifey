@@ -1,0 +1,8 @@
+{
+	"name": "Hat",
+	"pattern": "2bo2b$bobob$bobob$2ob2o",
+	"comments": "A 9-cell still life. http://www.conwaylife.com/wiki/index.php?title=Hat",
+	"width": 5,
+	"height": 4,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Bomber Predecessor",
+	"pattern": "b3o6b$o9b$o9b$o8bo$9bo$9bo",
+	"author": "Nathan Thompson",
+	"comments": "A predecessor of the bomber spaceship in the HighLife rule. www.conwaylife.com/wiki/index.php?title=HighLife",
+	"width": 10,
+	"height": 6,
+	"rule": "23/36"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Eater 5 Eating Gliders",
+	"pattern": "2bo10b$obo10b$b2o10b2$7bo5b$7bobo3b$7b2o4b2$11b2o$7bo3b2o$6bobo4b$5bobo5b$5bo7b$4b2o",
+	"comments": "An eater 5 eating gliders from different directions",
+	"width": 13,
+	"height": 14,
+	"rule": "3/23"
+}

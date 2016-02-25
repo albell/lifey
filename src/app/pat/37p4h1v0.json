@@ -1,0 +1,10 @@
+{
+	"name": "37p4h1v0",
+	"author": "Josh Ball",
+	"comments": "37P4H1V0 is an unnamed c/4 orthogonal spaceship. It is currently the smallest known c/4 orthogonal spaceship. It was discovered in April 2012.",	
+	"width": 19,
+	"height": 12,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "bo$bo8bo$obo5bo3bo$8bo3b2o$5bob2o5b2o$b6o2bo6bo$2b2o6bo3b3o$10bo3bob2o$13bo$18bo$17bo$17bo"
+}

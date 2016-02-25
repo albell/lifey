@@ -1,0 +1,9 @@
+{
+	"name": "Protein",
+	"pattern": "4b2o7b$4bo8b$6bo6b$2b4obob2o2b$bo5bobo2bo$bo2b2obobob2o$2obo5bo3b$3bo2b2obo3b$3bo4bo4b$4b4o5b2$4b2o7b$4b2o",
+	"author": "David Buckingham",
+	"comments": "A period 3 oscillator found in November 1972. www.conwaylife.com/wiki/index.php?title=Protein",
+	"width": 13,
+	"height": 13,
+	"rule": "3/23"
+}

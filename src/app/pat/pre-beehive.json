@@ -1,0 +1,8 @@
+{
+	"name": "Pre-Beehive",
+	"pattern": "3o$3o",
+	"comments": "A common parent of the beehive. http://www.conwaylife.com/wiki/index.php?title=Pre-beehive",
+	"width": 3,
+	"height": 2,
+	"rule": "3/23"
+}

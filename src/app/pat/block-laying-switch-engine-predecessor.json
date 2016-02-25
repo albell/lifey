@@ -1,0 +1,8 @@
+{
+	"name": "Block-Laying Switch Engine Predecessor",
+	"pattern": "11bobo2b$2o8bo5b$2o9bo2bob$13b3o",
+	"comments": "A simple 12-cell pattern that evolves into the diagonal period 288 c/12 block-laying switch engine puffer. www.conwaylife.com/wiki/index.php?title=Block-laying_switch_engine",
+	"width": 16,
+	"height": 4,
+	"rule": "3/23"
+}

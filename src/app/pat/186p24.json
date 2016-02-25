@@ -1,0 +1,9 @@
+{
+	"name": "186P24",
+	"pattern": "22bo10bo24b$21bobo8bobo23b$22bo10bo24b2$3ob3o12bo5bo4bo5bo12b3ob3o2b$3bo6bo3bo4bo5bo4bo5bo4bo3bo6bo5b$2o3b2o3bob3o3bo7bo2bo7bo3b3obo3b2o3b2o2b$3bo6bo3bo4bo5bo4bo5bo4bo3bo6bo5b$3ob3o12bo5bo4bo5bo12b3ob3o2b2$22bo35b$20b3o9b3o23b$19bo7b3o7b2o19b$19b2o7b3o7bo19b$23b3o9b3o20b$35bo22b2$2b3ob3o12bo5bo4bo5bo12b3ob3o$5bo6bo3bo4bo5bo4bo5bo4bo3bo6bo3b$2b2o3b2o3bob3o3bo7bo2bo7bo3b3obo3b2o3b2o$5bo6bo3bo4bo5bo4bo5bo4bo3bo6bo3b$2b3ob3o12bo5bo4bo5bo12b3ob3o2$24bo10bo22b$23bobo8bobo21b$24bo10bo",
+	"author": "Bill Gosper",
+	"comments": "One of the first period 24 oscillators to be found. Discovered in 1994. www.conwaylife.com/wiki/index.php?title=186P24",
+	"width": 58,
+	"height": 26,
+	"rule": "3/23"
+}

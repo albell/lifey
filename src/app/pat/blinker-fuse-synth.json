@@ -1,0 +1,8 @@
+{
+	"name": "Blinker Fuse Synth",
+	"comments": "Glider synthesis of Blinker Fuse. http://conwaylife.com/wiki/index.php?title=Blinker_fuse",
+	"width": 59,
+	"height": 49,
+	"rule": "3/23",
+	"pattern": "19bobo$19b2o$20bo22$3ob3ob3ob3ob3ob3ob3ob3ob3ob3ob3ob3ob3ob3ob3o22$20bo$19b2o$19bobo"
+}

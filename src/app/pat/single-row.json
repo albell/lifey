@@ -1,0 +1,12 @@
+{
+	"name": "Single row",
+	"author": "Anonymous Bosch",
+	"comments": "A horizontal line. Creates scanlines on a torus, or Sierpinski triangles on a plane.",
+	"width": 1024,
+	"height": 1,
+	"rule": "3/23",
+	"minCanvasX": 1024,
+	"minCanvasY": 1025,
+	"toroidal": true,
+	"pattern": "1024o"
+}

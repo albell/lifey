@@ -1,0 +1,13 @@
+{
+	"name": "Justyna",
+	"author": "Andrzej Okrasinski",
+	"comments": "A methuselah with lifespan 26458. Discovered in May 2004. www.conwaylife.com/wiki/index.php?title=Justyna",
+	"width": 22,
+	"height": 17,
+	"rule": "23/3",
+	"minCanvasX": 800,
+	"minCanvasY": 800,
+	"offsetX": 375,
+	"offsetY": 300,
+	"pattern": "17bo4b$16bo2bo2b$17b3o2b$17bo2bob2$2o16bo3b$bo16bo3b$18bo3b8$19b3o$11b3o"
+}

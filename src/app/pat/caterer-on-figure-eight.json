@@ -1,0 +1,8 @@
+{
+	"name": "Caterer on Figure Eight",
+	"pattern": "4b2o6bo5b$2bob2o4bo3b4o$bo8bo3bo3b$4bo5bo7b$2obo9bo4b$2o9b2o",
+	"comments": "The smallest known period 24 oscillator. www.conwaylife.com/wiki/index.php?title=Caterer_on_figure_eight",
+	"width": 18,
+	"height": 6,
+	"rule": "3/23"
+}

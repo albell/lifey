@@ -1,0 +1,8 @@
+{
+	"name": "Beehive at Loaf",
+	"pattern": "4bob$3bobo$3bobo$b2obob$o2bo2b$obo3b$bo",
+	"comments": "A 13-cell still life. http://www.conwaylife.com/wiki/index.php?title=Beehive_at_loaf",
+	"width": 6,
+	"height": 7,
+	"rule": "3/23"
+}

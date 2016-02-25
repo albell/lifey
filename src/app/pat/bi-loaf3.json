@@ -1,0 +1,8 @@
+{
+	"name": "Bi-loaf 3",
+	"pattern": "2bob$bobo$o2bo$b2ob$o2bo$obob$bo",
+	"comments": "A small pure glider generator. www.conwaylife.com/wiki/index.php?title=Bi-loaf_3",
+	"width": 4,
+	"height": 7,
+	"rule": "3/23"
+}

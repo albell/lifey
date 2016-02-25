@@ -1,0 +1,8 @@
+{
+	"name": "House",
+	"pattern": "b3ob$o3bo$2ob2o",
+	"comments": "An induction coil. http://www.conwaylife.com/wiki/index.php?title=House",
+	"width": 5,
+	"height": 3,
+	"rule": "23/3"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Bi-block",
+	"pattern": "2ob2o$2ob2o",
+	"comments": "An 8-cell pseudo still life. www.conwaylife.com/wiki/index.php?title=Bi-block",
+	"width": 5,
+	"height": 2,
+	"rule": "3/23"
+}

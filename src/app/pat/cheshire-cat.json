@@ -1,0 +1,9 @@
+{
+	"name": "Cheshire Cat",
+	"pattern": "bo2bob$b4ob$o4bo$ob2obo$o4bo$b4o",
+	"author": "C. R. Tompkins",
+	"comments": "A block predecessor. http://www.conwaylife.com/wiki/index.php?title=Cheshire_cat",
+	"width": 6,
+	"height": 6,
+	"rule": "3/23"
+}

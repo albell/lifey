@@ -1,0 +1,9 @@
+{
+	"name": "Beehive and Long Hook Eating Tub",
+	"pattern": "5bo3bob$bob2obobobo$obo3bobobo$bo4bo2bob$5b2o",
+	"author": "Robert Wainwright",
+	"comments": "A period 3 oscillator. www.conwaylife.com/wiki/index.php?title=Beehive_and_long_hook_eatin g_tub",
+	"width": 11,
+	"height": 5,
+	"rule": "3/23"
+}

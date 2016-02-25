@@ -1,0 +1,9 @@
+{
+	"name": "Two Pulsar Quadrants",
+	"pattern": "4bo4b$4bo4b$3b2o4b$2bo6b$o2bo2b3o$o3bobo2b$o4bo3b2$2b3o",
+	"author": "David Buckingham",
+	"comments": "A period 3 oscillator found in July 1973. www.conwaylife.com/wiki/index.php?title=Two_pulsar_quadrants",
+	"width": 9,
+	"height": 9,
+	"rule": "3/23"
+}

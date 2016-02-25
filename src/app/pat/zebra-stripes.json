@@ -1,0 +1,12 @@
+{
+	"name": "Zebra Stripes",
+	"comments": "Zebra stripes is a still life agar consisting of alternating bands of live cells and unoccupied cells. http://conwaylife.com/wiki/Zebra_stripes",
+	"width": 160,
+	"height": 159,
+	"minCanvasX": 160,
+	"minCanvasY": 160,
+	"offsetY": 0,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o2$160o"
+}

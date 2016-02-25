@@ -1,0 +1,9 @@
+{
+	"name": "Spiral",
+	"pattern": "2o4bo$bo2b3o$bobo3b$2bobo2b$3bobob$3o2bob$o4b2o",
+	"author": "Robert Wainwright",
+	"comments": "A 20-cell still life consisting of a tub with four tails. http://www.conwaylife.com/wiki/index.php?title=Spiral",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

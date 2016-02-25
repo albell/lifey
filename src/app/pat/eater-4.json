@@ -1,0 +1,9 @@
+{
+	"name": "Eater 4",
+	"pattern": "3b2o9b$3bo10b$2obo10b$o2b2o9b$b2o4bo6b$3b5o6b$3bo4b2o4b$4b2o2bo5b$6bobo5b$6bobobo2bo$7b2ob4o$9bo4b$9bobo2b$10b2o",
+	"author": "David Buckingham",
+	"comments": "A 40-cell still life and eater that doesn't eat gliders, but does eat other objects. http://www.conwaylife.com/wiki/index.php?title=Eater_4",
+	"width": 14,
+	"height": 14,
+	"rule": "3/23"
+}

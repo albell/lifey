@@ -1,0 +1,8 @@
+{
+	"name": "Beehive Fuse",
+	"comments": "A diagonal 3c/32 period 128 fuse. www.conwaylife.com/wiki/index.php?title=Beehive_fuse",
+	"width": 42,
+	"height": 44,
+	"rule": "3/23",
+	"pattern": "2ob2o$o3bo$b3o3$3b2o$2bo2bo$3b2o6$7bo$6bobo$6bobo$7bo$15b2o$14bo2bo$15b2o6$19bo$18bobo$18bobo$19bo$27b2o$26bo2bo$27b2o6$31bo$30bobo$30bobo$31bo$39b2o$38bo2bo$39b2o"
+}

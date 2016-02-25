@@ -1,0 +1,8 @@
+{
+	"name": "Century",
+	"pattern": "2b2o$3ob$bo",
+	"comments": "A methuselah with lifespan 103. http://www.conwaylife.com/wiki/index.php?title=Century",
+	"width": 4,
+	"height": 3,
+	"rule": "3/23"
+}

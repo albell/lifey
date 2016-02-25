@@ -1,0 +1,9 @@
+{
+	"name": "46P22",
+	"pattern": "2o13b2o$o15bo$b3o9b3ob$3bo9bo3b2$6bo3bo6b$5bobobobo5b$b3obobobobob3ob$6bo3bo6b4$3bo9bo3b$b3o9b3ob$o15bo$2o13b2o",
+	"author": "Jason Summers",
+	"comments": "A period 22 oscillator discovered on September 8, 2005 www.conwaylife.com/wiki/index.php?title=46P22",
+	"width": 17,
+	"height": 16,
+	"rule": "3/23"
+}

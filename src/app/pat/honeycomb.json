@@ -1,0 +1,8 @@
+{
+	"name": "Honeycomb",
+	"pattern": "2b2o2b$bo2bob$ob2obo$bo2bob$2b2o",
+	"comments": "A symmetric 12-cell still life. http://www.conwaylife.com/wiki/index.php?title=Honeycomb",
+	"width": 6,
+	"height": 5,
+	"rule": "3/23"
+}

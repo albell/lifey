@@ -1,0 +1,8 @@
+{
+	"name": "Glider-Producing Switch Engine Predecessor",
+	"pattern": "bobo24b$o27b$bo2bo23b$3b3o22b$26b2o$26b2o",
+	"comments": "A simple predecessor of the diagonal period 384 c/12 glider-producing switch engine puffer. www.conwaylife.com/wiki/index.php?title=Glider-producing_switch_engine",
+	"width": 28,
+	"height": 6,
+	"rule": "23/3"
+}

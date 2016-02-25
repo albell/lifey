@@ -1,0 +1,9 @@
+{
+	"name": "Honey Thieves",
+	"pattern": "2o$bo$bobo9b2o$2bobo8bo$11bobo$11b2o$5b2o$5b2ob2o$8b2o$2b2o$bobo$bo8bobo$2o9bobo$13bo$13b2o",
+	"author": "Matthias Merzenich",
+	"comments": "The smallest known period 17 oscillator in terms of population as of December 2014. www.conwaylife.com/wiki/Honey_thieves",
+	"width": 15,
+	"height": 15,
+	"rule": "3/23"
+}

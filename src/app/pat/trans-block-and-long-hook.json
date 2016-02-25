@@ -1,0 +1,8 @@
+{
+	"name": "Trans-Block and Long Hook",
+	"pattern": "3b2o$o3bo$4ob2$2o3b$2o",
+	"comments": "A 12-cell still life. http://www.conwaylife.com/wiki/index.php?title=Trans-block_and_long_hook",
+	"width": 5,
+	"height": 6,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Blinker",
+	"pattern": "3o",
+	"author": "John Conway",
+	"comments": "A period 2 oscillator that is the smallest and most common oscillator. www.conwaylife.com/wiki/index.php?title=Blinker",
+	"width": 3,
+	"height": 1,
+	"rule": "3/23"
+}

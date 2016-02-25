@@ -1,0 +1,8 @@
+{
+	"name": "Test Tube Baby",
+	"pattern": "2o4b2o$obo2bobo$2bo2bo2b$2bo2bo2b$3b2o",
+	"comments": "A period 2 oscillator. www.conwaylife.com/wiki/index.php?title=Test_tube_baby",
+	"width": 8,
+	"height": 5,
+	"rule": "3/23"
+}

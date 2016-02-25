@@ -1,0 +1,8 @@
+{
+	"name": "1 beacon",
+	"pattern": "2b2o3b$bobo3b$o2bob2o$2obo2bo$bobo3b$bo2bo2b$2b2o",
+	"comments": "Approximately the 32nd-most common oscillator. www.conwaylife.com/wiki/index.php?title=1_beacon",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

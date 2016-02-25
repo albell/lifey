@@ -1,0 +1,8 @@
+{
+	"name": "Killer Toads",
+	"pattern": "b3o$3ob4$3ob$b3o",
+	"comments": "A period 2 oscillator made up of a pair of toads acting together so that they can eat things. www.conwaylife.com/wiki/index.php?title=Killer_toads",
+	"width": 4,
+	"height": 7,
+	"rule": "3/23"
+}

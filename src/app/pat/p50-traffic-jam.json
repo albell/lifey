@@ -1,0 +1,9 @@
+{
+	"name": "P50 Traffic Jam",
+	"pattern": "2o44b2o$o2b3o36b3o2bo$b2o30b3o9b2ob$6bo18bo15bo6b$6bo3bo12b2ob2o3bo5bo3bo6b$b2o5b2ob2o12bo5bo5bo7b2ob$o2b3o4bo20bo5bo4b3o2bo$2o44b2o$33b3o12b2$6bo2bo28bo2bo6b$5bob2obo26bob2obo5b$6bo2bo28bo2bo6b$6bo2bo28bo2bo6b$5bob2obo26bob2obo5b$6bo2bo28bo2bo",
+	"author": "Noam Elkies",
+	"comments": "The smallest known period 50 oscillator; discovered on October 16 1994 http://www.conwaylife.com/wiki/index.php?title=P50_traffic_jam",
+	"width": 48,
+	"height": 16,
+	"rule": "3/23"
+}

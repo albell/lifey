@@ -1,0 +1,9 @@
+{
+	"name": "Harvester",
+	"author": "David Poyner",
+	"comments": "A diagonal period 4 lightspeed fuse that was the first published example of a fuse. www.conwaylife.com/wiki/index.php?title=Harvester",
+	"width": 30,
+	"height": 27,
+	"rule": "23/3",
+	"pattern": "28b2o$27bobo$26bo$25bo$24bo$23bo$22bo$21bo$20bo$19bo$18bo$17bo$16bo$15bo$14bo$13bo$12bo$11bo$10bo$9bo$8bo$7bo$6bo$5bo$5o$4o$ob2o"
+}

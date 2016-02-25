@@ -1,0 +1,8 @@
+{
+	"name": "Anvil",
+	"pattern": "b4o2b$o4bob$b3obob$3bob2o",
+	"comments": "An induction coil.",
+	"width": 7,
+	"height": 4,
+	"rule": "3/23"
+}

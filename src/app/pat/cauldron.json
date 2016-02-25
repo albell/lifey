@@ -1,0 +1,9 @@
+{
+	"name": "Cauldron",
+	"pattern": "5bo5b$4bobo4b$5bo5b2$3b5o3b$obo5bobo$2obo3bob2o$3bo3bo3b$3bo3bo3b$4b3o4b2$4b2obo3b$4bob2o",
+	"author": "Robert Wainwright and Don Woods",
+	"comments": "A period 8 oscillator found in 1971. http://www.conwaylife.com/wiki/index.php?title=Cauldron",
+	"width": 11,
+	"height": 13,
+	"rule": "3/23"
+}

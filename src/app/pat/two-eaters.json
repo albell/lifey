@@ -1,0 +1,9 @@
+{
+	"name": "Two Eaters",
+	"pattern": "2o7b$bo7b$bobo5b$2b2o5b$5b2o2b$5bobob$7bob$7b2o",
+	"author": "Bill Gosper",
+	"comments": "A period 3 oscillator that was found in September 1971. www.conwaylife.com/wiki/index.php?title=Two_eaters",
+	"width": 9,
+	"height": 8,
+	"rule": "3/23"
+}

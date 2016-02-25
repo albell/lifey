@@ -1,0 +1,8 @@
+{
+	"name": "JS P36",
+	"comments": "JS p36 is a period 36 oscillator found by Jason Summers in July 2004. It is used in Jason's p36 gun found at the same time. It is made of a reaction between two B-heptominoes hassled by two jams and two eater 1s. http://www.conwaylife.com/wiki/JS_p36",
+	"width": 39,
+	"height": 18,
+	"rule": "3/23",
+	"pattern": "26b2o$2o23bo2bo$bo21bo2bobo$bobo18bo4bo$2b2o18bo$13b3o8b3o$13bo$13bobo$14b2o$23b2o$23bobo$25bo$12b3o8b3o$16bo18b2o$11bo4bo18bobo$10bobo2bo21bo$10bo2bo23b2o$11b2o"
+}

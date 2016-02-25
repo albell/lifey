@@ -1,0 +1,8 @@
+{
+	"name": "Eater on Boat",
+	"pattern": "b2o2b$bobob$3bob$3b2o$b2o2b$obo2b$bo",
+	"comments": "A 12-cell still life consisting of an eater 1 and a boat. http://www.conwaylife.com/wiki/index.php?title=Eater_on_boat",
+	"width": 5,
+	"height": 7,
+	"rule": "3/23"
+}

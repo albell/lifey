@@ -1,0 +1,9 @@
+{
+	"name": "p46 Gun",
+	"pattern": "30b2o17b$29bobo15b2o$29bo17b2o$17bo11b3o17b$2o15b2o30b$2o16b2o29b$13b2o2b2o30b$29b3o17b$29bo17b2o$29bobo15b2o$13b2o2b2o11b2o17b$2o16b2o29b$2o15b2o30b$17bo",
+	"author": "Bill Gosper",
+	"comments": "The smallest known period-46 gun",
+	"width": 49,
+	"height": 14,
+	"rule": "3/23"
+}

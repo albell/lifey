@@ -1,0 +1,8 @@
+{
+	"name": "Mold on Fumarole",
+	"pattern": "3b2o4b$2bo2bo3b$bobobo3b$bo2bo4b$o8b$bobo5b2$4b2o3b$2bo4bob$2bo4bob$2bo4bob$3bo2bo2b$bobo2bobo$b2o4b2o",
+	"comments": "The smallest known period 20 oscillator. It is non-trivial becaus of a single cell that oscillates at period 20. www.conwaylife.com/wiki/index.php?title=Mold_on_fumarole",
+	"width": 9,
+	"height": 14,
+	"rule": "3/23"
+}

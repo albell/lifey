@@ -1,0 +1,8 @@
+{
+	"name": "Lake 2",
+	"pattern": "4b2o4b$3bo2bo3b$3bo2bo3b$b2o4b2ob$o8bo$o8bo$b2o4b2ob$3bo2bo3b$3bo2bo3b$4b2o",
+	"comments": "A 24-cell still life. http://www.conwaylife.com/wiki/index.php?title=Lake_2",
+	"width": 10,
+	"height": 10,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Airforce",
+	"pattern": "7bo6b$6bobo5b$7bo6b2$5b5o4b$4bo5bob2o$3bob2o3bob2o$3bobo2bobo3b$2obo3b2obo3b$2obo5bo4b$4b5o5b2$6bo7b$5bobo6b$6bo",
+	"author": "David Buckingham",
+	"comments": "A period 7 oscillator in which the rotor consists of two copies o that used in the burloaferimeter. www.conwaylife.com/wiki/index.php?title=Airforce",
+	"width": 14,
+	"height": 15,
+	"rule": "3/23"
+}

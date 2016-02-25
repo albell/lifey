@@ -1,0 +1,8 @@
+{
+	"name": "Die Hard",
+	"pattern": "6bob$2o6b$bo3b3o",
+	"comments": "A methuselah that dies completely. It has lifespan 130. http://www.conwaylife.com/wiki/index.php?title=Die_hard",
+	"width": 8,
+	"height": 3,
+	"rule": "3/23"
+}

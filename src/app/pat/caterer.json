@@ -1,0 +1,9 @@
+{
+	"name": "Caterer",
+	"pattern": "2bo5b$o3b4o$o3bo3b$o7b$3bo4b$b2o",
+	"author": "Dean Hickerson",
+	"comments": "A period 3 oscillator. www.conwaylife.com/wiki/index.php?title=Caterer",
+	"width": 8,
+	"height": 6,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Ants",
+	"pattern": "2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b$       2b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2ob2b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2ob2b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o$                        2b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2ob2b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2ob2b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o$                                                                                                   2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b2o3b$",
+	"comments": "An orthogonal period 5 lightspeed wick. www.conwaylife.com/wiki/index.php?title=Ants",
+	"width": 179,
+	"height": 4,
+	"rule": "3/23"
+}

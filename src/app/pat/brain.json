@@ -1,0 +1,10 @@
+{
+	"name": "Brain",
+	"author": "David Bell",
+	"comments": "An orthogonal period 3 c/3 spaceship. www.conwaylife.com/wiki/index.php?title=Brain",
+	"width": 17,
+	"height": 11,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "b3o9b3ob$obob2o5b2obobo$obobo7bobobo$bob2ob2ob2ob2obob$5bobobobo5b$3bobobobobobo3b$2b2obobobobob2o2b$2b3o2bobo2b3o2b$2b2o2bo3bo2b2o2b$bo4b2ob2o4bob$bo13bo"
+}

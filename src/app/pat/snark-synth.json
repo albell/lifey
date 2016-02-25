@@ -1,0 +1,9 @@
+{
+	"name": "Snark Synth",
+	"author": "Ivan Fomichev",
+	"comments": "Continuous synthesis of the snark, with improvements by Mark Niemiec. http://conwaylife.com/wiki/Snark",
+	"width": 216,
+	"height": 212,
+	"rule": "3/23",
+	"pattern": "194bo8bo$194bobo4b2o12bo$194b2o6b2o9b2o$214b2o11$191bo$189b2o$190b2o2$13bobo$14b2o$14bo2$178bo$177bo$2bo174b3o$obo$b2o7$4bobo8bo149bo$5b2o9b2o145b2o$5bo9b2o147b2o4$158bo$157bo$157b3o5$29bo$30b2o118bobo$29b2o119b2o$151bo$35bo125bo5bo$33bobo120bo3bo5bo$34b2o118b2o4b3o3b3o$155b2o2$37bo$35bobo$36b2o9$151bo$150bo$150b3o12$140bobo$140b2o$141bo14$126bo$124b2o$125b2o4$93bo$94b2o$93b2o2$106bo$105bo$105b3o$117bobo$86bobo28b2o$87b2o29bo$87bo7$91b3o$93bo$92bo$110b2o$109b2o$111bo7$118b2o9b2o$86b2o30bobo8bobo$85bobo30bo10bo$87bo2$118b2o$117b2o$119bo$125b2o$83b2o39b2o$82bobo41bo$84bo5$144bo$143b2o$143bobo4$151b3o$151bo$152bo3$148b2o$147b2o$149bo6$164bo$163b2o$163bobo$147bo$146b2o$146bobo$27bo$27b2o$26bobo6$19bo9b3o$19b2o10bo$18bobo9bo125b2o$156bobo$23b2o131bo$22bobo$24bo7$22b2o$23b2o$22bo174bo$196b2o$196bobo5$206b2o$206bobo$206bo3$181b3o$181bo$4b2o176bo$3bobo$5bo"
+}

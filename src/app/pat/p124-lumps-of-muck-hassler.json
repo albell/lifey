@@ -1,0 +1,8 @@
+{
+	"name": "P124 Lumps of Muck Hassler",
+	"comments": "P124 Lumps of Muck Hassler is a period 124 oscillator discovered by Dean Hickerson on July 31, 1994. It operates by hassling a lumps of muck pattern in two different possitions. http://www.conwaylife.com/wiki/P124_lumps_of_muck_hassler",
+	"width": 39,
+	"height": 38,
+	"rule": "3/23",
+	"pattern": "20bo$14b2o3bobo3b2o$13bobo4bo4bobo$13bo13bo$10b2obo13bob2o$10b2obobob7obobob2o$13bobo9bobo$13bobo9bobo$14bo3bobobo3bo$32bo$32bobo$31bobo$33bo$3bo$3b3o$6bo30b2o$5b2o30b2o3$13b3o$11b2o2bo$2o9bo2b2o16b2o$2o9b3o18bo$17bo15b3o$16bobo16bo$5bo12b2o$5bobo$4bobo$6bo$12bo11bo$11bobo3b3o3bobo$11bob4o3b4obo$8b2obo13bob2o$8b2ob2o2b2o3b2o2b2ob2o$11bo13bo$11bobo4bo4bobo$12b2o3bobo3b2o$18bo"
+}

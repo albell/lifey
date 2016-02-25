@@ -1,0 +1,8 @@
+{
+	"name": "Mold and Long Hook Eating Tub",
+	"pattern": "bobo2b$o5b$bo2bob$bobobo$2bo2bo$3b2ob2$b4ob$o3bob$bo4b$bo4b$2bo3b$bobo2b$2bo",
+	"comments": "The smallest known period 12 oscillator, though it is usually considered trivial because it is made up of a period 3 and a period 4 oscillator. www.conwaylife.com/wiki/index.php?title=Mold_and_long_hook_eating_tub",
+	"width": 6,
+	"height": 14,
+	"rule": "3/23"
+}

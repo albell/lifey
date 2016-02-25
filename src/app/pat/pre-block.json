@@ -1,0 +1,8 @@
+{
+	"name": "Pre-Block",
+	"pattern": "ob$2o",
+	"comments": "A block parent. http://www.conwaylife.com/wiki/index.php?title=Pre-block",
+	"width": 2,
+	"height": 2,
+	"rule": "3/23"
+}

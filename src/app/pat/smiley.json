@@ -1,0 +1,9 @@
+{
+	"name": "Smiley",
+	"pattern": "3ob3o$bobobob2$bo3bob2$obobobo$2bobo",
+	"author": "Achim Flammenkamp",
+	"comments": "A period 8 oscillator found in July 1994. www.conwaylife.com/wiki/index.php?title=Smiley",
+	"width": 7,
+	"height": 7,
+	"rule": "23/3"
+}

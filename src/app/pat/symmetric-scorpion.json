@@ -1,0 +1,8 @@
+{
+	"name": "Symmetric Scorpion",
+	"pattern": "3bo3b$b5ob$o5bo$obobobo$b2ob2o",
+	"comments": "A 16-cell still life. http://www.conwaylife.com/wiki/index.php?title=Symmetric_scorpion",
+	"width": 7,
+	"height": 5,
+	"rule": "3/23"
+}

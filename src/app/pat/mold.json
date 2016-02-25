@@ -1,0 +1,9 @@
+{
+	"name": "Mold",
+	"pattern": "3b2ob$2bo2bo$o2bobo$4bob$ob2o2b$bo",
+	"author": "Achim Flammenkamp",
+	"comments": "The smallest period 4 oscillator. http://www.conwaylife.com/wiki/index.php?title=Mold",
+	"width": 6,
+	"height": 6,
+	"rule": "3/23"
+}

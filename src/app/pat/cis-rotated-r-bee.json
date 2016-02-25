@@ -1,0 +1,8 @@
+{
+	"name": "Cis-Rotated R-Bee",
+	"pattern": "4b2ob$bo2bobo$obobobo$obo2bob$b2o",
+	"comments": "A 14-cell still life composed of two buns. http://www.conwaylife.com/wiki/index.php?title=Cis-rotated_R-bee",
+	"width": 7,
+	"height": 5,
+	"rule": "3/23"
+}

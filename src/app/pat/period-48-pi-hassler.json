@@ -1,0 +1,8 @@
+{
+	"name": "period-48-pi-hassler",
+	"comments": "Period-48 pi hassler is a period 48 oscillator discovered by Matthias Merzenich in June, 2011. It usese two Blocked p4-4s. http://www.conwaylife.com/wiki/Period-48_pi_hassler",
+	"width": 33,
+	"height": 26,
+	"rule": "3/23",
+	"pattern": "13bo$3b2o8b3o$3b2o11bo7b2o$15b2o7bo$b6o15bobo$o6bo14b2o$2o2b3o21b2o$28bobo$4bo20b2obobo$4bo2bo17bobobo$o3bo22bo$o3bo20bo2bo$o3bo3bo8b2o9bo$4bo12bobo4bo3bo3bo$4bo2bo11bo8bo3bo$5bo11bobo8bo3bo$3bobobo9b2o6bo2bo$2bobob2o20bo$2bobo$3b2o21b3o2b2o$9b2o14bo6bo$8bobo15b6o$8bo7b2o$7b2o7bo11b2o$17b3o8b2o$19bo"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "1 Beacon Synth",
+	"author": "Mark D. Niemiec",
+	"comments": "A 10-glider synthesis of 1 beacon http://www.conwaylife.com/wiki/index.php?title=1_beacon",
+	"width": 35,
+	"height": 30,
+	"rule": "3/23",
+	"pattern": "10bo24b$8bobo24b$9b2o3bobo18b$4bobo7b2o19b$5b2o8bo19b$5bo29b2$16bo18b$14b2o6bo12b$3bo11b2o3b2o13b$4bo16b2o12b$2b3o25b2o3b$29bobo3b$28bo2bob2o$28b2obo2bo$obo26bobo3b$b2o2bobo21bo2bo2b$bo3b2o23b2o3b$6bo28b$18b2o15b$17b2o16b$19bo15b6$9b3o23b$9bo25b$10bo"
+}

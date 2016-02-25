@@ -1,0 +1,9 @@
+{
+	"name": "Cis-Boat and Long Hook Eating Tub",
+	"pattern": "5bo5b$bob2obob2ob$obo3bobobo$bo4bo2bob$5b2o",
+	"author": "Robert Wainwright",
+	"comments": "A period 3 oscillator. www.conwaylife.com/wiki/index.php?title=Cis-boat_and_long_hook_eati ng_tub",
+	"width": 11,
+	"height": 5,
+	"rule": "3/23"
+}

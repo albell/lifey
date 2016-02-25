@@ -1,0 +1,9 @@
+{
+	"name": "Turning Toads",
+	"pattern": "15bo6bo14b$14b2o5b2o6b2o6b$6b3obobob2obobob2obobo10b$2b2obo6bobo4bobo4bobo2bob2o2b$o2bobo3bo18b4obo2bo$2obobo27bob2o$3bo29bo3b$3b2o27b2o",
+	"author": "Dean Hickerson",
+	"comments": "An orthogonal period 4 wick that was found in October 1989. www.conwaylife.com/wiki/index.php?title=Turning_toads",
+	"width": 37,
+	"height": 8,
+	"rule": "23/3"
+}

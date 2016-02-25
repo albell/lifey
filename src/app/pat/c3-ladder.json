@@ -1,0 +1,8 @@
+{
+	"name": "c/3 Ladder",
+	"pattern": "o4b$3o2b$b3ob$ob3o$ob2ob$b2o2b$3o2b$o",
+	"comments": "A naturally-occurring c/3 ladder in the Life without death rule. www.conwaylife.com/wiki/index.php?title=Life_without_death",
+	"width": 5,
+	"height": 8,
+	"rule": "3/012345678"
+}

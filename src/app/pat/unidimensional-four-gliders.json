@@ -1,0 +1,8 @@
+{
+	"name": "Unidimensional Four Gliders",
+	"pattern": "56o",
+	"comments": "A solid 56-by-1 rectangle that is the shortest solid rectangle to p roduce a glider. www.conwaylife.com/wiki/index.php?title=Unidimensional_pattern",
+	"width": 56,
+	"height": 1,
+	"rule": "3/23"
+}

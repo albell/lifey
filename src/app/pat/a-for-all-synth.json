@@ -1,0 +1,9 @@
+{
+	"name": "A for All Synth",
+	"author": "Mark D. Niemiec",
+	"comments": "Glider syntheses of A for All. http://www.conwaylife.com/wiki/A_for_all",
+	"width": 52,
+	"height": 97,
+	"rule": "23/3",
+	"pattern": "17bo$17b2o2b2o$16bobo2bobo$2bobo16bo7bobo$3b2o24b2o$3bo26bo$19b2o$18bobo$20bo25b2o$45bo2bo$45b4o$43bobo2bobo$11bo4b2o24bo8bo$12b2o2bobo23bo8bo$11b2o3bo26bobo2bobo$45b4o$45bo2bo$46b2o$6bobo$7b2o$7bo$16bobo$17b2o$2o15bo14b2o$b2o28b2o$o32bo$16bo$16b2o$15bobo6$6b2o$5bobo$7bo13$26bo$26bobo$26b2o6$16bobo$16b2o$17bo$33bo$31b2o$16bo15b2o$2bobo10b2o$3b2o10bobo$3bo22bo$25b2o$25bobo$46b2o$45bo2bo$45b4o$16b2o25bobo2bobo$15bo2bo23bo8bo$15bo2bo23bo8bo$16b2o25bobo2bobo$45b4o$45bo2bo$46b2o$6bobo$7b2o$7bo22bo$16bobo10b2o$17b2o10bobo$2o15bo$b2o$o$16bo$16b2o$15bobo6$6b2o$5bobo$7bo"
+}

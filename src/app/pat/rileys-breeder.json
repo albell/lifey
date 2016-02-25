@@ -1,0 +1,9 @@
+{
+	"name": "Riley's Breeder",
+	"pattern": "133bo$134bo$130bo3bo$131b4o3$130bo$131bo$132bo$132bo$131b2o4$133bo$134bo$130bo3bo$131b4o9$96bo$97bo$93bo3bo$94b4o8$3bo$4bo$o3bo$b4o",
+	"author": "Mitchell Riley",
+	"comments": "A small MMS breeder, discovered in July 2006.",
+	"width": 135,
+	"height": 41,
+	"rule": "3/23"
+}

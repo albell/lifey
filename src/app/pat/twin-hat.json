@@ -1,0 +1,8 @@
+{
+	"name": "Twin Hat",
+	"pattern": "2bo3bo2b$bobobobob$bobobobob$2obobob2o$4bo",
+	"comments": "A 17-cell still life. http://www.conwaylife.com/wiki/index.php?title=Twin_hat",
+	"width": 9,
+	"height": 5,
+	"rule": "3/23"
+}

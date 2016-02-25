@@ -1,0 +1,8 @@
+{
+	"name": "Block",
+	"pattern": "2o$2o",
+	"comments": "An extremely common 4-cell still life. www.conwaylife.com/wiki/index.php?title=Block",
+	"width": 2,
+	"height": 2,
+	"rule": "3/23"
+}

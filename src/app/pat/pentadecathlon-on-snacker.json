@@ -1,0 +1,8 @@
+{
+	"name": "Pentadecathlon on Snacker",
+	"pattern": "6bo4bo8b$4b2ob4ob2o6b$6bo4bo8b4$2o16b2o$bo16bob$bobo12bobob$2b2o12b2o2b$7bo4bo7b$5b2ob4ob2o5b$7bo4bo7b$2b2o12b2o2b$bobo12bobob$bo16bob$2o16b2o",
+	"comments": "A small period 45 oscillator www.conwaylife.com/wiki/index.php?title=Pentadecathlon_on_snacker",
+	"width": 20,
+	"height": 17,
+	"rule": "3/23"
+}

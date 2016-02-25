@@ -1,0 +1,10 @@
+{
+	"name": "Pushalong 1",
+	"author": "David Bell",
+	"comments": "An orthogonal period 4 c/2 pushalong that attaches to the front of a middleweight spaceship. Found in 1992. www.conwaylife.com/wiki/index.php?title=Pushalong_1",
+	"width": 11,
+	"height": 12,
+	"rule": "23/3",
+	"toroidal": true,
+	"pattern": "3bo7b$bo2bo6b$o3bo6b$o3bo6b$2obo7b$5b2o4b$2bo2b2o4b$4bo6b$7b3ob$6b5o$5b2ob3o$6b2o"
+}

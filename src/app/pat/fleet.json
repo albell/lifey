@@ -1,0 +1,8 @@
+{
+	"name": "Fleet",
+	"pattern": "4b2o4b$3bobo4b$3b2o5b$b2o7b$obo5b2o$2o5bobo$7b2ob$5b2o3b$4bobo3b$4b2o",
+	"comments": "A fairly common 24-cell pseudo still life made up of two ship-ties. http://www.conwaylife.com/wiki/index.php?title=Harbour",
+	"width": 10,
+	"height": 10,
+	"rule": "3/23"
+}

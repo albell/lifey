@@ -1,0 +1,13 @@
+{
+	"name": "Iwona",
+	"author": "Andrew Okrasinski",
+	"comments": "A methuselah with lifespan 28786. Found on August 20, 2004. www.conwaylife.com/wiki/index.php?title=Iwona",
+	"width": 20,
+	"height": 21,
+	"rule": "3/23",
+	"minCanvasX": 800,
+	"minCanvasY": 800,
+	"offsetX": 400,
+	"offsetY": 350,
+	"pattern": "14b3o3b6$2bo17b$3b2o15b$3bo14bob$18bob$18bob$19bo$18b2o$7b2o11b$8bo11b5$2o18b$bo"
+}

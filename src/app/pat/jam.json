@@ -1,0 +1,9 @@
+{
+	"name": "Jam",
+	"pattern": "3b2ob$2bo2bo$o2bobo$o3bob$o5b$3bo2b$b2o",
+	"author": "Achim Flammenkamp",
+	"comments": "A period 3 oscillator. www.conwaylife.com/wiki/index.php?title=Jam",
+	"width": 6,
+	"height": 7,
+	"rule": "3/23"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Figure Eight Puffer",
+	"author": "Kazyan",
+	"comments": "A puffer that creates a trail of figure eight oscillators. Shared May 18, 2014. http://conwaylife.com/forums/viewtopic.php?f=2&t=1383",
+	"width": 125,
+	"height": 87,
+	"rule": "3/23",
+	"minCanvasX": 600,
+	"offsetX": 400,
+	"pattern": "86b6o$86bo5bo$86bo$75b2o10bo4bo$74b2ob3o9b2o4b5o$75b5o15bo4bo$63b4o9b3o16bo$63bo3bo28bo3bo$63bo34bo$64bo15bo$66b2o11b3o6b2o$70b3o5b2o2bo5b2o$63b2o3b2o3bo5b3o$62b2ob3obo2bo7b2o$63b9o$64b4o21bo$88bo$88b3o2$68b6o$68bo5bo$68bo$69bo4bo$71b2o24bo$59b2o35bo$57bo4bo33b3o$56bo15b5o$56bo5bo9bo4bo$56b6o10bo$73bo3bo$75bo$79bo3bo21bo$52b4o23bo4bo19bo$51b9o19b2o4bo18b3o$50b2ob3obo2bo8b2o3bo6bo3bo$51b2o3b2o3bo5b2obo3b2o4b2o3bo2bo$58b3o6bo2bo4bo8bo2bobo$54b2o10b2o12bobo4bobo$52bo28bo6bo12bobo$51bo50b2o9bo$51bo3bo46bo9bo$51b4o57b3o$58b2o24b3o32bo$57b2ob4o19b5o30bobo$58b6o18b2ob3o29bo3bo$59b4o20b2o33bo3bo$119bo3bo$35b4o81bo3bo$34b6o32b4o45bobo$33b2ob4o32bo3bo45bo$34b2o36bo$27b4o42bo2bo$27bo3bo60b3o$27bo47bo14bobo2bo$28bo33bo12b2o17bo$30b2o8b2o13bo5bobo10bobo11b3o$41bobo10bobo4bobo25bobo5b2o$27b2o3b2obo5bob2o3b5o4bo4bo27bo5bobo$26b2ob3ob3o7bo4bo4bo3bo40bo$27b7o9b2o8bobobo$28b4o17b4o2b2o2$51bo$49bo3bo$32b6o10bo24b2o$10b2o20bo5bo9bo4bo18bobo$8bo4bo18bo15b5o21bo$7bo25bo4bo$7bo5bo21b2o$2b2o3b6o$b4o$2ob2o$b2o46b2o$36bo11bobo$14b3o12bo5bobo12bo$5b2o8bob2o4b3o3b2o4bobo$8obo7b2o3b6o2b2o4bo$o8bo12bob2ob2o2b2o$o6bo9b2o4b3obobobo$bo22b3ob3o$3b2o21bo2$7b4o$6b6o10b2o$5b2ob4o9b2ob3o$6b2o14b5o$23b3o"
+}
+

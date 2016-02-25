@@ -1,0 +1,9 @@
+{
+	"name": "Blinkers Bit Pole",
+	"pattern": "5b2o$3obobo2$bobo2bo$o4bob$2o3bo",
+	"author": "Robert Wainwright",
+	"comments": "A period 2 oscillator found in June 1977. www.conwaylife.com/wiki/index.php?title=Blinkers_bit_pole",
+	"width": 7,
+	"height": 6,
+	"rule": "3/23"
+}

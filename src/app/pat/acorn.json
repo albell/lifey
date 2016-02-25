@@ -1,0 +1,12 @@
+{
+	"name": "Acorn",
+	"author": "Charles Corderman",
+	"comments": "A methuselah with lifespan 5206. www.conwaylife.com/wiki/index.php?title=Acorn",
+	"width": 7,
+	"height": 3,
+	"rule": "3/23",
+	"minCanvasX": 300,
+	"minCanvasY": 300,
+	"offsetX": 180,
+	"pattern": "bo5b$3bo3b$2o2b3o"
+}

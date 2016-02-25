@@ -1,0 +1,9 @@
+{
+	"name": "Queen Bee Turning Reaction 1",
+	"pattern": "bo8b$2b2o6b$b2o7b2$o9b$obo7b$bobo6b$bo2bo5b$bobo4b2o$obo4b2ob$o8bo",
+	"author": "David Bell",
+	"comments": "A reaction in which two gliders collide with a queen bee, causing i t to rotate by 90 degrees. www.conwaylife.com/wiki/index.php?title=Queen_bee",
+	"width": 10,
+	"height": 11,
+	"rule": "3/23"
+}

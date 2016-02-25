@@ -1,0 +1,10 @@
+{
+	"name": "Lightweight Spaceship",
+	"author": "John Conway",
+	"comments": "A very well-known period 4 c/2 orthogonal spaceship. www.conwaylife.com/wiki/index.php?title=Lightweight_spaceship",
+	"width": 5,
+	"height": 4,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "bo2bo$o4b$o3bo$4o"
+}

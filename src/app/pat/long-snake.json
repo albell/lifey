@@ -1,0 +1,8 @@
+{
+	"name": "Long Snake",
+	"pattern": "2o3b$obobo$3b2o",
+	"comments": "A 7-cell still life. http://www.conwaylife.com/wiki/index.php?title=Long_snake",
+	"width": 5,
+	"height": 3,
+	"rule": "3/23"
+}

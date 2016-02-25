@@ -1,0 +1,9 @@
+{
+	"name": "Pseudo-Barberpole",
+	"pattern": "10b2o$11bo$9bo2b$7bobo2b2$5bobo4b2$3bobo6b2$2b2o8b$o11b$2o",
+	"author": "Achim Flammenkamp",
+	"comments": "Found in August 1994. In terms of its minimum population of 15, this is the smallest known period 5 oscillator (as of January 2009).",
+	"width": 12,
+	"height": 12,
+	"rule": "3/23"
+}

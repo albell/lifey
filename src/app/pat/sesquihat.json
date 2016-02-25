@@ -1,0 +1,8 @@
+{
+	"name": "Sesquihat",
+	"pattern": "4bo2b$2obobob$bobobob$bobob2o$2bo",
+	"comments": "A 13-cell still life that is roughly halfway between a hat and twin hat. http://www.conwaylife.com/wiki/index.php?title=Sesquihat",
+	"width": 7,
+	"height": 5,
+	"rule": "3/23"
+}

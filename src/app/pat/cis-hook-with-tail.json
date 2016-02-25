@@ -1,0 +1,8 @@
+{
+	"name": "Cis-Hook with Tail",
+	"pattern": "3b2o$2bobo$bo3b$o4b$b3ob$3bo",
+	"comments": "A 10-cell still life similar to the long long hook with tail. http://www.conwaylife.com/wiki/index.php?title=Cis-hook_with_tail",
+	"width": 5,
+	"height": 6,
+	"rule": "3/23"
+}

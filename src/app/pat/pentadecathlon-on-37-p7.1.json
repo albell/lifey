@@ -1,0 +1,8 @@
+{
+	"name": "Pentadecathlon on 37P7.1",
+	"pattern": "bo15b$bo15b$obo14b$bo15b$bo6b2o5bob$bo5bo5b3ob$bo8bobo4b$obo10bo3b$bo6bo2b3o2bo$bo6bo5b3o$8bo3b2o3b$7b2o5bo2b$7bo2bob2o3b$8bobobo4b$9b2o2bo3b$12b2o",
+	"comments": "A small non-trivial period 105 oscillator www.conwaylife.com/wiki/index.php?title=Pentadecathlon_on_37 P7.1",
+	"width": 17,
+	"height": 16,
+	"rule": "3/23"
+}

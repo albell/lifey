@@ -1,0 +1,8 @@
+{
+	"name": "P-Pentomino",
+	"pattern": "2o$2o$o",
+	"comments": "One of the 12 pentominoes. www.conwaylife.com/wiki/index.php?title=Polyominoentominoes",
+	"width": 2,
+	"height": 3,
+	"rule": "3/23"
+}

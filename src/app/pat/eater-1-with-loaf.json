@@ -1,0 +1,8 @@
+{
+	"name": "Eater 1 with Loaf",
+	"pattern": "2bo6b$bobo5b$o2bo5b$b2o2b2o2b$5bobob$7bob$7b2o",
+	"comments": "An eater 1 about to eat a loaf. www.conwaylife.com/wiki/index.php?title=Eater_1",
+	"width": 9,
+	"height": 7,
+	"rule": "3/23"
+}

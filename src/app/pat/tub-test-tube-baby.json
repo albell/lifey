@@ -1,0 +1,8 @@
+{
+	"name": "Tub Test Tube Baby",
+	"pattern": "bo6bob$obo4bobo$bobo2bobob$3bo2bo3b$3bo2bo3b$4b2o",
+	"comments": "A period 2 oscillator. www.conwaylife.com/wiki/index.php?title=Tub_test_tube_baby",
+	"width": 10,
+	"height": 6,
+	"rule": "3/23"
+}

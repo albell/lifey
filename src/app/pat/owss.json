@@ -1,0 +1,8 @@
+{
+	"name": "Overweight Spaceship",
+	"pattern": "3b3o2b$bo5bo$o7b$o6bo$7o",
+	"comments": "A would-be spaceship similar to the LWSS, MWSS and HWSS, but longer. It is unstable by itself, but can be escorted by other spaceships to produce a flotilla. www.conwaylife.com/wiki/index.php?title=Overweight_spaceship",
+	"width": 8,
+	"height": 5,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Tritoad",
+	"pattern": "9b2o7b$9bo8b$10bo2b2o3b$7b3obo2bo3b$6bo4b2obob2o$6bob2o2bobob2o$3b2obo3b2o2bo3b$3bo2b2o3bob2o3b$2obobo2b2obo6b$2obob2o4bo6b$3bo2bob3o7b$3b2o2bo10b$8bo9b$7b2o",
+	"author": "David Buckingham",
+	"comments": "A period 3 oscillator found in October 1977. www.conwaylife.com/wiki/index.php?title=Tritoad",
+	"width": 18,
+	"height": 14,
+	"rule": "3/23"
+}

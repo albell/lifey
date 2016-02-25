@@ -1,0 +1,8 @@
+{
+	"name": "Caterer on 36P22",
+	"pattern": "27bo5b$25bo3b4o$25bo3bo3b$2o23bo7b$bo26bo4b$bobo13b3o6b2o5b$2b2o3bo8bo3bo12b$6bob2o6bo4bo11b$5bo4bo6b2obo12b$6bo3bo8bo3b2o8b$7b3o13bobo7b$25bo7b$25b2o",
+	"comments": "A small non-trivial period 66 oscillator www.conwaylife.com/wiki/index.php?title=Caterer_on_36P22",
+	"width": 33,
+	"height": 13,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Canoe",
+	"pattern": "3b2o$4bo$3bob$obo2b$2o",
+	"comments": "An 8-cell still life. www.conwaylife.com/wiki/index.php?title=Canoe",
+	"width": 5,
+	"height": 5,
+	"rule": "3/23"
+}

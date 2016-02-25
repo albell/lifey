@@ -1,0 +1,53 @@
+// Minimal resets, some adapted from
+//https://rawgit.com/jonathantneal/sanitize.css/master/dist/sanitize.css 
+
+a, button, input, select {
+  color: inherit;
+  cursor: inherit;
+	font-family:inherit;
+	font-style:inherit;
+	font-weight:inherit;
+	margin: 0;
+  text-transform: none;
+}
+
+a {
+	text-decoration: none; // #hotdrama
+}
+
+::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+input {
+  line-height: normal;
+}
+
+html {
+	-webkit-text-size-adjust: 100%; // iOS scaling
+	box-sizing: border-box;
+}
+
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+
+// Make basically everything except inputs unselectable. This prevents ugly
+// accidental selection highlights.
+button, canvas, div, form, span, svg {
+	-webkit-user-select: none;  // Chrome/Safari all
+  -moz-user-select: none;     // Firefox all
+  -ms-user-select: none;      // IE 10+
+  user-select: none;          // Likely future
+}
+
+*:focus {
+	outline: 0;
+}
+
+.cf:after {
+	content: "";
+	display: table;
+	clear: both;
+}

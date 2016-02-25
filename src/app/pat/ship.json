@@ -1,0 +1,8 @@
+{
+	"name": "Ship",
+	"pattern": "2ob$obo$b2o",
+	"comments": "A common 6-cell still life. www.conwaylife.com/wiki/index.php?title=Ship",
+	"width": 3,
+	"height": 3,
+	"rule": "3/23"
+}

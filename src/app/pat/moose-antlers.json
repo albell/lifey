@@ -1,0 +1,8 @@
+{
+	"name": "Moose Antlers",
+	"pattern": "2o5b2o$o7bo$b3ob3ob$3bobo3b$4bo",
+	"comments": "A simple 15-cell still life. www.conwaylife.com/wiki/index.php?title=Moose_antlers",
+	"width": 9,
+	"height": 5,
+	"rule": "3/23"
+}

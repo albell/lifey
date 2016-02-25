@@ -1,0 +1,9 @@
+{
+	"name": "Cow",
+	"comments": "An orthogonal speed c period 8 fuse. http://www.conwaylife.com/wiki/index.php?title=Cow",
+	"width": 64,
+	"height": 7,
+	"rule": "23/3",
+	"pattern": "2o7b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o$2o4bob3o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o3b2o$4b2obo53bobo$4b2o3b53o$4b2obo54bo$2o4bob3o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o$2o7b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o2b2o"
+
+}

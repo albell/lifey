@@ -1,0 +1,8 @@
+{
+	"name": "Hook with Tail",
+	"pattern": "2o3b$bo3b$bob2o$2bobo",
+	"comments": "An 8-cell still life that went for a long time with no well-established name. http://www.conwaylife.com/wiki/index.php?title=Hook_with_tail",
+	"width": 5,
+	"height": 4,
+	"rule": "3/23"
+}

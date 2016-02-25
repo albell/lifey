@@ -1,0 +1,8 @@
+{
+	"name": "Very Long House",
+	"pattern": "b5ob$o2bo2bo$2o3b2o",
+	"comments": "An induction coil. www.conwaylife.com/wiki/index.php?title=Very_long_house",
+	"width": 7,
+	"height": 3,
+	"rule": "23/3"
+}

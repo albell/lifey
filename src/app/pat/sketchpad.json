@@ -1,0 +1,11 @@
+{
+	"name": "Sketchpad",
+	"author": "Kazyan",
+	"comments": "A 12-cell methuselah that stabilizes at generation 2564. Fits in a 4x4 square. http://www.conwaylife.com/forums/viewtopic.php?f=2&t=1141&start=50",
+	"width": 4,
+	"height": 4,
+	"rule": "3/23",
+	"minCanvasX": 200,
+	"minCanvasY": 300,
+	"pattern": "4o$2obo$2o$b3o"
+}

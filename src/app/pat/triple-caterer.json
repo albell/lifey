@@ -1,0 +1,9 @@
+{
+	"name": "Triple Caterer",
+	"pattern": "5b2o9b$4bo2bo2b2o4b$4b2obo3bo4b$6bob3o4bo$2b3obobo4b3o$bo2bo2bo4bo3b$obo2bo3bo2b2o2b$bo14b$2b2ob2ob2ob2o3b$3bo3bo3bo4b$3bo3bo3bo",
+	"author": "Dean Hickerson",
+	"comments": "A period 3 oscillator. http://www.conwaylife.com/wiki/index.php?title=Triple_caterer",
+	"width": 16,
+	"height": 11,
+	"rule": "3/23"
+}

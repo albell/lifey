@@ -1,0 +1,8 @@
+{
+	"name": "C-Heptomino",
+	"pattern": "b3o$3ob$bo",
+	"comments": "A methuselah with lifespan 148 that evolves in the same way as the B-heptomino after its second generation. http://www.conwaylife.com/wiki/index.php?title=C-heptomino",
+	"width": 4,
+	"height": 3,
+	"rule": "3/23"
+}

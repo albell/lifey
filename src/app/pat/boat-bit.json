@@ -1,0 +1,8 @@
+{
+	"name": "Boat-bit",
+	"pattern": "6bo18b$7bo17b$5b3o17b8$16bo8b$14bobo8b$10b2o3b2o8b$11b2o12b$10bo10bob2o$21b2obo6$bo23b$b2o22b$obo",
+	"comments": "A reaction that shows how boats (along with a snake or aircraft car rier) can be used to represent a 0 or a 1 and glider collisions can  be used to read and write the bit. www.conwaylife.com/wiki/index.php?title=Boat-bit",
+	"width": 25,
+	"height": 24,
+	"rule": "23/3"
+}

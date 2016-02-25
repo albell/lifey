@@ -1,0 +1,9 @@
+{
+	"name": "49P88",
+	"pattern": "19bo7b$17b3o7b$16bo10b$16b2o9b$2o19b2o4b$bo19bo5b$bobo15bobo5b$2b2o15b2o6b$14bo12b$13bobo11b$12b2ob2o10b7$6b2o15b2o2b$5bobo15bobob$5bo19bob$4b2o19b2o$9b2o16b$10bo16b$7b3o17b$7bo",
+	"author": "Paul Callahan",
+	"comments": "A small non-trivial period 88 oscillator, discovered on September 1 3, 1996 www.conwaylife.com/wiki/index.php?title=49P88",
+	"width": 27,
+	"height": 25,
+	"rule": "3/23"
+}

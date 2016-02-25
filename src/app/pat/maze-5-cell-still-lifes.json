@@ -1,0 +1,8 @@
+{
+	"name": "Maze 5-cell Still Lifes",
+	"pattern": "2o3b2o4b2o4b2o3b2o3bo7b2ob$obo2bobo3bo6bo5bo3bo5bo2bo$bo6bo4bo4b2o2b2o5bo5bo2b$14bo15bo7b$31bo",
+	"comments": "All 5-cell still lifes in the maze (12345/3) rule. www.conwaylife.com/wiki/index.php?title=Maze",
+	"width": 38,
+	"height": 5,
+	"rule": "3/12345"
+}

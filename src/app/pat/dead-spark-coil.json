@@ -1,0 +1,8 @@
+{
+	"name": "Dead Spark Coil",
+	"pattern": "2o3b2o$obobobo$2bobo2b$obobobo$2o3b2o",
+	"comments": "An 18-cell still life. http://www.conwaylife.com/wiki/index.php?title=Dead_spark_coil",
+	"width": 7,
+	"height": 5,
+	"rule": "3/23"
+}

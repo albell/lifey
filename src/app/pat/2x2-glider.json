@@ -1,0 +1,8 @@
+{
+	"name": "2x2 glider",
+	"pattern": "3o2b2$2bobo$bo",
+	"comments": "A diagonal c/8 glider in the 2x2 (125/36) rule. www.conwaylife.com/wiki/index.php?title=2x2",
+	"width": 5,
+	"height": 4,
+	"rule": "125/36"
+}

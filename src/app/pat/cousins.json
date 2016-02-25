@@ -1,0 +1,8 @@
+{
+	"name": "Cousins",
+	"pattern": "5bob2o4b$3b3obobo3b$obo6bo3b$2ob2ob2obob2o$3bobo4bobo$3bobob3o3b$4b2obo",
+	"comments": "A period 3 oscillator that contains two copies of the stillater rotor. www.conwaylife.com/wiki/index.php?title=Cousins",
+	"width": 13,
+	"height": 7,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Jam on 34P13.1",
+	"pattern": "9b3o4b2o3b$18bo2b$9bo5bo5b$8b2o5bo3bob$10bo4bo2bobo$7bo9bo2bo$7bo3bo6b2ob$5b2o14b$3bo5b3o2b2o5b$ob2o4bo5b2o5b$o3bo3bo12b$o5bobo12b3$8b2o11b$8b2o",
+	"comments": "The smallest known period 39 oscillator as of April 2009, though it is usually considered trivial because there is no individual cel that oscillates at the full period. www.conwaylife.com/wiki/index.php?title=Jam_on_34P13.1",
+	"width": 21,
+	"height": 16,
+	"rule": "3/23"
+}

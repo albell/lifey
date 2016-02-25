@@ -1,0 +1,9 @@
+{
+	"name": "2x12 infinite growth",
+	"pattern": "o2b2ob4obo$6ob2o2bo",
+	"author": "DivusIulius",
+	"comments": "The only pattern that fits in a 2x12 box that exhibits infinite gro wth. www.conwaylife.com/wiki/index.php?title=Infinite_growth",
+	"width": 12,
+	"height": 2,
+	"rule": "23/3"
+}

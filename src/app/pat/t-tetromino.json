@@ -1,0 +1,8 @@
+{
+	"name": "T-Tetromino",
+	"pattern": "3o$bo",
+	"comments": "One of 5 tetrominoes. www.conwaylife.com/wiki/index.php?title=T-tetromino",
+	"width": 3,
+	"height": 2,
+	"rule": "3/23"
+}

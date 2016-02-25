@@ -1,0 +1,9 @@
+{
+	"name": "Star",
+	"pattern": "4b3o4b2$2bobobobo2b2$obo5bobo$o9bo$obo5bobo2$2bobobobo2b2$4b3o",
+	"author": "Hartmut Holzwart",
+	"comments": "A period 3 oscillator found in February 1993. www.conwaylife.com/wiki/index.php?title=Star",
+	"width": 11,
+	"height": 11,
+	"rule": "3/23"
+}

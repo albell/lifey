@@ -1,0 +1,9 @@
+{
+	"name": "Pinwheel",
+	"pattern": "6b2o4b$6b2o4b2$4b4o4b$2obo4bo3b$2obo2bobo3b$3bo3b2ob2o$3bobo2bob2o$4b4o4b2$4b2o6b$4b2o",
+	"author": "Simon Norton",
+	"comments": "A period 4 oscillator. http://www.conwaylife.com/wiki/index.php?title=Pinwheel",
+	"width": 12,
+	"height": 12,
+	"rule": "3/23"
+}

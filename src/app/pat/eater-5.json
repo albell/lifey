@@ -1,0 +1,8 @@
+{
+	"name": "Eater 5",
+	"pattern": "7b2o$3bo3b2o$2bobo4b$bobo5b$bo7b$2o",
+	"comments": "A 12-cell still life and eater composed of a tub with tail and a block that is capable of eating gliders that approach from the top-right. http://www.conwaylife.com/wiki/index.php?title=Eater_5",
+	"width": 9,
+	"height": 6,
+	"rule": "3/23"
+}

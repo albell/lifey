@@ -1,0 +1,9 @@
+{
+	"name": "Beacon",
+	"pattern": "2o2b$o3b$3bo$2b2o",
+	"author": "John Conway",
+	"comments": "A common period 2 oscillator. www.conwaylife.com/wiki/index.php?title=Beacon",
+	"width": 4,
+	"height": 4,
+	"rule": "3/23"
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Bunnies 11",
+	"author": "Tomas Rokicki",
+	"comments": "A methuselah with lifespan 17465 that evolves similarly to bunnie after generation 146. www.conwaylife.com/wiki/index.php?title=Bunnies_11",
+	"width": 6,
+	"height": 4,
+	"rule": "3/23",
+	"minCanvasX": 750,
+	"minCanvasY": 550,
+	"offsetX": 350,
+	"offsetY": 225,
+	"pattern": "ob3ob$o4bo$obobob$bo2bo"
+}

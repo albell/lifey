@@ -1,0 +1,8 @@
+{
+	"name": "Herschel Grandparent",
+	"pattern": "obo2b$o4b$obo2b$3b2o",
+	"comments": "A grandparent of the herschel. http://www.conwaylife.com/wiki/index.php?title=Herschel_grandparent",
+	"width": 5,
+	"height": 4,
+	"rule": "3/23"
+}

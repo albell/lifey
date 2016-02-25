@@ -1,0 +1,9 @@
+{
+	"name": "Radial Pseudo-Barberpole",
+	"pattern": "10b2ob$2o9bob$o8bo3b$2b2o3bobo3b2$3bobobo5b2$5bobobo3b2$3bobo3b2o2b$3bo8bo$bo9b2o$b2o",
+	"author": "Gabriel Nivasch",
+	"comments": "A radially symmetric relative of the pseudo-barberpole",
+	"width": 13,
+	"height": 13,
+	"rule": "3/23"
+}

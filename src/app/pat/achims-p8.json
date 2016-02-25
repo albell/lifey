@@ -1,0 +1,9 @@
+{
+	"name": "Achim's p8",
+	"pattern": "b2o6b$o8b$bo3bo3b$bo3b2o2b$3bobo3b$2b2o3bob$3bo3bob$8bo$6b2o",
+	"author": "Achim Flammenkamp",
+	"comments": "Period 8 oscillator found in July 1994.",
+	"width": 9,
+	"height": 9,
+	"rule": "3/23"
+}

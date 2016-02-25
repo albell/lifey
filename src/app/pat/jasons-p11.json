@@ -1,0 +1,9 @@
+{
+	"name": "Jason's P11",
+	"author": "Jason Summers",
+	"comments": "Jason's P11 is a period 11 oscillator discovered in April, 2003. http://www.conwaylife.com/wiki/Jason's_p11",
+	"width": 25,
+	"height": 25,
+	"rule": "3/23",
+	"pattern": "8bob2ob2obo$8b2obobob2o2$8b3o3b3o$7bo3bobo3bo$7bobobobobobo$11bobo$4b2o2b3o3b3o2b2o$2obo3bo9bo3bob2o$bobobobo9bobobobo$o2bo3bo9bo3bo2bo$2o2b3o11b3o2b2o2$2o2b3o11b3o2b2o$o2bo3bo9bo3bo2bo$bobobobo9bobobobo$2obo3bo9bo3bob2o$4b2o2b3o3b3o2b2o$11bobo$7bobobobobobo$7bo3bobo3bo$8b3o3b3o2$8b2obobob2o$8bob2ob2obo"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Tub with Long Long Tail",
+	"pattern": "bo2b$obob$bobo$3bo$2bob$bo2b$b2o",
+	"comments": "A 10-cell still life. http://www.conwaylife.com/wiki/index.php?title=Tub_with_long_long_tail",
+	"width": 4,
+	"height": 7,
+	"rule": "3/23"
+}

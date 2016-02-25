@@ -1,0 +1,8 @@
+{
+	"name": "Scorpion",
+	"pattern": "3bo3b$b3o3b$o3b2ob$obobobo$b2obobo$5bo",
+	"comments": "A 16-cell still life. http://www.conwaylife.com/wiki/index.php?title=Scorpion",
+	"width": 7,
+	"height": 6,
+	"rule": "3/23"
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Rabbits",
+	"author": "Andrew Trevorrow",
+	"comments": "A methuselah with lifespan 17331. http://www.conwaylife.com/wiki/index.php?title=Rabbits",
+	"width": 7,
+	"height": 3,
+	"rule": "3/23",
+	"minCanvasX": 425,
+	"minCanvasY": 425,
+	"offsetX": 250,
+	"offsetY": 200,
+	"pattern": "o3b3o$3o2bob$bo"
+}

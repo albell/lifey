@@ -1,0 +1,13 @@
+{
+	"name": "Blom",
+	"author": "Dean Hickerson",
+	"comments": "A methuselah with lifespan 23314 found in July 2002. www.conwaylife.com/wiki/index.php?title=Blom",
+	"width": 12,
+	"height": 5,
+	"rule": "3/23",
+	"minCanvasX": 600,
+	"minCanvasY": 700,
+	"offsetX": 300,
+	"offsetY": 200,
+	"pattern": "o10bo$b4o6bo$2b2o7bo$10bob$8bobo"
+}

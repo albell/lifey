@@ -1,0 +1,8 @@
+{
+	"name": "Mold on Pentadecathlon Synth",
+	"comments": "An 8-glider synthesis of Mold on Pentadecathlon. http://conwaylife.com/wiki/Mold_on_pentadecathlon",
+	"width": 37,
+	"height": 19,
+	"rule": "3/23",
+	"pattern": "5bobo29b$5b2o30b$6bo5bo24b$12bobo14bo4bo2b$12b2o13b2ob4ob2o$29bo4bo2b2$5b3o29b$7bo10bo18b$6bo9b2o19b$17b2o14bobob$36bo$32bo2bob$13b3o15bobobob$13bo5bo11bo2bo2b$3o11bo3b2o12b2o3b$2bo7bo7bobo16b$bo7b2o26b$9bobo"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "p60-hassler",
+	"comments": "P60 hassler is a period 60 oscillator discovered by Noam Elkies in December 2002. It consists of two Karel's p15s and a Heavyweight emulator. http://www.conwaylife.com/wiki/P60_hassler",
+	"width": 34,
+	"height": 23,
+	"rule": "3/23",
+	"pattern": "10b2o10b2o$9bo2bo8bo2bo$9b3o2b6o2b3o$12b2o6b2o$11bo10bo$11b2obo4bob2o$16b2o2$16bo$16bo$16bo$13bo$2bo4bo3bo2bo3b3o5bo4bo$2b6o3bobo12b6o$2bo4bo4bo3bo9bo4bo$16bo$16bo2$2b6o18b6o$bo6bo16bo6bo$o8bo14bo8bo$bo6bo16bo6bo$2b6o18b6o"
+}

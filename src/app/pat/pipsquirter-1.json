@@ -1,0 +1,9 @@
+{
+	"name": "Pipsquirter 1",
+	"pattern": "3b2ob2o7b$b3obob3o5b$o4bo4bo4b$ob2o2b2obobo3b$bo2b2o3bobo3b$2b2o2b2obobob2o$4bo4bobob2o$4b4ob2o4b$8bo6b$6bobo6b$6b2o",
+	"author": "Noam Elkies",
+	"comments": "A period 6 pipsquirter oscillator found in November 1997. www.conwaylife.com/wiki/index.php?title=Pipsquirter_1",
+	"width": 15,
+	"height": 11,
+	"rule": "3/23"
+}

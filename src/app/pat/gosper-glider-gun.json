@@ -1,0 +1,9 @@
+{
+	"name": "Gosper Glider Gun",
+	"pattern": "24bo11b$22bobo11b$12b2o6b2o12b2o$11bo3bo4b2o12b2o$2o8bo5bo3b2o14b$2o8bo3bob2o4bobo11b$10bo5bo7bo11b$11bo3bo20b$12b2o",
+	"author": "Bill Gosper",
+	"comments": "A true period 30 glider gun. The first known gun and the first known finite pattern with unbounded growth. www.conwaylife.com/wiki/index.php?title=Gosper_glider_gun",
+	"width": 36,
+	"height": 9,
+	"rule": "3/23"
+}

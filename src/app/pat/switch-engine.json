@@ -1,0 +1,13 @@
+{
+	"name": "Switch Engine",
+	"author": "Charles Corderman",
+	"comments": "A methuselah with lifespan 3911 that can be used to make c/12 diagonal puffers and spaceships. www.conwaylife.com/wiki/index.php?title=Switch_engine",
+	"width": 6,
+	"height": 4,
+	"rule": "3/23",
+	"minCanvasX": 350,
+	"minCanvasY": 350,
+	"offsetX": 250,
+	"offsetY": 250,
+	"pattern": "bobo2b$o5b$bo2bob$3b3o"
+}

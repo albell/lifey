@@ -1,0 +1,10 @@
+{
+	"name": "Glider",
+	"author": "Richard K. Guy",
+	"comments": "The smallest, most common, and first discovered spaceship. Diagonal, has period 4 and speed c/4. www.conwaylife.com/wiki/index.php?title=Glider",
+	"width": 3,
+	"height": 3,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "bob$2bo$3o"
+}

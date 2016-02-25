@@ -1,0 +1,9 @@
+{
+	"name": "Blocked P4 T-nose Hybrid",
+	"author": "Matthias Merzenich",
+	"comments": "Blocked p4 t-nose hybrid is a period 4 oscillator. Discovered in April 2010. http://www.conwaylife.com/wiki/Blocked_p4_t-nose_hybrid",
+	"width": 21,
+	"height": 13,
+	"rule": "3/23",
+	"pattern": "11b3o2$10bo3bo$4bo3bo6bob2o$3bobo12bo$3bobo10b2o$2obobob9o2b3o$2obo13bo2bo$3bo14b2o$3bobo4bobo$4b2o4b2obo$13bo$13b2o"
+}

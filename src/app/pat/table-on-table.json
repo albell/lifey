@@ -1,0 +1,8 @@
+{
+	"name": "Table on Table",
+	"pattern": "o2bo$4o2$4o$o2bo",
+	"comments": "A 12-cell still life made up of two tables. http://www.conwaylife.com/wiki/index.php?title=Table_on_table",
+	"width": 4,
+	"height": 5,
+	"rule": "3/23"
+}

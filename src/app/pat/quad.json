@@ -1,0 +1,9 @@
+{
+	"name": "Quad",
+	"pattern": "2o2b2o$o2bobo$bo4b$4bob$obo2bo$2o2b2o",
+	"author": "Robert Kraus",
+	"comments": "A period 2 oscillator that was found in April 1971. www.conwaylife.com/wiki/index.php?title=Quad",
+	"width": 6,
+	"height": 6,
+	"rule": "23/3"
+}

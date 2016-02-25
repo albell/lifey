@@ -1,0 +1,13 @@
+{
+	"name": "10-Cell Infinite Growth",
+	"author": "Paul Callahan",
+	"comments": "A 10-cell infinite growth pattern found in 1997. No pattern with fewer cells can exhibit infinite growth. www.conwaylife.com/wiki/index.php?title=Infinite_growth",
+	"width": 8,
+	"height": 6,
+	"minCanvasX": 300,
+	"minCanvasY": 300,
+	"offsetX": 225,
+	"offsetY": 225,
+	"rule": "23/3",
+	"pattern": "6bob$4bob2o$4bobob$4bo3b$2bo5b$obo"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Cuphook",
+	"pattern": "4b2o3b$2obobo3b$2obo5b$3bo5b$3bo2bo2b$4b2obob$7bob$7b2o",
+	"author": "Rich Schroeppel",
+	"comments": "A period 3 oscillator with 3 cells in its rotor. Found in October 1970. www.conwaylife.com/wiki/index.php?title=Cuphook",
+	"width": 9,
+	"height": 8,
+	"rule": "3/23"
+}

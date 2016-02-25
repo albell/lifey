@@ -1,0 +1,8 @@
+{
+	"name": "Cis-Beacon and Dock",
+	"pattern": "3b2ob$4bob$bo4b$b2o3b2$b4ob$o4bo$2o2b2o",
+	"comments": "A period 2 oscillator. www.conwaylife.com/wiki/index.php?title=Cis-beacon_and_dock",
+	"width": 6,
+	"height": 8,
+	"rule": "3/23"
+}

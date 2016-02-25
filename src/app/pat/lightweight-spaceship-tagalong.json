@@ -1,0 +1,9 @@
+{
+	"name": "LWSS Tagalong",
+	"pattern": "21bo3b$18b4o3b$13bo2bob2o5b$13bo11b$4o8bo3bob2o5b$o3bo5b2ob2obobob5o$o9b2obobobo2b5o$bo2bo2b2o2bo3b3o2bob2ob$6bo2bob2o12b$6bo4b2o12b$6bo2bob2o12b$bo2bo2b2o2bo3b3o2bob2ob$o9b2obobobo2b5o$o3bo5b2ob2obobob5o$4o8bo3bob2o5b$13bo11b$13bo2bob2o5b$18b4o3b$21bo",
+	"author": "David Bell",
+	"comments": "A tagalong for two lightweight, middleweight, or heavyweight spaces hips. www.conwaylife.com/wiki/index.php?title=Lightweight_spaceship",
+	"width": 25,
+	"height": 19,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Trans-Rotated R-Bee",
+	"pattern": "bo5b$obo4b$obo4b$b2ob2ob$4bobo$4bobo$5bo",
+	"comments": "A 14-cell still life. http://www.conwaylife.com/wiki/index.php?title=Trans-rotated_R-bee",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

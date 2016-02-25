@@ -1,0 +1,9 @@
+{
+	"name": "38P11.1",
+	"pattern": "2b2ob2o5b$3bobobo4b$3bo4bo3b$2obo5bo2b$2obo6bob$3bobo5bo$3bob2o3b2o$4bo7b$5b7o$11bo$7b2o3b$7b2o",
+	"author": "David Buckingham",
+	"comments": "The first period 11 oscillator to be found, and still the smallest known. Found on June 20, 1977. www.conwaylife.com/wiki/index.php?title=38P11.1",
+	"width": 12,
+	"height": 12,
+	"rule": "3/23"
+}

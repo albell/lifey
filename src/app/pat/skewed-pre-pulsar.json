@@ -1,0 +1,8 @@
+{
+	"name": "Skewed Pre-Pulsar",
+	"pattern": "6b3o$6bobo$3o3b3o$obo6b$3o",
+	"comments": "This pattern evolves similarly to a pre-pulsar, but it is unstable.",
+	"width": 9,
+	"height": 5,
+	"rule": "3/23"
+}

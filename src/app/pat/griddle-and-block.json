@@ -1,0 +1,8 @@
+{
+	"name": "Griddle and Block",
+	"pattern": "3bo2b$bobo2b$o4bo$6o2$2b2o2b$2b2o",
+	"comments": "A period 2 oscillator. www.conwaylife.com/wiki/index.php?title=Griddle_and_block",
+	"width": 6,
+	"height": 7,
+	"rule": "3/23"
+}

@@ -1,0 +1,10 @@
+{
+	"name": "B29",
+	"author": "Hartmut Holzwart",
+	"comments": "A small c/4 diagonal spaceship with an isolated domino spark; disco vered in September 2004 http://www.conwaylife.com/wiki/index.php?title=B29",
+	"width": 8,
+	"height": 16,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "3b2o3b$2b2o4b$4bo3b$6b2o$5bo2b2$4bo2bo$b2obo3b$2o4bob$2bobo2bo$7bo$4bo2bo$5bobo$5bobo$6b2o$6bo"
+}

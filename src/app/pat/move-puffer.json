@@ -1,0 +1,8 @@
+{
+	"name": "Move Puffer",
+	"pattern": "ob$bo$bo$bo$bo$o",
+	"comments": "A common puffer in the move (125/368) rule. www.conwaylife.com/wiki/index.php?title=Move",
+	"width": 2,
+	"height": 6,
+	"rule": "245/368"
+}

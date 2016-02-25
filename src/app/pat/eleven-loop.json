@@ -1,0 +1,8 @@
+{
+	"name": "Eleven Loop",
+	"pattern": "bo3b$obo2b$o2bob$bobob$2ob2o",
+	"comments": "An 11-cell still life. www.conwaylife.com/wiki/index.php?title=Eleven_loop",
+	"width": 5,
+	"height": 5,
+	"rule": "3/23"
+}

@@ -1,0 +1,36 @@
+.panel__button::after {
+	background: #fefece; // pale yellow
+	box-shadow: 0 1px 7px 0px rgba(0,0,0,0.3);
+	color: $offBlack;
+	display: none; /* Hide tooltips initially */
+	font-size: 9px; /* hardcoded looks better small for Source Sans */
+	padding: 2px 5px 3px 3px;
+	position: absolute;
+	top: 26px;
+	left: 20px;
+	white-space: nowrap;
+	z-index: 1;
+}
+
+.panel__button--show-tooltip::after {
+	display: block;
+}
+
+.toolbox__button--brush::after    {content: 'Brush Tool (B)';}
+.toolbox__button--eraser::after   {content: 'Eraser Tool (E)';}
+.toolbox__button--hand::after     {content: 'Hand Tool (H)';}
+.toolbox__button--zoom-in::after  {content: 'Zoom In Tool (Z)';}
+.toolbox__button--zoom-out::after {content: 'Zoom Out Tool (X)';}
+
+.info__button--resize::after      {content: 'Canvas Size';}
+
+.player__button--clear::after     {content: 'Clear';}
+.player__button--reset::after     {content: 'Reset';}
+.player__button--play::after      {content: 'Play';}
+
+.player__play-button--is-playing.player__button--play::after {content: 'Stop';}
+
+.player__button--step::after      {content: 'Step';}
+.patterns__button--open::after    {content: 'Open';}
+.patterns__button--save::after    {content: 'Save';}
+.patterns__button--share::after   {content: 'Share';}

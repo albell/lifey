@@ -1,0 +1,8 @@
+{
+	"name": "Fourteener",
+	"pattern": "4b2ob$2o2bobo$o5bo$b5ob$3bo",
+	"comments": "Still life with 14 cells.",
+	"width": 7,
+	"height": 5,
+	"rule": "3/23"
+}

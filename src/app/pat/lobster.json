@@ -1,0 +1,9 @@
+{
+	"name": "Lobster",
+	"author": "Matthias Merzenich",
+	"comments": "Lobster is a c/7 diagonal spaceship. It was discovered in August 2011. It was the first c/7 diagonal spaceship to be found. http://www.conwaylife.com/wiki/Lobster_(spaceship)",
+	"width": 26,
+	"height": 26,
+	"rule": "3/23",
+	"pattern": "12b3o$12bo$13bo2b2o$16b2o$12b2o$13b2o$12bo2bo2$14bo2bo$14bo3bo$15b3obo$20bo$2o2bobo13bo$obob2o13bo$o4bo2b2o13b2o$6bo3bo6b2o2b2o2bo$2b2o6bo6bo2bo$2b2o4bobo4b2o$9bo5bo3bo3bo$10bo2bo4b2o$11b2o3bo5bobo$15bo8b2o$15bo4bo$14bo3bo$14bo5b2o$15bo5bo"
+}

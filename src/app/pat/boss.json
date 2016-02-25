@@ -1,0 +1,9 @@
+{
+	"name": "Boss",
+	"pattern": "5bo5b$4bobo4b$4bobo4b$3b2ob2o3b$2bo5bo2b$bobobobobob$bobo3bobob$2obo3bob2o$o2bobobo2bo$2bo5bo2b$3b2ob2o3b$4bobo4b$4bobo4b$5bo",
+	"author": "David Buckingham",
+	"comments": "A period 4 oscillator. www.conwaylife.com/wiki/index.php?title=Boss",
+	"width": 11,
+	"height": 14,
+	"rule": "3/23"
+}

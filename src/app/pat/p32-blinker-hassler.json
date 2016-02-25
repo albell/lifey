@@ -1,0 +1,8 @@
+{
+	"name": "P32 Blinker Hassler",
+	"comments": "P32 Blinker Hassler is a period 32 oscillator discovered by Noam Elkies in April 2010. It uses two Blocked p4-3s. http://www.conwaylife.com/wiki/P32_blinker_hassler",
+	"width": 21,
+	"height": 23,
+	"rule": "3/23",
+	"pattern": "10bo$4b2o3bobo3b2o$3bobo4bo4bobo$3bo13bo$2obo13bob2o$2obobob7obobob2o$3bobo9bobo$3bobo9bobo$4bo3bobobo3bo2$10bo$4b2o4bo4b2o$4b2o4bo4b2o7$12bo$8b2o2b2ob3o$8b2o4b4o$12b2o"
+}

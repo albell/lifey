@@ -1,0 +1,8 @@
+{
+	"name": "Tub",
+	"pattern": "bob$obo$bo",
+	"comments": "A very common 4-cell still life. www.conwaylife.com/wiki/index.php?title=Tub",
+	"width": 3,
+	"height": 3,
+	"rule": "3/23"
+}

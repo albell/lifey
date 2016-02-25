@@ -1,0 +1,8 @@
+{
+	"name": "Claw with Tail",
+	"pattern": "2o4b$bo4b$bob2ob$2bo2bo$4b2o",
+	"comments": "A 10-cell still life similar to hook with tail. http://www.conwaylife.com/wiki/index.php?title=Claw_with_tail",
+	"width": 6,
+	"height": 5,
+	"rule": "3/23"
+}

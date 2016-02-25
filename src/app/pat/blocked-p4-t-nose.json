@@ -1,0 +1,9 @@
+{
+	"name": "Blocked p4 T-Nose",
+	"pattern": "11b3o11b2$10bo3bo10b$4bo3bo7bo3bo4b$3bobo13bobo3b$3bobo13bobo3b$2obobob11obobob2o$2obo17bob2o$3bo17bo3b$3bobo4bo2b2o4bobo3b$4b2o3bobo2bo4b2o4b$9bo2b2o11b$8b2o",
+	"author": "Adam P. Goucher",
+	"comments": "A period 4 oscillator. www.conwaylife.com/wiki/Blocked_p4_t-nose",
+	"width": 25,
+	"height": 13,
+	"rule": "3/23"
+}

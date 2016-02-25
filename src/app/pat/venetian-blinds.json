@@ -1,0 +1,12 @@
+{
+	"name": "Venetian Blinds",
+	"comments": "A period 2 agar. http://conwaylife.com/wiki/Venetian_blinds",
+	"width": 160,
+	"height": 158,
+	"minCanvasX": 160,
+	"minCanvasY": 160,
+	"offsetY": 0,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o3$160o$160o"
+}

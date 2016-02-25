@@ -1,0 +1,8 @@
+{
+	"name": "Piston",
+	"pattern": "2o7b2o$obo2bo2bobo$2b4o2bo2b$obo2bo2bobo$2o7b2o",
+	"comments": "A period 2 oscillator found in 1971. www.conwaylife.com/wiki/index.php?title=Piston",
+	"width": 11,
+	"height": 5,
+	"rule": "3/23"
+}

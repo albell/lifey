@@ -1,0 +1,8 @@
+{
+	"name": "Snake Siamese Snake",
+	"pattern": "2ob2obo$ob2ob2o",
+	"comments": "A 10-cell still life composed of two snakes. http://www.conwaylife.com/wiki/index.php?title=Snake_siamese_snake",
+	"width": 7,
+	"height": 2,
+	"rule": "3/23"
+}

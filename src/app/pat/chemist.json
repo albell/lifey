@@ -1,0 +1,8 @@
+{
+	"name": "Chemist",
+	"pattern": "7bo7b$7b3o5b$10bo4b$5b3o2bo2b2o$4bobobobobobo$4bo3bobobo2b$b2obo5bob2ob$2bobobo3bo4b$obobobobobo4b$2o2bo2b3o5b$4bo10b$5b3o7b$7bo",
+	"comments": "A period 5 oscillator. http://www.conwaylife.com/wiki/index.php?title=Chemist",
+	"width": 15,
+	"height": 13,
+	"rule": "3/23"
+}

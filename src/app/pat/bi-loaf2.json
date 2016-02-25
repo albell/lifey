@@ -1,0 +1,8 @@
+{
+	"name": "Bi-loaf 2",
+	"pattern": "2bo4b$bobo3b$o2bo3b$b2ob2ob$3bo2bo$3bobob$4bo",
+	"comments": "A 14-cell still life. www.conwaylife.com/wiki/index.php?title=Bi-loaf_2",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

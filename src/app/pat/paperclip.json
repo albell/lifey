@@ -1,0 +1,8 @@
+{
+	"name": "Paperclip",
+	"pattern": "2b2ob$bo2bo$bob2o$2obob$o2bob$b2o",
+	"comments": "A 14-cell still life. http://www.conwaylife.com/wiki/index.php?title=Paperclip",
+	"width": 5,
+	"height": 6,
+	"rule": "3/23"
+}

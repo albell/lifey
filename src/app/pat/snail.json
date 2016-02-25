@@ -1,0 +1,10 @@
+{
+	"name": "Snail",
+	"author": "Tim Coe",
+	"comments": "The first c/5 orthogonal spaceship to be discovered. Has period 5. Found in January 1996. www.conwaylife.com/wiki/index.php?title=Snail",
+	"width": 38,
+	"height": 21,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "bo36b$bo36b$o37b$b3o17b3o3b3o8b$b2obo9bo3bobo6b3o8b$2bo11b2obo7bo4b4o4b$6bo6bo3bobo3b2obo5b2o4b$3bo2bob3o3b2o9bo8b2obo$3b2obo5bo5bo17bob$9bob7o20b2$9bob7o20b$3b2obo5bo5bo17bob$3bo2bob3o3b2o9bo8b2obo$6bo6bo3bobo3b2obo5b2o4b$2bo11b2obo7bo4b4o4b$b2obo9bo3bobo6b3o8b$b3o17b3o3b3o8b$o37b$bo36b$bo"
+}

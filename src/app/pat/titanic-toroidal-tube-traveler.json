@@ -1,0 +1,10 @@
+{
+	"name": "Titanic Toroidal Tube Traveler",
+	"width": 78,
+	"height": 2,
+	"minCanvasX": 78,
+	"minCanvasY": 78,
+	"offsetY": 38,
+	"toroidal": true,
+	"pattern": "78o$3o3b3o3b3o3b3o3b3o3b3o3b3o3b3o3b3o3b3o3b3o3b3o3b3o"
+}

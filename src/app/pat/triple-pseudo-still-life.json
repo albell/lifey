@@ -1,0 +1,9 @@
+{
+	"name": "Triple Pseudo Still Life",
+	"pattern": "6b2o$2bobo2bo$bob2obob$bo4b2o$2ob2o3b$3b2ob2o$2o4bob$bob2obob$o2bobo2b$2o",
+	"author": "Gabriel Nivasch",
+	"comments": "A 32-cell still life found in 2001 that can be broken down into three stable pieces, but not two. http://www.conwaylife.com/wiki/index.php?title=Triple_pseudo_still_life",
+	"width": 8,
+	"height": 10,
+	"rule": "3/23"
+}

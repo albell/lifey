@@ -1,0 +1,8 @@
+{
+	"name": "Bullet Heptomino",
+	"pattern": "bob$3o$3o",
+	"comments": "Generation 1 of the T-tetromino. www.conwaylife.com/wiki/index.php?title=Bullet_heptomino",
+	"width": 3,
+	"height": 3,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Griddle and Boat",
+	"pattern": "3bo2b$bobo2b$o4bo$6o2$2b2o2b$bobo2b$2bo",
+	"comments": "A period 2 oscillator. http://www.conwaylife.com/wiki/index.php?title=Griddle_and_boat",
+	"width": 6,
+	"height": 8,
+	"rule": "3/23"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "Blinker Puffer 2",
+	"author": "David Bell",
+	"comments": "An orthogonal period 4 c/2 blinker puffer found in 1992. www.conwaylife.com/wiki/index.php?title=Blinker_puffer_2",
+	"width": 17,
+	"height": 25,
+	"rule": "3/23",
+	"offsetX": 200,
+	"minCanvasX": 300,
+	"minCanvasY": 300,
+	"pattern": "13b3ob$12b5o$11b2ob3o$12b2o3b3$9bobo5b$2bo5bo2bo5b$b5o3bobo5b$2o3b2ob2o7b$bo7bo7b$2b2o2bo2bo7b$10bo6b$2b2o2bo2bo7b$bo7bo7b$2o3b2ob2o7b$b5o3bobo5b$2bo5bo2bo5b$9bobo5b3$12b2o3b$11b2ob3o$12b5o$13b3o"
+}

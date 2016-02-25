@@ -1,0 +1,9 @@
+{
+	"name": "Eureka",
+	"pattern": "bo14bob$obo4bo7bobo$bo3b2ob2o6bob$7bo10b4$7bo10b$bo3b2ob2o6bob$obo4bo7bobo$bo14bo",
+	"author": "David Buckingham",
+	"comments": "A period 30 pre-pulsar shuttle oscillator that was found in August 1980. www.conwaylife.com/wiki/index.php?title=Eureka",
+	"width": 18,
+	"height": 11,
+	"rule": "3/23"
+}

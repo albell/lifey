@@ -1,0 +1,12 @@
+{
+	"name": "Unidimensional Infinite Growth",
+	"author": "Paul Callahan",
+	"comments": "Infinite growth resulting from a single row of live cells. http://www.conwaylife.com/wiki/One_cell_thick_pattern",
+	"width": 39,
+	"height": 1,
+	"rule": "3/23",
+	"minCanvasX": 500,
+	"minCanvasY": 600,
+	"offsetX": 50,
+	"pattern": "8ob5o3b3o6b7ob5o"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Beehive with Nine",
+	"pattern": "b2o4b$o2bo3b$b2obo2b$4bo2b$4bobo$5b2o",
+	"comments": "A 12-cell still life. http://www.conwaylife.com/wiki/index.php?title=Beehive_with_nine",
+	"width": 7,
+	"height": 6,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Honeybit",
+	"pattern": "o2bo$4bo$o3bo$b4o3$10b2o19bo$9bo2bo18bobo$9bo2bo18b2o$10b2o2$31b2o$11b2o17bo2bo$11b2o18b2o",
+	"author": "Brice Due",
+	"comments": "www.conwaylife.com/wiki/Honeybit",
+	"width": 34,
+	"height": 14,
+	"rule": "3/23"
+}

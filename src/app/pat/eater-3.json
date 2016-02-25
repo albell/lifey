@@ -1,0 +1,9 @@
+{
+	"name": "Eater 3",
+	"pattern": "9b2ob$4b2o2bo2bo$bo2bo4bobo$obobo5bob$bo2bob2o4b$4bo2bo4b$5bo4bob$6b5ob2$8bo3b$7bobo2b$8bo",
+	"author": "David Buckingham",
+	"comments": "A 31-cell still life and symmetric eater. http://www.conwaylife.com/wiki/index.php?title=Eater_3",
+	"width": 12,
+	"height": 12,
+	"rule": "3/23"
+}

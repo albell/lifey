@@ -1,0 +1,9 @@
+{
+	"name": "Two pre-L Hasslers",
+	"pattern": "4b2o12b2o4b$2obo2bob2o4b2obo2bob2o$2o2bo4bo4bo4bo2b2o$5bo12bo5b$6bobo6bobo6b$10bo13b$9bobo12b$8bo5bo9b$9bo5bo8b$12bobo9b$13bo10b$6bobo6bobo6b$5bo12bo5b$2o2bo4bo4bo4bo2b2o$2obo2bob2o4b2obo2bob2o$4b2o12b2o",
+	"author": "Robert Wainwright",
+	"comments": "The first period 16 oscillator to be found. Found in July 1983. www.conwaylife.com/wiki/index.php?title=Two_pre-L_hasslers",
+	"width": 24,
+	"height": 16,
+	"rule": "3/23"
+}

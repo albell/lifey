@@ -1,0 +1,9 @@
+{
+	"name": "Silver's p5",
+	"pattern": "2o9b$o10b$bo2bo6b$3b2o6b$3bo3bob2o$2bo4b2obo$2b2o",
+	"author": "Stephen Silver",
+	"comments": "A period 5 oscillator found in February 2000. www.conwaylife.com/wiki/index.php?title=Silver's_p5",
+	"width": 11,
+	"height": 7,
+	"rule": "3/23"
+}

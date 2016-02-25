@@ -1,0 +1,495 @@
+// Extra mobile UI elements not used in the desktop interface.
+.player__generations-label--abbrev,
+.mobile-info,
+.meter__mobile-button,
+.menu__mobile-button,
+.patterns__mobile-button,
+.mobile-menu__about,
+.mobile-menu__view-source,
+.mobile-menu__twitter,
+.mobile-menu__go-fullscreen,
+.mobile-menu__exit-fullscreen,
+.mobile-menu__refresh {
+	display: none;
+}
+
+@media (max-width: $desktopBreakpointWidth), (max-height: $desktopBreakpointHeight) {
+	
+	// Things to hide in mobile view:
+	.toolbox__button--hand,
+	.toolbox__button--zoom-out,
+	.player__generations-label,
+	.info__cursor,
+	.info__dimension-axis,
+	.navigator,
+	.toolbox__dragspot,
+	.panel__dragspot,
+	.panel--dragspot-bottom,
+	.panel__button--show-tooltip::after { // Eliminate tooltips.
+		display: none;
+	}
+
+	.info {
+		height: 0;
+	}
+
+	// Override desktop stylesheet inserted later.
+	.panel--right.panel--right {
+		right: auto;
+	}
+
+	.player__generations-label--abbrev {
+		display: inline;
+	}
+	
+	.outer-background {
+		height: calc(100% - 126px); // 42px * 3 rows.
+	}
+
+	.mobile-info {
+		background: $darkGray;
+		border-top: 1px solid $offBlack;
+		bottom: 0;
+		position: fixed;
+		width: 100%;
+		height: 126px;
+		z-index: 5;
+	}
+
+	.info__dimension-axis-x,
+	.info__dimension-axis-y,
+	.player__generations {
+		font-size: 1.5em;
+		padding-top: 0;
+		position: fixed;
+		z-index: 15;
+	}
+
+	.info__dimension-axis-x,
+	.info__dimension-axis-y {
+		bottom: 84px;
+		height: 36px;
+		line-height: 36px;
+	}
+
+	.player__generations {
+		border-right: 1px solid $offBlack;
+		border-bottom: 1px solid $offBlack;
+		bottom: 84px;
+		height: 42px;
+		line-height: 42px;
+		left: 0px;
+		width: calc((100% - 15px) / 4 + 3px);
+	}
+
+	.panel {
+		border: 0;
+		box-shadow: none;
+		position: static; // Don't create a positioning context.
+	}
+
+	.panel__button:hover {
+		box-shadow: none;
+	}
+
+	.panel__button-icon {
+		height: 23px; // SVGs Larger, up from 19 x 23px.
+		width: 29px;
+	}
+
+	.info__dimension-icon {
+		height: 24px;
+		margin: 0;
+		width: 24px;
+	}
+
+	.toolbox {
+		bottom: 42px; // 36 + 3 padding +3 padding.
+		padding: 3px 0;
+		position: fixed;
+		width: calc((100% - 15px) / 4 * 3 + 9px); // Three columns out of 4.
+		z-index: 8;
+	}
+
+	.toolbox__tools {
+		padding: 0;
+	}
+
+	.toolbox__button {
+		height: 36px;
+		margin: 0 0 0 3px;
+		width: calc(33.33% - 3px);
+	}
+
+	.player {
+		height: 0;
+		width: 100%;
+	}
+	
+	.player__buttons {
+		background: $darkGray;
+		height: 42px; // 36px high button + 3px padding + 3px padding.
+		padding-left: 0;
+		padding-right: 0%; // Required for descendant percentages to work correctly
+		position: fixed;
+		left: calc(25% - 15px / 4 + 3px); // Width of one button plus 1 three pixel margin.
+		bottom: 0;
+		width: calc(75% - 15px * 3 / 4 + 12px); // Width of three buttons plus four 3 px margins;
+		z-index: 8;
+	}
+
+	.player__button {
+		width: calc((100% - 12px) / 3);
+	}
+	
+	.player__button--clear {
+		position: fixed;
+		bottom: 45px; // 36 + 3 padding + 3 padding + 3 padding.
+		right: 3px;
+		left: auto;
+		width: calc(25% - 15px / 4); // Relative to viewport, not offsetParent.
+	}
+
+	.player__button,
+	.info__button--resize,
+	.meter__mobile-button,
+	.menu__mobile-button,
+	.patterns__mobile-button {
+		height: 36px;
+		margin: 0 0 0 3px;
+	}
+
+	.player__button,
+	.info__button--resize,
+	.meter__mobile-button,
+	.menu__mobile-button {
+		z-index: 13;
+	}
+
+	.patterns__mobile-button {
+		z-index: 25; // Needs to sit on top of the patterns flyup.
+	}
+
+	.info__button--resize,
+	.meter__mobile-button,
+	.menu__mobile-button,
+	.patterns__mobile-button {
+		width: calc((100% - 15px) / 4);
+	}
+
+	.player--mobile-show-speed {
+		position: relative;
+	}
+
+	.player__speed {
+		background: $mobileOptionsBackground;
+		border-bottom: 0;
+		bottom: 126px;
+		height: 0;
+		left: 0;
+		padding: 0 17%;
+		position: fixed;
+		transition: height 0.3s;
+		width: 100%;
+	}
+
+	.player--mobile-show-speed > .player__speed {
+		height: 50px;
+	}
+
+	.player__tortoise,
+	.player__hare {
+		margin: 10px 5% 0 5%;
+		position: absolute;
+		top: 0;
+		width: 32px;
+		height: 26.4px;
+	}
+
+	.player__tortoise {
+		left: 3px;
+	}
+
+	.player__hare {
+		right: 3px;
+	}
+
+	.player__speed-input-wrapper {
+		margin-top: 23px;
+		width: 100%;
+	}
+
+	.mobile-info,
+	.patterns__mobile-button,
+	.meter__mobile-button,
+	.menu__mobile-button {
+		display: block;
+	}
+
+	.patterns__mobile-button,
+	.meter__mobile-button,
+	.info__button--resize,
+	.menu__mobile-button {
+		position: fixed;
+	}
+
+	.meter__mobile-button,
+	.info__button--resize,
+	.menu__mobile-button {
+		bottom: 87px; // 42px + 42px + 3px "padding".
+	}
+
+	.meter__mobile-button {
+		left: calc((100% - 15px) / 4 + 3px);
+	}
+
+	// Put the triangle on the active buttons to avoid z-index interleaving madness.
+	// (This gray triangle overwrites the desktop tooltip.)
+	.meter__mobile-button.panel__button--selected::after,
+	.patterns__mobile-button.panel__button--selected::after,
+	.menu__mobile-button.panel__button--selected::after {
+		background: transparent;;
+		box-shadow: none;
+		content: "";
+		display: block;
+		height: 0px;
+		border-top: 14px solid $mobileOptionsBackground;
+		border-right: 14px solid transparent;
+		border-left: 14px solid transparent;
+		padding: 0;
+		left: 50%;
+		margin-left: -14px;
+		top: -6px;
+		width: 0px;
+	}
+
+	.info__button--resize {
+		left: calc(50% - 1.5px); // Just over from the middle.
+	}
+	
+	.menu__mobile-button {
+		right: 3px;
+	}
+
+	.player__toroidal {
+		background: $mobileOptionsBackground;
+		border-bottom: 0;
+		bottom: 126px;
+		font-size: 1.5em;
+		height: 0;
+		left: 0;
+		padding: 0;
+		position: fixed;
+		transition: height 0.25s, padding-top 0.25s;
+		width: 100%;
+	}
+
+	.player--mobile-show-toroidal > .player__toroidal {
+		height: 170px; // 34px * 5 menu items.
+	}
+
+	// Align styles for both <a> and <button> elements.
+	// The buttons affect full screen, so affect their display here.
+	.mobile-menu__item {
+		background: transparent;
+		border-top: 1px solid $offBlack;
+		border-right: 0;
+		border-bottom: 0;
+		border-left: 0;
+		font-size: inherit;
+		height: 34px;
+		line-height: 34px;
+		padding: 0 0 0 30px;
+		text-align: left;
+		width: 100%;
+	}
+
+	a.mobile-menu__item,
+	div.mobile-menu__item {
+		display: block;
+	}
+
+	.player__toroidal-input,
+	.player__toroidal-label {
+		height: 34px;
+		vertical-align: top;
+	}
+
+	 // Prevent any funny business on the input by making it unclickable when hidden.
+	.player__toroidal-input {
+		display: none;
+		height: 32px;
+		position: relative;
+		top: 2px;
+		width: 32px;
+	}
+
+	.player--mobile-show-toroidal .player__toroidal-input {
+		display: inline-block;
+	}
+
+	.player__toroidal-label {
+		height: 34px;
+		line-height: 34px;
+	}
+
+	.patterns__mobile-button {
+		bottom: 3px;
+		left: 0;
+	}
+
+	.patterns__mobile-button-icon {
+		height: 26.4px;
+		width: 32px;
+	}
+
+	.patterns {
+		bottom: 42px;
+		height: 0;
+		left: 0;
+		overflow: hidden;
+		position: absolute;
+		right: auto !important; 
+		top: auto;
+		transition: height .25s;
+		width: 100%;
+		z-index: 20;
+	}
+
+	.patterns--mobile-show {
+		border-bottom: 1px solid $offBlack;
+		height: calc(100vh - 125px);
+	}
+
+	// The open, save and share buttons.
+	.patterns__button {
+		height: 36px;
+		margin: 0 0 0 3px;
+		width: calc(20% - 18px / 5);
+	}
+
+	.patterns__outer-wrapper {
+		height: calc(100% - 46px); // 47 pixel top row minus 1 so there's never a double border at bottom.
+		background: $mobileOptionsBackground; 
+	}
+
+	.patterns__group,
+	.patterns__group-items {
+		background: transparent;
+	}
+
+	.patterns__group-name,
+	.pat__link {
+		font-size: 1.5em;
+		height: 34px;
+		padding-top: 0;
+		line-height: 34px;
+	}
+
+	.patterns__group-name {
+		padding-left: 30px; // Up 8px from 22px in desktop view.
+	}
+
+	.patterns__group-items {
+		padding-left: 26px; // Up 8px from 18px in desktop view.
+	}
+
+	// Arrow points right in collapsed state.
+	.patterns__group-name:before {
+		border-left: 7px solid $midLightGray;
+		border-top: 7px solid transparent;
+		border-bottom: 7px solid transparent;
+		height: 14px;
+		width: 10px;
+		left: 7px;
+		top: 8px;
+		transition: transform .3s, top .3s;
+	}
+
+	// Arrow points down in accordion open state.
+	// FWIW Adobe doesn't animate the rotation on desktop.
+	// But do so on the mobile view.
+	// Need all the repetition for the cascade.
+	.patterns__group-checkbox:checked + .patterns__group-name:before {
+		border-left: 7px solid $midLightGray;
+		border-top: 7px solid transparent;
+		border-bottom: 7px solid transparent;
+		height: 14px;
+		width: 10px;
+		left: 7px;
+		top: 11px;
+		transform: rotate(90deg);
+	}
+
+	.pat {
+		height: 34px;
+	}
+
+	.pat__link {
+		width: calc(100% - 34px);
+	}
+
+	.pat__wiki-link {
+		font-size: 19px;
+		height: 34px;
+		line-height: 34px;
+		padding: 0;
+		width: 34px;
+	}
+
+	.pat--loading:before {
+		left: -22px;
+		top: 12px;
+	}
+
+	// Default to on in the mobile view.
+	.mobile-menu__go-fullscreen {
+		display: block;
+	}
+
+	// But switch the display of the fullscreen buttons in full screen mode.
+	:-webkit-full-screen .mobile-menu__go-fullscreen { display: none; }
+	:-moz-full-screen    .mobile-menu__go-fullscreen { display: none; }
+	:fullscreen          .mobile-menu__go-fullscreen { display: none; }
+	:-webkit-full-screen .mobile-menu__exit-fullscreen { display: block; }
+	:-moz-full-screen    .mobile-menu__exit-fullscreen { display: block; }
+	:fullscreen          .mobile-menu__exit-fullscreen { display: block; }
+
+	// Show the refresh button in either standalone or fullscreen states.
+	:-webkit-full-screen .mobile-menu__refresh { display: block; }
+	:-moz-full-screen    .mobile-menu__refresh { display: block; }
+	:fullscreen          .mobile-menu__refresh { display: block; }
+	
+	// Make the mobile menu correspondingly taller to accomodate the refresh button.
+	// 34px * 6 menu items.
+	:-webkit-full-screen .player--mobile-show-toroidal > .player__toroidal { height: 204px; }
+	:-moz-full-screen    .player--mobile-show-toroidal > .player__toroidal { height: 204px; }
+	:fullscreen          .player--mobile-show-toroidal > .player__toroidal { height: 204px; }
+}
+
+// And fullscreen "display-mode" media queries for future-friendliness.
+// https://developers.google.com/web/updates/2015/10/display-mode
+// https://w3c.github.io/manifest/#the-display-mode-media-feature
+// Standalone != fullscreen. On android "standalone" still typically shows the bottom nav bar
+// and a strip of info at the top. The user can still go into fullscreen from standalone mode.
+@media (max-width: $desktopBreakpointWidth) and (display-mode: fullscreen),
+       (max-height: $desktopBreakpointHeight) and (display-mode: fullscreen) {
+	.mobile-menu__go-fullscreen { display: none; }
+	.mobile-menu__exit-fullscreen { display: block; }
+}
+
+// Show a refresh button in either fullscreen or standalone modes.	
+@media (max-width: $desktopBreakpointWidth) and (display-mode: fullscreen),
+       (max-height: $desktopBreakpointHeight) and (display-mode: fullscreen),
+       (max-width: $desktopBreakpointWidth) and (display-mode: standalone),
+       (max-height: $desktopBreakpointHeight) and (display-mode: standalone) {
+	.mobile-menu__refresh {
+		display: block;
+	}
+
+	// Make the mobile menu correspondingly taller to accomodate the refresh button.
+	// 34px * 6 menu items.
+	.player--mobile-show-toroidal > .player__toroidal {
+		height: 204px;
+	}
+}

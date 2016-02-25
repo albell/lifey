@@ -1,0 +1,10 @@
+{
+	"name": "Heavyweight Spaceship",
+	"author": "John Conway",
+	"comments": "A very well-known period 4 c/2 orthogonal spaceship. www.conwaylife.com/wiki/index.php?title=Heavyweight_spaceship",
+	"width": 7,
+	"height": 5,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "3b2o2b$bo4bo$o6b$o5bo$6o"
+}

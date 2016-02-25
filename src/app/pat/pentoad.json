@@ -1,0 +1,9 @@
+{
+	"name": "Pentoad",
+	"pattern": "11b2o$11bob$9bobob$9b2o2b$5b2o6b$6bo6b$6bo6b$6b2o5b$2b2o9b$bobo9b$bo11b$2o",
+	"author": "Bill Gosper",
+	"comments": "A period 5 oscillator found in June 1977. www.conwaylife.com/wiki/index.php?title=Pentoad",
+	"width": 13,
+	"height": 12,
+	"rule": "3/23"
+}

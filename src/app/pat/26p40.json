@@ -1,0 +1,9 @@
+{
+	"name": "26P40",
+	"pattern": "2o8b2o5b$2o7bo7b$12bo4b$8b2obo5b$8b2o7b5$7b2o8b$5bob2o8b$4bo12b$7bo7b2o$5b2o8b2o",
+	"author": "Nicolay Beluchenko",
+	"comments": "A period 40 oscillator, discovered in March or April, 2009. www.conwaylife.com/wiki/index.php?title=26P40",
+	"width": 17,
+	"height": 14,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Heart",
+	"pattern": "5bo5b$4bo2bo3b$bo2bo2bo3b$obobobob2ob$bo2bo2bo3b$4bo5bo$5b5ob2$7bo3b$6bobo2b$7bo",
+	"comments": "A period 5 oscillator. www.conwaylife.com/wiki/Heart",
+	"width": 11,
+	"height": 11,
+	"rule": "3/23"
+}

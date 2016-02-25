@@ -1,0 +1,8 @@
+{
+	"name": "Period 8 Eater 3",
+	"pattern": "11bo8b$10bobo7b$11bo8b2$9b5o6b$9bo4bo5b$12bo2bo4b$12b2obo2bob$9b2o4bobobo$4b2o2bo2bo3bo2bob$bo2bo4bobo2b2o4b$obobo5bo9b$bo2bob2o12b$4bob2o12b$5bo4bo9b$6b5o9b2$8bo11b$7bobo10b$8bo",
+	"comments": "A period 8 oscillator. www.conwaylife.com/wiki/index.php?title=Eater_3",
+	"width": 20,
+	"height": 20,
+	"rule": "3/23"
+}

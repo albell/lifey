@@ -1,0 +1,12 @@
+{
+	"name": "Puffer 2",
+	"author": "Bill Gosper",
+	"comments": "An orthogonal period 140 c/2 puffer. The second puffer to be found. It uses two lightweight spaceships to escort a B-heptomino. www.conwaylife.com/wiki/index.php?title=Puffer_2",
+	"width": 18,
+	"height": 5,
+	"offsetY": 2800,
+	"minCanvasX": 500,
+	"minCanvasY": 3000,
+	"rule": "3/23",
+	"pattern": "b3o11b3o$o2bo10bo2bo$3bo4b3o6bo$3bo4bo2bo5bo$2bo4bo8bo"
+}

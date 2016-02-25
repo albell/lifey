@@ -1,0 +1,8 @@
+{
+	"name": "B-Heptomino",
+	"pattern": "ob2o$3ob$bo",
+	"comments": "A very common methuselah with lifespan 148 that often arises with the cell at top left shifted one space to the left, which does not affect the subsequent evolution. www.conwaylife.com/wiki/index.php?title=B-heptomino",
+	"width": 4,
+	"height": 3,
+	"rule": "3/23"
+}

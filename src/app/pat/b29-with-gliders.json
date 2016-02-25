@@ -1,0 +1,8 @@
+{
+	"name": "B29 with Gliders",
+	"pattern": "3b2o18b2o19b2o$2b2o18b2o19b2o$4bo19bo20bo$6b2o18b2o19b2o$5bo19bo20bo2$4bo2bo16bo2bo17bo2bo$b2obo16b2obo17b2obo$2o4bo13b2o4bo14b2o4bo$2bobo2bo14bobo2bo15bobo2bo$7bo19bo20bo$4bo2bo16bo2bo17bo2bo$5bobo3b2o12bobo2b3o13bobo$5bobo2b2o13bobo2bo15bobo4bo$6b2o4bo13b2o3bo15b2o3b2o$6bo19bo20bo4bobo",
+	"comments": "http://www.conwaylife.com/wiki/B29",
+	"width": 55,
+	"height": 16,
+	"rule": "3/23"
+}

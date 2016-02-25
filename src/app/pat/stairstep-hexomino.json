@@ -1,0 +1,8 @@
+{
+	"name": "Stairstep Hexomino",
+	"pattern": "2o2b$b2ob$2b2o",
+	"comments": "One of 35 hexominoes. It is a predecessor of the blockade. www.conwaylife.com/wiki/index.php?title=Stairstep_hexomino",
+	"width": 4,
+	"height": 3,
+	"rule": "3/23"
+}

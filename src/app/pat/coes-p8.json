@@ -1,0 +1,9 @@
+{
+	"name": "Coe's p8",
+	"pattern": "2o10b$2o2b2o6b$5b2o5b$4bo2bo4b$7bo2b2o$5bobo2b2o",
+	"author": "Tim Coe",
+	"comments": "A period 8 oscillator found in August 1997. http://www.conwaylife.com/wiki/index.php?title=Coe's_p8",
+	"width": 12,
+	"height": 6,
+	"rule": "3/23"
+}

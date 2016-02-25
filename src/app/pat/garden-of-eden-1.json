@@ -1,0 +1,9 @@
+{
+	"name": "Garden of Eden 1",
+	"pattern": "33o$2obob3ob3ob2obobobobobobobobobo$obob3ob3ob4ob3obobobobobobob$5ob3ob3ob4ob14o$obob2ob3ob3obob3obobobobobobob$4ob3ob3ob5ob2obobobobobobo$b2ob3ob3ob3obobob13o$2ob2ob3ob3ob2ob4obobobobobobo$18ob14o",
+	"author": "Roger Banks",
+	"comments": "The first Garden of Eden that was explicitly constructed. Found i 1971. www.conwaylife.com/wiki/index.php?title=Garden_of_Eden_1",
+	"width": 33,
+	"height": 9,
+	"rule": "3/23"
+}

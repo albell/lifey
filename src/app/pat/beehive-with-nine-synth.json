@@ -1,0 +1,8 @@
+{
+	"name": "Beehive with Nine Synth",
+	"pattern": "bo65b$2bo64b$3o64b$20b2o18b2o6bobo9b2o5b$2bo17bobo17bobo6b2o9bobo4b$b2o18bo19bo7bo12bo4b$bobo58bob2ob$48b3o12bo2bo$48bo15b2ob$49bo17b2$44b2o4bo16b$43b2o4b2o16b$45bo3bobo15b12$5bo3bo57b$6b2obobo55b$5b2o2b2o16bo19bo19b$26bobo17bobo18b$11b3o13bo14bo4bo19b$11bo30b2o23b$12bo28bobo23b2$44b2o14b2o5b$44bobo13bobo4b$44bo17bo4b$36bo25bob2ob$34bobo2b2o22bo2bo$35b2ob2o24b2ob$40bo",
+	"comments": "Glider syntheses of beehive with nine http://www.conwaylife.com/wiki/index.php?title=Beehive_with_nine",
+	"width": 67,
+	"height": 40,
+	"rule": "3/23"
+}

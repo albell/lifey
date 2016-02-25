@@ -1,0 +1,9 @@
+{
+	"name": "Toad",
+	"pattern": "b3o$3o",
+	"author": "Simon Norton",
+	"comments": "A period 2 oscillator. The second most common oscillator (after the blinker). www.conwaylife.com/wiki/index.php?title=Toad",
+	"width": 4,
+	"height": 2,
+	"rule": "3/23"
+}

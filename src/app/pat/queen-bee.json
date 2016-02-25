@@ -1,0 +1,8 @@
+{
+	"name": "Queen Bee",
+	"pattern": "3bo3b$2bobo2b$bo3bob$2b3o2b$2o3b2o",
+	"comments": "A pattern that lays a beehive on either side of itself before exploding. www.conwaylife.com/wiki/index.php?title=Queen_bee",
+	"width": 7,
+	"height": 5,
+	"rule": "3/23"
+}

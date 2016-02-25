@@ -1,0 +1,9 @@
+{
+	"name": "Laputa",
+	"pattern": "3b2ob2o4b$3b2obo3b2o$8bo2bo$b6ob3ob$o2bobo6b$2o3bob2o3b$4b2ob2o",
+	"author": "Rich Schroeppel",
+	"comments": "A period 2 oscillator found in September 1992. www.conwaylife.com/wiki/index.php?title=Laputa",
+	"width": 12,
+	"height": 7,
+	"rule": "3/23"
+}

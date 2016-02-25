@@ -1,0 +1,9 @@
+{
+	"name": "Hat Synth",
+	"author": "Mark D. Niemiec",
+	"comments": "Glider synthesis of hats. http://conwaylife.com/wiki/Hat",
+	"width": 109,
+	"height": 18,
+	"rule": "23/3",
+	"pattern": "84bo24b$85b2o22b$b2o81b2o23b$obobo39bobo41bo20b$2bobobo38b2o40bo21b$4b2o39bo41b3o19b2$24b2ob2o14b2o19b2ob2o35b2ob2o$8b2o15bobo15bobo19bobo37bobob$8bobo14bobo15bo4b3o14bobo37bobob$8bo17bo21bo17bo39bo2b$49bo38bo20b$87b2o20b$87bobo19b2$84b3o22b$86bo22b$85bo"
+}

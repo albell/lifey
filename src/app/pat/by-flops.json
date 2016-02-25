@@ -1,0 +1,9 @@
+{
+	"name": "By Flops",
+	"pattern": "3bo2b$bobo2b$5bo$5ob$5bo$bobo2b$3bo",
+	"author": "Robert Wainwright",
+	"comments": "A period 2 oscillator. www.conwaylife.com/wiki/index.php?title=By_flops",
+	"width": 6,
+	"height": 7,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Bottle",
+	"pattern": "4b2o6b2o4b$3bo2bo4bo2bo3b$3bobo6bobo3b$b2o2b3o2b3o2b2ob$o6bo2bo6bo$ob2o10b2obo$bobo10bobob$3b2o8b2o3b3$3b2o8b2o3b$bobo10bobob$ob2o10b2obo$o6bo2bo6bo$b2o2b3o2b3o2b2ob$3bobo6bobo3b$3bo2bo4bo2bo3b$4b2o6b2o",
+	"author": "Achim Flammenkamp",
+	"comments": "A period 8 oscillator. www.conwaylife.com/wiki/index.php?title=Bottle",
+	"width": 18,
+	"height": 18,
+	"rule": "3/23"
+}

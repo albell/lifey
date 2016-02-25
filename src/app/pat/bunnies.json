@@ -1,0 +1,13 @@
+{
+	"name": "Bunnies",
+	"author": "Robert Wainwright and Andrew Trevorrow",
+	"comments": "A methuselah and parent of rabbits with lifespan 17332. www.conwaylife.com/wiki/index.php?title=Bunnies",
+	"width": 8,
+	"height": 4,
+	"rule": "3/23",
+	"minCanvasX": 425,
+	"minCanvasY": 425,
+	"offsetX": 250,
+	"offsetY": 200,
+	"pattern": "o5bob$2bo3bob$2bo2bobo$bobo"
+}

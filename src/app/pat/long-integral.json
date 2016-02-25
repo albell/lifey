@@ -1,0 +1,8 @@
+{
+	"name": "Long Integral",
+	"pattern": "2b2o$bobo$bo2b$2bob$obob$2o",
+	"comments": "A 10-cell still life. It is the long version of an integral sign. http://www.conwaylife.com/wiki/index.php?title=Long_integral",
+	"width": 4,
+	"height": 6,
+	"rule": "3/23"
+}

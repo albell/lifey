@@ -1,0 +1,8 @@
+{
+	"name": "X66 Half",
+	"pattern": "2bo$2o$o2b3o2bo$o4b3o$b3o2b2o2$3b2o$bo4bo$o$o5bo$6o",
+	"comments": "Half of x66 supported by a heavyweight spaceship",
+	"width": 9,
+	"height": 11,
+	"rule": "3/23"
+}

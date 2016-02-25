@@ -1,0 +1,8 @@
+{
+	"name": "Loop",
+	"pattern": "b2o2b$o2bob$bobob$2ob2o",
+	"comments": "A 10-cell still life. http://www.conwaylife.com/wiki/index.php?title=Loop",
+	"width": 5,
+	"height": 4,
+	"rule": "3/23"
+}

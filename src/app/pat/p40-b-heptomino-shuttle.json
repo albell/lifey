@@ -1,0 +1,9 @@
+{
+	"name": "P40 B-Heptomino Shuttle",
+	"pattern": "b2o20b2ob$o2bo19b2ob$o25b$o25b$ob2o20b2o$2b2o18bob2o$22bo3b$22bo3b$b2o13b2o4bo2bo$b2o12bo2bo4b2ob$15bo2bo7b$14b2ob2o7b$15b2o9b2$7bo10bo7b$6bobo8bobo6b$7bo4b2o4bo7b$10bo4bo10b$10bo4bo10b$10bo4bo10b$11bo2bo11b$9bobo2bobo9b$9b2o4b2o",
+	"author": "David Buckingham",
+	"comments": "The first period 40 oscillator to be discovered",
+	"width": 26,
+	"height": 23,
+	"rule": "3/23"
+}

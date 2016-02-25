@@ -1,0 +1,8 @@
+{
+	"name": "34P13",
+	"pattern": "4b3o9b2$6bo9b$6b2o8b$5bo10b$8bo7b$4bo3bo7b$9b2o5b$2o2b3o5bo3b$2o5bo4b2obo$7bo3bo3bo$7bobo5bo3$6b2o8b$6b2o",
+	"comments": "The smallest known period 13 oscillator. www.conwaylife.com/wiki/index.php?title=34P13",
+	"width": 16,
+	"height": 16,
+	"rule": "23/3"
+}

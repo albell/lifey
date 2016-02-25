@@ -1,0 +1,10 @@
+{
+	"name": "Turtle",
+	"author": "Dean Hickerson",
+	"comments": "A period 3 c/3 orthogonal spaceship. www.conwaylife.com/wiki/index.php?title=Turtle",
+	"width": 12,
+	"height": 10,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "b3o7bo$b2o2bob2ob2o$3b3o4bob$bo2bobo3bob$o4bo4bob$o4bo4bob$bo2bobo3bob$3b3o4bob$b2o2bob2ob2o$b3o7bo"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Glasses",
+	"pattern": "4bo8bo4b$2b3o8b3o2b$bo14bob$bo2b3o4b3o2bob$2obo3bo2bo3bob2o$3bo3b4o3bo3b$3bo3bo2bo3bo3b$4b3o4b3o4b2$4b2obo2bob2o4b$4bob2o2b2obo",
+	"comments": "A period 2 oscillator. www.conwaylife.com/wiki/index.php?title=Glasses",
+	"width": 18,
+	"height": 11,
+	"rule": "3/23"
+}

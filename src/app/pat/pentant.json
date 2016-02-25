@@ -1,0 +1,9 @@
+{
+	"name": "Pentant",
+	"pattern": "2o8b$bo8b$bobo6b$2b2o4b2o$9bo$5b4ob$5bo4b$2bo3b3ob$2b4o2bob$5bo4b$4bo5b$4b2o",
+	"author": "David Buckingham",
+	"comments": "A period 5 oscillator found in July 1976. www.conwaylife.com/wiki/index.php?title=Pentant",
+	"width": 10,
+	"height": 12,
+	"rule": "3/23"
+}

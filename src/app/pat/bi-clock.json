@@ -1,0 +1,8 @@
+{
+	"name": "Bi-clock",
+	"pattern": "2bo4b$2o5b$2b2o3b$bo3bob$3b2o2b$5b2o$4bo",
+	"comments": "A pure glider generator made up of two clocks. www.conwaylife.com/wiki/index.php?title=Bi-clock",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

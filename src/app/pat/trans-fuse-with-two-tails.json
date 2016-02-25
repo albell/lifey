@@ -1,0 +1,8 @@
+{
+	"name": "Trans-Fuse with Two Tails",
+	"pattern": "2o4b$bo4b$bobo2b$2bobob$4bob$4b2o",
+	"comments": "A simple 10-cell still life. http://www.conwaylife.com/wiki/index.php?title=Trans-fuse_with_two_tails",
+	"width": 6,
+	"height": 6,
+	"rule": "3/23"
+}

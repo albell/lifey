@@ -1,0 +1,9 @@
+{
+	"name": "37P7.1",
+	"pattern": "4b2o6b$2o3bo6b$bo3bobo4b$bob2obobob2o$2bobobob2obo$4bo7b$2bo5b3ob$o9bob$o3b4obo2b$bo5b2o",
+	"author": "Scot Ellison",
+	"comments": "A small period 7 sparker discovered in October, 2005 www.conwaylife.com/wiki/index.php?title=37P7.1",
+	"width": 12,
+	"height": 10,
+	"rule": "3/23"
+}

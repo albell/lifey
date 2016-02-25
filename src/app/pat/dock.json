@@ -1,0 +1,8 @@
+{
+	"name": "Dock",
+	"pattern": "b4ob$o4bo$2o2b2o",
+	"comments": "An induction coil. www.conwaylife.com/wiki/index.php?title=Dock",
+	"width": 6,
+	"height": 3,
+	"rule": "3/23"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Pufferfish",
+	"author": "Richard Schank",
+	"comments": "An almost natural c/2 puffer, discovered in November 2014. www.conwaylife.com/wiki/Pufferfish",
+	"width": 15,
+	"height": 12,
+	"rule": "3/23",
+	"offsetY": 300,
+	"minCanvasY": 400,
+	"pattern": "3bo7bo$2b3o5b3o$b2o2bo3bo2b2o$3b3o3b3o2$4bo5bo$2bo2bo3bo2bo$o5bobo5bo$2o4bobo4b2o$6bobo$3bobo3bobo$4bo5bo"
+}

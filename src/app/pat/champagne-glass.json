@@ -1,0 +1,9 @@
+{
+	"name": "Champagne Glass",
+	"pattern": "3b2o5b2o3b$3bo7bo3b$2obo7bob2o$o2b2o5b2o2bo$b2o6bo2b2ob$3b3o4b2o3b$3bo4bo2bo3b$4b7o4b2$6b3o6b$6bo2bo5b$8b2o",
+	"author": "Dean Hickerson",
+	"comments": "A period 22 oscillator found in the mid-1990s. www.conwaylife.com/wiki/index.php?title=Champagne_glass",
+	"width": 15,
+	"height": 12,
+	"rule": "3/23"
+}

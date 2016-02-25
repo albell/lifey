@@ -1,0 +1,9 @@
+{
+	"name": "28P7.2",
+	"pattern": "b2o9b$2bo9b$bo10b$b2o7b2o$3bo4bo2bo$b2o2b2o2b2ob$o2bo4bo3b$2o7b2ob$10bob$9bo2b$9b2o",
+	"author": "Dean Hickerson",
+	"comments": "A period 7 oscillator that is tied with burloaferimeter and 28P7.1 as the smallest. www.conwaylife.com/wiki/index.php?title=28P7.2",
+	"width": 12,
+	"height": 11,
+	"rule": "3/23"
+}

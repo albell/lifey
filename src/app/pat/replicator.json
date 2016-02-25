@@ -1,0 +1,9 @@
+{
+	"name": "Replicator",
+	"pattern": "2b3o$bo2bo$o3bo$o2bob$3o",
+	"author": "Nathan Thompson",
+	"comments": "A replicator for the HighLife rule (23/36). www.conwaylife.com/wiki/index.php?title=HighLife",
+	"width": 5,
+	"height": 5,
+	"rule": "23/36"
+}

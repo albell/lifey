@@ -1,0 +1,9 @@
+{
+	"name": "Crown",
+	"pattern": "16b2o5b$3b2o13bo4b$2bo12bo7b$5bo3b3o3bo3bo3b$bo3bo4bo4bo3b4o$obo2bo11bo5b$o2bo19b$b2o20b$6b2o8b2o5b$6bo2b6o2bo5b$7b2o6b2o6b$4b3o10b3o3b$4bo2bobo4bobo2bo3b$5b2o4b2o4b2o",
+	"author": "Noam Elkies",
+	"comments": "A period 12 oscillator found in January 1995. www.conwaylife.com/wiki/index.php?title=Crown",
+	"width": 23,
+	"height": 14,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Bunnies Synth",
+	"pattern": "21bo26b$o18b2o27b$b2o17b2o26b$2o46b$19bo28b$18b2o18bo9b$18bobo16bobo8b$37bo2bo3b3ob$37bobo3bo3bo$17bo20bo4bo4b$10b2o4b2o25b2ob2o$10bobo3bobo26bo2b$10bo",
+	"author": "Mark D. Niemiec",
+	"comments": "Glider synthesis of bunnies. http://home.interserv.com/~mniemiec/objname.htm",
+	"width": 48,
+	"height": 13,
+	"rule": "23/3"
+}

@@ -1,0 +1,11 @@
+{
+	"name": "Pulsar Puffer",
+	"author": "Peter Raynham",
+	"comments": "Leaves a trail of pulsars by igniting the plume of a Schick engine with a pair of HWSS and a pair of MWSS.",
+	"width": 25,
+	"height": 21,
+	"rule": "3/23",
+	"minCanvasX": 500,
+	"offsetX": 50,
+	"pattern": "11b4o$b5o4b6o$o4bo4b4ob2o$5bo8b2o$o3bo$2bo$21b4o$20bo3bo$24bo$16b2o2bo2bo$16b3o$16b2o2bo2bo$24bo$20bo3bo$21b4o$2bo$o3bo$5bo8b2o$o4bo4b4ob2o$b5o4b6o$11b4o"
+}

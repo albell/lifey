@@ -1,0 +1,8 @@
+{
+	"name": "Griddle and Beehive",
+	"pattern": "3bo2b$bobo2b$o4bo$6o2$2b2o2b$bo2bob$2b2o",
+	"comments": "A period 2 oscillator. www.conwaylife.com/wiki/index.php?title=Griddle_and_beehive",
+	"width": 6,
+	"height": 8,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Hammerhead",
+	"comments": "An orthogonal period 4 c/2 spaceship with many different possible rear ends. www.conwaylife.com/wiki/index.php?title=Hammerhead",
+	"width": 18,
+	"height": 16,
+	"rule": "23/3",
+	"toroidal": true,
+	"pattern": "5o13b$o4bo7b2o3b$o11b2ob3o$bo9b2ob4o$3b2o3b2ob2o2b2ob$5bo4bo2bo4b$6bobobobo5b$7bo10b$7bo10b$6bobobobo5b$5bo4bo2bo4b$3b2o3b2ob2o2b2ob$bo9b2ob4o$o11b2ob3o$o4bo7b2o3b$5o"
+}

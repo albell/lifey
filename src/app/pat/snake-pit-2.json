@@ -1,0 +1,8 @@
+{
+	"name": "Snake Pit 2",
+	"pattern": "5b2o4b$4bo2bo3b$4bob2o3b$b2obo6b$obobob4ob$o9bo$b4obobobo$6bob2ob$3b2obo4b$3bo2bo4b$4b2o",
+	"comments": "A period 3 oscillator. www.conwaylife.com/wiki/index.php?title=Snake_pit_2",
+	"width": 11,
+	"height": 11,
+	"rule": "3/23"
+}

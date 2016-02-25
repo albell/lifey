@@ -1,0 +1,10 @@
+{
+	"name": "R-Pentomino",
+	"comments": "A methuselah with lifespan 1103. www.conwaylife.com/wiki/index.php?title=R-pentomino",
+	"width": 3,
+	"height": 3,
+	"rule": "3/23",
+	"minCanvasX": 200,
+	"minCanvasY": 200,
+	"pattern": "b2o$2ob$bo"
+}

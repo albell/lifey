@@ -1,0 +1,8 @@
+{
+	"name": "Traffic Light",
+	"pattern": "2b3o2b2$o5bo$o5bo$o5bo2$2b3o",
+	"comments": "A common period 2 oscillator made up of four blinkers. www.conwaylife.com/wiki/index.php?title=Traffic_light",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

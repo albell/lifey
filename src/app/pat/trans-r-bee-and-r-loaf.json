@@ -1,0 +1,8 @@
+{
+	"name": "Trans-R-Bee and R-Loaf",
+	"pattern": "2b2ob$bo2bo$b3ob2$b3ob$o2bob$obo2b$bo",
+	"comments": "A 15-cell still life. http://www.conwaylife.com/wiki/index.php?title=Trans-R-bee_and_R-loaf",
+	"width": 5,
+	"height": 8,
+	"rule": "3/23"
+}

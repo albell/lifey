@@ -1,0 +1,9 @@
+{
+	"name": "Trice Tongs",
+	"pattern": "2bo4b$2b3o2b$2o3bob$bobobob$bo5b$2b2o2bo$5b2o",
+	"author": "Robert Wainwright",
+	"comments": "A period 3 oscillator found in February 1982. www.conwaylife.com/wiki/index.php?title=Trice_tongs",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Waveguide 1",
+	"author": "Tony Smithurst",
+	"comments": "The first waveguide to be found. www.conwaylife.com/wiki/index.php?title=Waveguide_1",
+	"width": 61,
+	"height": 21,
+	"rule": "23/3",
+	"pattern": "b2o$o2bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo$4bobobobobobobobobobobobobobobobobobobobobobobobobobobobobo$o2bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo$b3o$2b2o$2b2o$3bo$3bo$3bo$3bo$3bo$3bo$3bo$2b2o$2b2o$b3o$o2bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo$4bobobobobobobobobobobobobobobobobobobobobobobobobobobobobo$o2bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo3bo$b2o"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Switch Engine Ping-Pong",
+	"pattern": "1148bo$1148b2o1076$145bo$144bo$144b3o158$3bo$b2o$o$bo182353$210513bo$210512bo$210512b3o141$210354bo$210353b3o$210355bo",
+	"author": "Michael Simkin",
+	"comments": "The smallest known pattern, that exhibits quadratic population growth, as of December 2014. www.conwaylife.com/wiki/Switch_engine_ping-pong",
+	"width": 210515,
+	"height": 183739,
+	"rule": "3/23"
+}

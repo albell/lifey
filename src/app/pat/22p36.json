@@ -1,0 +1,9 @@
+{
+	"name": "22P36",
+	"pattern": "2o12b$bo12b$bobo10b$2b2o10b$8bo5b$7b2o5b$8bo5b5$5bo8b$5b2o7b$5bo8b$10b2o2b$10bobob$12bob$12b2o",
+	"author": "Noam Elkies",
+	"comments": "A period 36 oscillator, discovered on January 29, 1995. www.conwaylife.com/wiki/index.php?title=22P36",
+	"width": 14,
+	"height": 18,
+	"rule": "3/23"
+}

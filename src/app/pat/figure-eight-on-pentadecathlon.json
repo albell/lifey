@@ -1,0 +1,8 @@
+{
+	"name": "Figure Eight on Pentadecathlon",
+	"pattern": "bo6b2o4b$bo6b2obo2b$obo9bob$bo7bo4b$bo8bob2o$bo10b2o$bo12b$obo11b$bo12b$bo",
+	"comments": "The smallest known period 120 oscillator. http://www.conwaylife.com/wiki/index.php?title=Figure_eight_on_pent adecathlon",
+	"width": 14,
+	"height": 10,
+	"rule": "23/3"
+}

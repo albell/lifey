@@ -1,0 +1,11 @@
+{
+	"name": "7468M",
+	"author": "Tomas Rokicki",
+	"comments": "A methuselah with lifespan 7468 found on February 20, 2005. www.conwaylife.com/wiki/index.php?title=7468M",
+	"width": 6,
+	"height": 4,
+	"rule": "3/23",
+	"minCanvasX": 500,
+	"minCanvasY": 350,
+	"pattern": "4bob$4b2o$2ob2ob$o"
+}

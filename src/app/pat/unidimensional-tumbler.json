@@ -1,0 +1,9 @@
+{
+	"name": "Unidimensional Tumbler",
+	"pattern": "5o2b3o3b3ob7ob5o2b4o",
+	"author": "Paul Callahan",
+	"comments": "A 1-cell-thick pattern that creates a tumbler. Found in October 199 8. www.conwaylife.com/wiki/index.php?title=Unidimensional_pattern",
+	"width": 36,
+	"height": 1,
+	"rule": "3/23"
+}

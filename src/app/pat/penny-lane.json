@@ -1,0 +1,9 @@
+{
+	"name": "Penny Lane",
+	"pattern": "3b2o5b2o3b$3bo7bo3b$2obo2bobo2bob2o$2obobo3bobob2o$4bo2bo2bo4b$5b5o5b2$7bo7b$6bobo6b$7bo",
+	"author": "David Buckingham",
+	"comments": "A period 4 oscillator that was found in 1972. www.conwaylife.com/wiki/index.php?title=Penny_lane",
+	"width": 15,
+	"height": 10,
+	"rule": "3/23"
+}

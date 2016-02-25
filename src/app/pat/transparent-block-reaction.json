@@ -1,0 +1,9 @@
+{
+	"name": "Transparent Block Reaction",
+	"pattern": "o13b$2o10b2o$b2o9b2o$2o",
+	"author": "David Buckingham",
+	"comments": "A reaction in which a B-heptomino passes through a block. www.conwaylife.com/wiki/index.php?title=Transparent_debris_effect",
+	"width": 14,
+	"height": 4,
+	"rule": "23/3"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Moon",
+	"pattern": "bo$o$o$bo",
+	"comments": "A simple period-1 speed c spaceship in the \"seeds\" rule. http://www.conwaylife.com/wiki/Moon",
+	"width": 2,
+	"height": 4,
+	"rule": "2/"
+}

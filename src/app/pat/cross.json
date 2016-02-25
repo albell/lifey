@@ -1,0 +1,9 @@
+{
+	"name": "Cross",
+	"pattern": "2b4o2b$2bo2bo2b$3o2b3o$o6bo$o6bo$3o2b3o$2bo2bo2b$2b4o",
+	"author": "Robert Wainwright",
+	"comments": "A period 3 oscillator found in October 1989. www.conwaylife.com/wiki/index.php?title=Cross",
+	"width": 8,
+	"height": 8,
+	"rule": "3/23"
+}

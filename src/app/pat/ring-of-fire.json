@@ -1,0 +1,9 @@
+{
+	"name": "Ring of Fire",
+	"pattern": "16bo17b$14bobobo15b$12bobobobobo13b$10bobobobobobobo11b$8bobobo2b2obobobobo9b$6bobobobo6bo2bobobo7b$4bobobo2bo10bobobobo5b$5b2obo14bo2bobobo3b$3bo3bo18bob2o4b$4b3o20bo3bo2b$2bo25b3o3b$3b2o27bob$bo3bo24b2o2b$2b4o23bo3bo$o29b3ob$b3o29bo$o3bo23b4o2b$2b2o24bo3bob$bo27b2o3b$3b3o25bo2b$2bo3bo20b3o4b$4b2obo18bo3bo3b$3bobobo2bo14bob2o5b$5bobobobo10bo2bobobo4b$7bobobo2bo6bobobobo6b$9bobobobob2o2bobobo8b$11bobobobobobobo10b$13bobobobobo12b$15bobobo14b$17bo",
+	"author": "Dean Hickerson",
+	"comments": "A large period 2 oscillator. It is a muttering moat that was found in September 1992. www.conwaylife.com/wiki/index.php?title=Ring_of_fire",
+	"width": 34,
+	"height": 30,
+	"rule": "3/23"
+}

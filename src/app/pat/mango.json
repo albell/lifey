@@ -1,0 +1,8 @@
+{
+	"name": "Mango",
+	"pattern": "b2o2b$o2bob$bo2bo$2b2o",
+	"comments": "A common 8-cell still life. http://www.conwaylife.com/wiki/index.php?title=Mango",
+	"width": 5,
+	"height": 4,
+	"rule": "3/23"
+}

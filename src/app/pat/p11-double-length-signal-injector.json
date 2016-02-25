@@ -1,0 +1,8 @@
+{
+	"name": "P11 Double-length Signal Injector",
+	"comments": "P11 double-length signal injector is a period 11 oscillator discovered by Matthias Merzenich In June, 2011. The long diagonal wire initially has no signal in it. The wire can be lengthened or shortened. http://www.conwaylife.com/wiki/P11_double-length_signal_injector",
+	"width": 51,
+	"height": 46,
+	"rule": "3/23",
+	"pattern": "7bo$6bobo2bo$6bob6o$4b2obo6bo$3bobo2bob5o$3bo2bobo8bo$2obo8b6o$o2bob5obo$2bo6bobo2bob4o$3b2ob3o2bobobo4bo$4b2o5bobo2bob3o$2bo4b2o3b2obobo5bo$2b2ob2obo6bo2b6o$6bo8bobo$6bobo5b2obo2b6o$7b2o8bobo6bo$17bobobob4o$18b2obo7bo$21bobob5o$21bobo$20b2obo2b6o$23bobo6bo$23bobo2b5o$24b2obobo5bo$27bob7o$27bobobo$26b2obob7o$29bobo6bo$29bobo2b5o$30b2obo7bo$33bo2bob4o$33bobobo$32b2obo2bob4o$35bobobo4bo$35bobo2b5o$36b2obo7bo$39bo2b6o$39bobo$38b2obobob5o$41bobo6bo$41bobobob4o$42b2obo$45bo2b3o$45bobo2bo$44b2obobo$48bo"
+}

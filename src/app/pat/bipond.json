@@ -1,0 +1,8 @@
+{
+	"name": "Bi-pond",
+	"pattern": "b2o4b$o2bo3b$o2bo3b$b2ob2ob$3bo2bo$3bo2bo$4b2o",
+	"comments": "A 16-cell still life made up of two ponds. www.conwaylife.com/wiki/index.php?title=Bi-pond",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

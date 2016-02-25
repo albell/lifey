@@ -1,0 +1,9 @@
+{
+	"name": "Mazing",
+	"pattern": "3b2o2b$bobo3b$o5bo$bo3b2o2$3bobob$4bo",
+	"author": "David Buckingham",
+	"comments": "A period 4 oscillator. www.conwaylife.com/wiki/index.php?title=Mazing",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

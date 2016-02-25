@@ -1,0 +1,9 @@
+{
+	"name": "New Five",
+	"pattern": "2b2o5b$bo2bo4b$bobo2bo2b$2obob2o2b$o8b$b3ob4o$5bo2bo$ob2o5b$2ob2o",
+	"author": "Dean Hickerrson",
+	"comments": "A period 3 oscillator found in January 1990. www.conwaylife.com/wiki/index.php?title=New_five",
+	"width": 9,
+	"height": 9,
+	"rule": "3/23"
+}

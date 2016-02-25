@@ -1,0 +1,8 @@
+{
+	"name": "1-2-3-4",
+	"comments": "A period 4 oscillator. www.conwaylife.com/wiki/index.php?title=1-2-3-4",
+	"width": 11,
+	"height": 11,
+	"rule": "3/23",
+	"pattern": "5bo5b$4bobo4b$3bobobo3b$3bo3bo3b$2obobobob2o$obo5bobo$3b5o3b2$5bo5b$4bobo4b$5bo"
+}

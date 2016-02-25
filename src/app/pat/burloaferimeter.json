@@ -1,0 +1,9 @@
+{
+	"name": "Burloaferimeter",
+	"pattern": "4b2o4b$5bo4b$4bo5b$3bob3o2b$3bobo2bob$2obo3bobo$2obo4bob$4b4o2b2$4b2o4b$4b2o",
+	"author": "David Buckingham",
+	"comments": "A period 7 oscillator. www.conwaylife.com/wiki/index.php?title=Burloaferimeter",
+	"width": 10,
+	"height": 11,
+	"rule": "3/23"
+}

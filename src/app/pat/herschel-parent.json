@@ -1,0 +1,8 @@
+{
+	"name": "Herschel Parent",
+	"pattern": "2bo2b$2o3b$2bobo$4bo",
+	"comments": "A parent of the herschel. http://www.conwaylife.com/wiki/index.php?title=Herschel_parent",
+	"width": 5,
+	"height": 4,
+	"rule": "3/23"
+}

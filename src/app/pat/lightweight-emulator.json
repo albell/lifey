@@ -1,0 +1,9 @@
+{
+	"name": "Lightweight Emulator",
+	"pattern": "2b2obo2bob2o2b$2bo8bo2b$3b2o4b2o3b$3o2b4o2b3o$o2bo6bo2bo$b2o8b2o",
+	"author": "Robert Wainwright",
+	"comments": "A period 4 oscillator that produces sparks similar to that of the lightweight spaceship. www.conwaylife.com/wiki/index.php?title=Lightweight_emulator",
+	"width": 14,
+	"height": 6,
+	"rule": "3/23"
+}

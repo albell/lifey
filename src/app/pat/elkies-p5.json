@@ -1,0 +1,9 @@
+{
+	"name": "Elkies' p5",
+	"pattern": "bo7b$o2b3o3b$2bo6b$3bobo2bo$2b2ob4o$4bo4b$4bobo2b$5b2o",
+	"author": "Noam Elkies",
+	"comments": "A period 5 oscillator found in 1997. www.conwaylife.com/wiki/index.php?title=Elkies'_p5",
+	"width": 9,
+	"height": 8,
+	"rule": "3/23"
+}

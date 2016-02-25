@@ -1,0 +1,106 @@
+.splash {
+	align-items: center;
+	background: rgba(32, 32, 32, 0.85);
+	display: -ms-flexbox; // IE 10
+	display: flex;
+	height: 100%;
+	justify-content: center;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 30; // Topmost.
+}
+
+.splash__outer-container {
+	border: 1px solid #b0b0b0;
+	width: 600px;
+//	min-height: 280px;
+	max-height: 95%;
+	max-width: 80%;
+}
+
+// Limit the splash width more severely on small landscape devices,
+// forcing it smaller, to prevent vertical overflow.
+@media (max-height: 500px) and (min-aspect-ratio: 1/1) {
+	.splash__outer-container {
+		max-width: 70vh;
+	}
+}
+
+
+.splash__inner-container {
+	background: #d1d1d1;
+	border: 7px solid #888;
+}
+
+.splash__innermost-container {
+	border: 1px solid #e7e7e7;
+	min-height: 280px;
+	padding: 3%;
+}
+
+@media (min-width: 800px) {
+	.splash__inner-container {
+		border-width: 12px;
+	}
+}
+
+@media (min-width: 1000px) {
+	.splash__inner-container {
+		border-width: 18px;
+	}
+}
+
+.splash__plane-outer-wrapper {
+	width: 130%;
+	margin-top: -12%;
+	margin-left: -15%;
+}
+
+.splash__plane-padded-box {
+	height: 0;
+	padding-top: 59.09%; // svg plane proportions are 650 x 1100
+	position: relative;
+	width: 100%;
+}
+
+.splash__plane {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+}
+
+.splash__lifey-type {
+	float: left;
+	height: auto;
+	max-width: 67%;
+}
+
+.splash__project-author-type {
+	float: right;
+	height: auto;
+	max-width: 33%;
+}
+
+.splash__browser-compatibility-warning {
+	display: none;
+}
+
+.browser-unsupported .splash__browser-compatibility-warning {
+	clear: both;
+	color: red;
+	display: block;
+	margin: 0;
+	padding: .8em 0 0.5em 0.3em;
+}
+
+.splash__version-number {
+	clear: both;
+	float: left;
+	font-size: 10px;
+	margin: 24px 0 0 0;
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Eater 1 with Blinker",
+	"pattern": "o5b$o5b$o5b$2b2o2b$2bobob$4bob$4b2o",
+	"comments": "An eater 1 about to eat a blinker. www.conwaylife.com/wiki/index.php?title=Eater_1",
+	"width": 6,
+	"height": 7,
+	"rule": "3/23"
+}

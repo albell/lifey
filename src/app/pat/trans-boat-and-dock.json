@@ -1,0 +1,8 @@
+{
+	"name": "Trans-Boat and Dock",
+	"pattern": "bo4b$obo3b$b2o3b2$b4ob$o4bo$2o2b2o",
+	"comments": "A 15-cell still life. http://www.conwaylife.com/wiki/index.php?title=Trans-boat_and_dock",
+	"width": 6,
+	"height": 7,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Fore and Back",
+	"pattern": "2ob2o2b$2obobob$6bo$3ob3o$o6b$bobob2o$2b2ob2o",
+	"author": "Achim Flammenkamp",
+	"comments": "A period 2 oscillator found in July 1994. www.conwaylife.com/wiki/index.php?title=Fore_and_back",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

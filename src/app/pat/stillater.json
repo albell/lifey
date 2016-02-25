@@ -1,0 +1,9 @@
+{
+	"name": "Stillater",
+	"pattern": "3bo4b$2bobob2o$2bob2obo$2o6b$bobob2ob$bobo2bob$2bo2bo2b$3b2o",
+	"author": "Robert Wainwright",
+	"comments": "A period 3 oscillator found in September 1985. www.conwaylife.com/wiki/index.php?title=Stillater",
+	"width": 8,
+	"height": 8,
+	"rule": "3/23"
+}

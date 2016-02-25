@@ -1,0 +1,9 @@
+{
+	"name": "Twin Bees Shuttle v2",
+	"pattern": "b2o24b$b2o24b2$15b2o10b$2o13bobo9b$2o15bo9b$15b3o5bo3b$23b3ob$26bo$23b3ob$15b3o5bo3b$2o15bo9b$2o13bobo9b$15b2o10b2$b2o24b$b2o",
+	"author": "David Bell, Bill Gosper and Heinrich Koenig",
+	"comments": "Some alternate stabilizations of the period 46 twin bees shuttle os cillator. www.conwaylife.com/wiki/index.php?title=Twin_bees_shuttle",
+	"width": 27,
+	"height": 17,
+	"rule": "3/23"
+}

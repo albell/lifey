@@ -1,0 +1,8 @@
+{
+	"name": "Pentoad with Two Hexominoes",
+	"pattern": "15b2o$15bob$13bobob$13b2o2b$9b2o6b$10bo6b$10bo6b$10b2o5b$5b2o10b$6bo10b$6bo10b$6b2o9b$2b2o13b$bobo13b$bo15b$2o",
+	"comments": "A period 5 pentoad oscillator with two hexominoes in the middle. www.conwaylife.com/wiki/Pentoad",
+	"width": 17,
+	"height": 16,
+	"rule": "3/23"
+}

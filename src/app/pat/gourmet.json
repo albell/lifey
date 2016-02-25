@@ -1,0 +1,9 @@
+{
+	"name": "Gourmet",
+	"pattern": "10b2o8b$10bo9b$4b2ob2obo4b2o3b$2bo2bobobo5bo4b$2b2o4bo8bo2b$16b2o2b2$16b2o2b$o10bo3bobo2b$3o7b3o3bo3b$3bo6bobo4b3o$2bobo14bo$2b2o16b2$2b2o16b$2bo8bo4b2o2b$4bo5bobobo2bo2b$3b2o4bob2ob2o4b$9bo10b$8b2o",
+	"author": "David Buckingham",
+	"comments": "A period 32 oscillator found in March 1978. www.conwaylife.com/wiki/index.php?title=Gourmet",
+	"width": 20,
+	"height": 20,
+	"rule": "3/23"
+}

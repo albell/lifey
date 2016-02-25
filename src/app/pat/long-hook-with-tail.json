@@ -1,0 +1,8 @@
+{
+	"name": "Long Hook with Tail",
+	"pattern": "2o4b$bo2b2o$bobobo$2bo",
+	"comments": "A 9-cell still life. http://www.conwaylife.com/wiki/index.php?title=Long_hook_with_tail",
+	"width": 6,
+	"height": 4,
+	"rule": "3/23"
+}

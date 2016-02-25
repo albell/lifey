@@ -1,0 +1,9 @@
+{
+	"name": "Eater 1",
+	"pattern": "2o2b$obob$2bob$2b2o",
+	"author": "Bill Gosper",
+	"comments": "The first discovered eater and a 7-cell still life. http://www.conwaylife.com/wiki/index.php?title=Eater_1",
+	"width": 4,
+	"height": 4,
+	"rule": "3/23"
+}

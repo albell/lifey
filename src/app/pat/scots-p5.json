@@ -1,0 +1,9 @@
+{
+	"name": "Scot's p5",
+	"pattern": "4bo3bo4b$3bobobobo3b$2bo7bo2b2$b3o5b3ob$4b2ob2o4b$3ob2ob2ob3o",
+	"author": "Scot Ellison",
+	"comments": "A period 5 oscillator found in 2008. www.conwaylife.com/wiki/Scot%27s_p5",
+	"width": 13,
+	"height": 7,
+	"rule": "3/23"
+}

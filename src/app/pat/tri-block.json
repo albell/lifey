@@ -1,0 +1,8 @@
+{
+	"name": "Tri-block",
+	"pattern": "2ob2ob2o$2ob2ob2o",
+	"comments": "A relatively common pseudo still life. www.conwaylife.com/wiki/index.php?title=Bi-block",
+	"width": 8,
+	"height": 2,
+	"rule": "23/3"
+}

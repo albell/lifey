@@ -1,0 +1,8 @@
+{
+	"name": "Pre-Pulsar Shuttle 28",
+	"pattern": "7b2o13b$2o5b2o8bo4b$bo14bob2o2b$bobo16bob$2b2o12bo2bobo$18bo2bo$19b2ob2$7bo5bo8b$6b3o3b3o4b2ob$18bo2bo$2b2o13bobobo$bobo13bo2bob$bo14bo5b$2o5b2o8bobo2b$7b2o",
+	"comments": "A period 28 shuttle oscillator. www.conwaylife.com/wiki/index.php?title=Pre-pulsar_shuttle_28",
+	"width": 22,
+	"height": 16,
+	"rule": "3/23"
+}

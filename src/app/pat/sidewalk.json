@@ -1,0 +1,8 @@
+{
+	"name": "Sidewalk",
+	"pattern": "b2ob2o$2bobob$bo2bob$bobo2b$2ob2o",
+	"comments": "A 14-cell still life. http://www.conwaylife.com/wiki/index.php?title=Sidewalk",
+	"width": 6,
+	"height": 5,
+	"rule": "3/23"
+}

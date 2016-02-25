@@ -1,0 +1,8 @@
+{
+	"name": "26P2",
+	"pattern": "b2ob2o2b$obobobob$o6bo$b5obo$6bob$3bo4b$3b2o",
+	"comments": "The 55th most common oscillator. www.conwaylife.com/wiki/index.php?title=26P2",
+	"width": 8,
+	"height": 7,
+	"rule": "3/23"
+}

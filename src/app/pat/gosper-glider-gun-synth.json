@@ -1,0 +1,8 @@
+{
+	"name": "Gosper Glider Gun Synth",
+	"comments": "Glider synthesis of Gosper Glider Gun. http://conwaylife.com/wiki/Gosper_glider_gun",
+	"width": 47,
+	"height": 14,
+	"rule": "3/23",
+	"pattern": "16bo30b$16bobo16bo11b$16b2o17bobo9b$obo10bo21b2o10b$b2o11b2o31b$bo11b2o32b3$10b2o20b2o13b$11b2o19bobo9b3o$10bo21bo11bo2b$27bo17bob$27b2o18b$26bobo"
+}

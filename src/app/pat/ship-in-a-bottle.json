@@ -1,0 +1,9 @@
+{
+	"name": "Ship in a Bottle",
+	"pattern": "4b2o6b2o4b$3bo2bo4bo2bo3b$3bobo6bobo3b$b2o2b3o2b3o2b2ob$o6bo2bo6bo$ob2o10b2obo$bobo10bobob$3b2o3b2o3b2o3b$7bobo8b$7b2o9b$3b2o8b2o3b$bobo10bobob$ob2o10b2obo$o6bo2bo6bo$b2o2b3o2b3o2b2ob$3bobo6bobo3b$3bo2bo4bo2bo3b$4b2o6b2o",
+	"author": "Bill Gosper",
+	"comments": "A period 16 oscillator found in August 1994. www.conwaylife.com/wiki/index.php?title=Ship_in_a_bottle",
+	"width": 18,
+	"height": 18,
+	"rule": "3/23"
+}

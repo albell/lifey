@@ -1,0 +1,9 @@
+{
+	"name": "Fourteener Synth",
+	"author": "Dean Hickerson and David Buckingham",
+	"comments": "Glider syntheses of Fourteener. http://conwaylife.com/wiki/Fourteener",
+	"width": 76,
+	"height": 25,
+	"rule": "3/23",
+	"pattern": "64bo11b$43bo19bo12b$41bobo19b3o10b$42b2o32b7$42bobo31b$43b2o31b$43bo32b3$17bo58b$16bo39b2o2b2o14b$6bo9b3o36bobob2o15b$7b2o24b2o22bo3bo11b2ob$6b2o21b2o2bobo33b2o2bobo$29bo5bo33bo5bo$b2o27b5o35b5ob$obo2b2o25bo39bo3b$2bo2bobo68b$5bo"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Surprise",
+	"pattern": "3bo4b2o$3b3o2bob$b2o3bobob$o2b2obob2o$bo6bob$2obob2o2bo$bobo3b2ob$bo2b3o3b$2o4bo",
+	"author": "David Buckingham",
+	"comments": "A period 3 oscillator found in November 1972. www.conwaylife.com/wiki/index.php?title=Surprise",
+	"width": 10,
+	"height": 9,
+	"rule": "3/23"
+}

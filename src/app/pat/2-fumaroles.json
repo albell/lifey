@@ -1,0 +1,9 @@
+{
+	"name": "2 fumaroles",
+	"pattern": "2o13b$o2b2o4bo5b$b2ob2o3bo5b$4b2o3bo5b$4b2o9b$b2ob2o4b2o3b$o2b2o3bo4bob$2o6bo4bob$8bo4bob$9bo2bo2b$7bobo2bobo$7b2o4b2o",
+	"author": "Noam Elkies",
+	"comments": "A period 10 oscillator that is a non-trivial combination of two fumaroles and a blinker, found o September 1, 1995. www.conwaylife.com/wiki/index.php?title=Fumarole",
+	"width": 15,
+	"height": 12,
+	"rule": "3/23"
+}

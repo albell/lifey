@@ -1,0 +1,8 @@
+{
+	"name": "Bi-cap",
+	"pattern": "b2ob$o2bo$4o2$4o$o2bo$b2o",
+	"comments": "A 16-cell still life consisting of two caps. www.conwaylife.com/wiki/index.php?title=Bi-cap",
+	"width": 4,
+	"height": 7,
+	"rule": "3/23"
+}

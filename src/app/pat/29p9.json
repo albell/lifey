@@ -1,0 +1,9 @@
+{
+	"name": "29P9",
+	"pattern": "b2o7b$2bo7b$2bob2o4b$b2obobo3b$7bo2b$5b3o2b$2o6b2o$o2bob2obob$2b2obo2bob$6b2o",
+	"author": "Dean Hickerson",
+	"comments": "The smallest known period 9 oscillator www.conwaylife.com/wiki/index.php?title=29P9",
+	"width": 10,
+	"height": 10,
+	"rule": "3/23"
+}

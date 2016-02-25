@@ -1,0 +1,8 @@
+{
+	"name": "Six Ls",
+	"pattern": "3bo3b$b3o2bo$o3b3o$3o4b$4b3o$3o3bo$o2b3ob$3bo",
+	"comments": "A period 3 oscillator that has the same rotor as loading dock. www.conwaylife.com/wiki/index.php?title=Six_Ls",
+	"width": 7,
+	"height": 8,
+	"rule": "3/23"
+}

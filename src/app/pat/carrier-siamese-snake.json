@@ -1,0 +1,8 @@
+{
+	"name": "Carrier Siamese Snake",
+	"pattern": "2ob2o2b$ob2o2bo$5b2o",
+	"comments": "A 10-cell still life composed of an aircraft carrier and a snake attached together. http://www.conwaylife.com/wiki/index.php?title=Carrier_siamese_snake",
+	"width": 7,
+	"height": 3,
+	"rule": "3/23"
+}

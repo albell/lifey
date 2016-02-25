@@ -1,0 +1,9 @@
+{
+	"name": "Garden of Eden 5",
+	"pattern": "b3o2b2o3b$b2obobob3o$b3o2b5o$obobobobobo$4obobobob$4b3o4b$bobobob4o$obobobobobo$5o2b3ob$3obobob2ob$3b2o2b3o",
+	"author": "Nicolay Beluchenko",
+	"comments": "Was the smallest-known Garden of Eden in Conway's Game of Life until it was surpassed by Garden of Eden 6 in December 2011. www.conwaylife.com/wiki/index.php?title=Garden_of_Eden_5",
+	"width": 11,
+	"height": 11,
+	"rule": "3/23"
+}

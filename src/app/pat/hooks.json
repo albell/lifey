@@ -1,0 +1,8 @@
+{
+	"name": "Hooks",
+	"pattern": "6b2o3b$ob2obobo3b$2obobo5b$4b2o5b$5bo5b2$7b2o2b$7bo3b$8b3o$10bo",
+	"comments": "A period 5 oscillator. www.conwaylife.com/wiki/Hooks",
+	"width": 11,
+	"height": 10,
+	"rule": "3/23"
+}

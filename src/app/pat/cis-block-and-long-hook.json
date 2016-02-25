@@ -1,0 +1,8 @@
+{
+	"name": "Cis-Block and Long Hook",
+	"pattern": "3b2o$o3bo$4ob2$2b2ob$2b2o",
+	"comments": "A 12-cell still life. www.conwaylife.com/wiki/index.php?title=Cis-block_and_long_hook",
+	"width": 5,
+	"height": 6,
+	"rule": "3/23"
+}

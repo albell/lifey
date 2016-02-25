@@ -1,0 +1,8 @@
+{
+	"name": "Cis-Hook and R-Bee",
+	"pattern": "2b2o$o2bo$3ob2$3ob$o2bo$b2o",
+	"comments": "A 14-cell still life composed of a bookend and a bun. http://www.conwaylife.com/wiki/index.php?title=Cis-hook_and_R-bee",
+	"width": 4,
+	"height": 7,
+	"rule": "3/23"
+}

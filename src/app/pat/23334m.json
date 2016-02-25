@@ -1,0 +1,11 @@
+{
+	"name": "23334M",
+	"author": "Tomas Rokicki",
+	"comments": "A methuselah with lifespan 23334 found on February 20, 2005. It is notable because it is one of very few patterns to naturally emit a lightweight spaceship during the course of its evolution. www.conwaylife.com/wiki/index.php?title=23334M",
+	"width": 5,
+	"height": 8,
+	"rule": "3/23",
+	"minCanvasX": 750,
+	"minCanvasY": 700,
+	"pattern": "2bo2b$2o3b$bo3b$o2bob$4bo$bo2bo$2bobo$bo"
+}

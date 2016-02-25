@@ -1,0 +1,8 @@
+{
+	"name": "Trans-Barge with Tail",
+	"pattern": "2o4b$bo4b$bobo2b$2bobob$3bobo$4bo",
+	"comments": "A 10-cell still life. http://www.conwaylife.com/wiki/index.php?title=Trans-barge_with_tail",
+	"width": 6,
+	"height": 6,
+	"rule": "3/23"
+}

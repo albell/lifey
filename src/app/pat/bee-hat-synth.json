@@ -1,0 +1,9 @@
+{
+	"name": "Bee Hat Synth",
+	"author": "Dean Hickerson",
+	"comments": "A 4-glider synthesis of bee hat. http://www.conwaylife.com/wiki/index.php?title=Bee_hat",
+	"width": 31,
+	"height": 12,
+	"rule": "3/23",
+	"pattern": "o30b$b2o23b2o3b$2o23bo2bo2b$9bo16b2obob$7b2o18bobob$8b2o15bobob2o$25b2o4b2$2b3o26b$4bo3b3o20b$3bo4bo22b$9bo"
+}

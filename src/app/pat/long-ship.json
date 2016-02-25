@@ -1,0 +1,8 @@
+{
+	"name": "Long Ship",
+	"pattern": "2o2b$obob$bobo$2b2o",
+	"comments": "An 8-cell still life. http://www.conwaylife.com/wiki/index.php?title=Long_ship",
+	"width": 4,
+	"height": 4,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "2x2 line puffer",
+	"pattern": "4bo$3bob$2bo2b2$o4b$o2bob$obo2b2$2bo",
+	"author": "Nathaniel Johnston",
+	"comments": "The first known pattern to exhibit infinite growth in 2x2. www.conwaylife.com/wiki/index.php?title=2x2",
+	"width": 5,
+	"height": 9,
+	"rule": "36/125"
+}

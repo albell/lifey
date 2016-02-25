@@ -1,0 +1,8 @@
+{
+	"name": "Beacon Maker",
+	"comments": "A diagonal period-8 lightspeed fuse that creates beacons as it burns. www.conwaylife.com/wiki/index.php?title=Beacon_maker",
+	"width": 46,
+	"height": 45,
+	"rule": "3/23",
+	"pattern": "44b2o$43bobo$42bo$41bo$40bo$39bo$38bo$37bo$36bo$35bo$34bo$33bo$32bo$31bo$30bo$29bo$28bo$27bo$26bo$25bo$24bo$23bo$22bo$21bo$20bo$19bo$18bo$17bo$16bo$15bo$14bo$13bo$12bo$11bo$10bo$9bo$8bo$7bo$6bo$5bo$4bo$3bo$3o$2bo$2bo"
+}

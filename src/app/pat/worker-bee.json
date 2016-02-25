@@ -1,0 +1,9 @@
+{
+	"name": "Worker Bee",
+	"pattern": "2o12b2o$bo12bob$bobo8bobob$2b2o8b2o2b2$5b6o5b2$2b2o8b2o2b$bobo8bobob$bo12bob$2o12b2o",
+	"author": "David Buckingham",
+	"comments": "A period 9 oscillator found in 1972. www.conwaylife.com/wiki/index.php?title=Worker_bee",
+	"width": 16,
+	"height": 11,
+	"rule": "23/3"
+}

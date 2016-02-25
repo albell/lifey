@@ -1,0 +1,7 @@
+{
+	"name": "Scrubber with Blocks",
+	"pattern": "4b2o$4b2o2$4b3o$3bo3bob2o$2obo3bob2o$2obo3bo$4b3o2$5b2o$5b2o",
+	"width": 11,
+	"height": 11,
+	"rule": "3/23"
+}

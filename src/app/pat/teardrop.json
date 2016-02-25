@@ -1,0 +1,8 @@
+{
+	"name": "Teardrop",
+	"pattern": "b3o$o2bo$o2bo$b2o",
+	"comments": "An induction coil that evolves into two beehives after 20 generations. http://www.conwaylife.com/wiki/index.php?title=Teardrop",
+	"width": 4,
+	"height": 4,
+	"rule": "3/23"
+}

@@ -1,0 +1,109 @@
+// Because the input's track is too wide, put a pseudo element on the range
+// element's wrapper to create an alternate, stylable track.
+.player__speed-input-wrapper {
+	height: 9px;
+	margin: 14px 0 6px 0;
+	position: relative;
+}
+
+.player__speed-input-wrapper:before {
+	background-image: linear-gradient(#373737, #4a4a4a);
+	border: 1px solid #292929;
+	border-radius: 3px;
+	content: "";
+	cursor: pointer;
+	display: block;
+	position: absolute;
+	width: calc(100% - 6px);
+	height: 5px;
+	left: 3px;
+	box-shadow: 0 .2px 1px .4px rgba(255, 255, 255, 0.2);
+}
+
+input[type=range] {
+	background: transparent;
+	border: 0; // Needed for Firefox.
+	display: block;
+	height: 9px;
+	position: relative;
+	width: 100%;
+	-webkit-appearance: none;
+}
+
+.player__speed__thumb-icon {
+	display: none;
+}
+
+// ---- Webkit ----
+
+input[type=range]::-webkit-slider-runnable-track {
+	background: transparent;
+}
+
+// Mobile thumb:
+input[type=range]::-webkit-slider-thumb {
+	background: #cfcfcf;
+	background-image: linear-gradient(#cfcfcf, #a4a4a4);
+	border: 1px solid #292929;
+	border-radius: 100px;
+	box-shadow: 0 -1px 1px rgba(0,0,0,0.4);
+	cursor: pointer;
+	height: 22px;
+	width: 22px;
+	position: relative;
+	-webkit-appearance: none;
+}
+
+// ---- Firefox ----
+
+input[type=range]::-moz-range-track {
+	background: transparent;
+
+}
+input[type=range]::-moz-range-thumb {
+	background: #cfcfcf;
+	border: 1px solid #292929;
+	border-radius: 100px;
+	box-shadow: 0 -1px 1px rgba(0,0,0,0.4);
+	cursor: pointer;
+	height: 22px;
+	width: 22px;
+	margin-top: 1px;
+	position: relative;
+}
+
+
+// http://stackoverflow.com/questions/18794026/remove-dotted-outline-from-range-input-element-in-firefox
+input[type=range]::-moz-focus-outer {
+	border: 0;
+}
+
+@media (min-width: $desktopBreakpointWidth) and (min-height: $desktopBreakpointHeight) {
+	
+	// Transparent thumb slider on desktop.
+	input[type=range]::-webkit-slider-thumb {
+		opacity: 0;
+	}
+
+	input[type=range]::-moz-range-thumb {
+		opacity: 0;
+	}
+
+	// Instead show an SVG thumb.
+	.player__speed__thumb-icon {
+		display: block;
+		bottom: -2px;
+		position: absolute;
+		pointer-events: none;
+	}
+	
+	// This is more verbose than doing the positioning math in JS, but easier to reason about.
+	// The inner slider is narrower than the container.
+	[data-player-speed-input="0"] + .player__speed__thumb-icon {left: -2px; }
+	[data-player-speed-input="1"] + .player__speed__thumb-icon {left: calc((100% - 9px) / 6 * 1 - 2px); }
+	[data-player-speed-input="2"] + .player__speed__thumb-icon {left: calc((100% - 9px) / 6 * 2 - 2px); }
+	[data-player-speed-input="3"] + .player__speed__thumb-icon {left: calc((100% - 9px) / 6 * 3 - 2px); }
+	[data-player-speed-input="4"] + .player__speed__thumb-icon {left: calc((100% - 9px) / 6 * 4 - 2px); }
+	[data-player-speed-input="5"] + .player__speed__thumb-icon {left: calc((100% - 9px) / 6 * 5 - 2px); }
+	[data-player-speed-input="6"] + .player__speed__thumb-icon {left: calc((100% - 9px) / 6 * 6 - 2px); }
+}

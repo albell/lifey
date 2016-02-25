@@ -1,0 +1,9 @@
+{
+	"name": "Ellison p4 HW Emulator Hybrid",
+	"pattern": "11b2o7b$4bo3bo5bob2o2b$3bobo11bo2b$3bobo9b2o3b$2obobob8o2b3o$2obo12bo2bo$3bo13b2ob$3bobo4b2o8b$4b2o4b2o",
+	"author": "Scot Ellison",
+	"comments": "A period 4 oscillator that produces a domino spark. www.conwaylife.com/wiki/Ellison_P4_HW_Emulator_Hybrid",
+	"width": 20,
+	"height": 9,
+	"rule": "3/23"
+}

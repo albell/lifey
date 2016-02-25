@@ -1,0 +1,9 @@
+{
+	"name": "Candlefrobra",
+	"pattern": "5bo4b$bob2obob2o$obo3bob2o$bo4bo3b$5b2o",
+	"author": "Robert Wainwright",
+	"comments": "A period 3 oscillator found in November 1984. www.conwaylife.com/wiki/index.php?title=Candlefrobra",
+	"width": 10,
+	"height": 5,
+	"rule": "3/23"
+}

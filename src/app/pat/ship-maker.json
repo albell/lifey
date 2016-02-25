@@ -1,0 +1,8 @@
+{
+	"name": "Ship Maker",
+	"comments": "A period 4 diagonal lightspeed fuse that makes ships as it burns. www.conwaylife.com/wiki/index.php?title=Ship_maker",
+	"width": 70,
+	"height": 69,
+	"rule": "3/23",
+	"pattern": "68b2o$67bobo$66bo$65bo$64bo$63bo$62bo$61bo$60bo$59bo$58bo$57bo$56bo$55bo$54bo$53bo$52bo$51bo$50bo$49bo$48bo$47bo$46bo$45bo$44bo$43bo$42bo$41bo$40bo$39bo$38bo$37bo$36bo$35bo$34bo$33bo$32bo$31bo$30bo$29bo$28bo$27bo$26bo$25bo$24bo$23bo$22bo$21bo$20bo$19bo$18bo$17bo$16bo$15bo$14bo$13bo$12bo$11bo$10bo$9bo$8bo$7bo$6bo$6o$5bo$5bo$5bo$5bo$5bo"
+}

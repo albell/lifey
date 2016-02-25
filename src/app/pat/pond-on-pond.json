@@ -1,0 +1,8 @@
+{
+	"name": "Pond on Pond",
+	"pattern": "b2o3b2ob$o2bobo2bo$o2bobo2bo$b2o3b2o",
+	"comments": "A 16-cell pseudo still life made up of two ponds. www.conwaylife.com/wiki/index.php?title=Pond_on_pond",
+	"width": 9,
+	"height": 4,
+	"rule": "23/3"
+}

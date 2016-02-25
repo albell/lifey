@@ -1,0 +1,9 @@
+{
+	"name": "By Flops Synth",
+	"author": "Mark D. Niemiec",
+	"comments": "Glider synthesis of By Flops. http://conwaylife.com/wiki/By_flops",
+	"width": 82,
+	"height": 39,
+	"rule": "23/3",
+	"pattern": "7bobo$8b2o$8bo6$20bo$14bo6bo$6bo6bobo3b3o$4bobo6bobo7bo$5b2o7bo7bobo$21bobo$21b2o2$78bo$78bobo$76bo$16b3o2b2ob2o51b5o$11b2o8b2ob2o50bo$10bo2bo64bobo$bo9b2o65bo$b2o$obo18b2o$21bobo$14bo7bobo5b3o$13bobo7bo6bo$13bobo3b3o9bo$14bo6bo$20bo6$8bo$8b2o$7bobo"
+}

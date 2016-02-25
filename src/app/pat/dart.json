@@ -1,0 +1,10 @@
+{
+	"name": "Dart",
+	"author": "David Bell",
+	"comments": "An orthogonal period 3 spaceship with speed c/3 that was found in May 1992. www.conwaylife.com/wiki/index.php?title=Dart",
+	"width": 15,
+	"height": 10,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "7bo7b$6bobo6b$5bo3bo5b$6b3o6b2$4b2o3b2o4b$2bo3bobo3bo2b$b2o3bobo3b2ob$o5bobo5bo$bob2obobob2obo"
+}

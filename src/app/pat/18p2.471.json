@@ -1,0 +1,8 @@
+{
+	"name": "18P2.471",
+	"pattern": "3bo3b$b5ob$o5bo$5obo$5bob$2bo4b$2b2o",
+	"comments": "A period 2 oscillator with the same rotor as the beacon. www.conwaylife.com/wiki/index.php?title=18P2.471",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Beehive Bend Tail",
+	"pattern": "b2o2b$o2bob$b2obo$4bo$b3ob$bo",
+	"comments": "A 12-cell still life. http://www.conwaylife.com/wiki/index.php?title=Beehive_bend_tail",
+	"width": 5,
+	"height": 6,
+	"rule": "3/23"
+}

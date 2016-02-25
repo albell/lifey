@@ -1,0 +1,8 @@
+{
+	"name": "Wing",
+	"pattern": "b2ob$o2bo$bobo$2b2o",
+	"comments": "An induction coil. www.conwaylife.com/wiki/index.php?title=Wing",
+	"width": 4,
+	"height": 4,
+	"rule": "23/3"
+}

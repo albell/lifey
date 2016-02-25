@@ -1,0 +1,10 @@
+{
+	"name": "Schick Engine",
+	"author": "Paul Schick",
+	"comments": "An orthogonal period 12 c/2 tagalong found in 1972. www.conwaylife.com/wiki/index.php?title=Schick_engine",
+	"width": 20,
+	"height": 11,
+	"rule": "23/3",
+	"toroidal": true,
+	"pattern": "bo2bo15b$o19b$o3bo15b$4o9b2o5b$6b3o5b2o4b$6b2ob2o6b3o$6b3o5b2o4b$4o9b2o5b$o3bo15b$o19b$bo2bo"
+}

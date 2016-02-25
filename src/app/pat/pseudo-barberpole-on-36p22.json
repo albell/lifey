@@ -1,0 +1,8 @@
+{
+	"name": "Pseudo-Barberpole on 36p22",
+	"pattern": "23b2o10b$23bo11b$25b2o8b2$2o24bobo6b$bo33b$bobo13b3o8bobo4b$2b2o3bo8bo3bo14b$6bob2o6bo4bo8bobo2b$5bo4bo6b2obo11bo2b$6bo3bo8bo3b2o9bo$7b3o13bobo7b2o$25bo9b$25b2o",
+	"comments": "The smallest non-trivial period 110 oscillator",
+	"width": 35,
+	"height": 14,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Biting Off More Than They Can Chew",
+	"pattern": "o11b$3o9b$3bo8b$2b2o8b$3b2o7b$4b2o6b$3bo2bo5b$3bo2b2o4b$4b2ob3o2b$8bobob$10bob$10b2o",
+	"author": "Peter Raynham",
+	"comments": "A period 3 oscillator found in July 1972. www.conwaylife.com/wiki/index.php?title=Biting_off_more_than_they_can_chew",
+	"width": 12,
+	"height": 12,
+	"rule": "3/23"
+}

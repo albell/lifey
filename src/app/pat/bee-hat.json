@@ -1,0 +1,8 @@
+{
+	"name": "Bee Hat",
+	"pattern": "b2o3b$o2bo2b$b2obob$2bobob$obob2o$2o",
+	"comments": "A 15-cell still life. http://www.conwaylife.com/wiki/index.php?title=Bee_hat",
+	"width": 6,
+	"height": 6,
+	"rule": "3/23"
+}

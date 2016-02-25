@@ -1,0 +1,9 @@
+{
+	"name": "Achim's p4",
+	"pattern": "2b2o3b2o2b$bo2bobo2bob$bob2ob2obob$2o7b2o$2bobobobo2b$2o7b2o$bob2ob2obob$bo2bobo2bob$2b2o3b2o",
+	"author": "Achim Flammenkamp",
+	"comments": "Period 4 oscillator found in 1988.",
+	"width": 11,
+	"height": 9,
+	"rule": "3/23"
+}

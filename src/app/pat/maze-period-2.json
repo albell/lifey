@@ -1,0 +1,8 @@
+{
+	"name": "Maze Period 2",
+	"pattern": "2obo3b2obo4b2ob2o3b2ob2o$bobo4bobo5bobo5bob2o$o6bo2b2o3bo2b2o3bo2bob$o2bo3bo3bo3bo3bo3bo3bo$2b2o5b2o6b2o6b2o",
+	"comments": "Small period 2 oscillators in the maze rule. www.conwaylife.com/wiki/index.php?title=Maze",
+	"width": 28,
+	"height": 5,
+	"rule": "12345/3"
+}

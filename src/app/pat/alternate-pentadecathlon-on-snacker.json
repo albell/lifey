@@ -1,0 +1,8 @@
+{
+	"name": "Alternate PD on Snacker",
+	"pattern": "7bo4bo7b$5b2ob4ob2o5b$7bo4bo7b2$2o16b2o$bo16bob$bobo12bobob$2b2o12b2o2b$7bo4bo7b$5b2ob4ob2o5b$7bo4bo7b$2b2o12b2o2b$bobo12bobob$bo16bob$2o16b2o",
+	"comments": "An alternate form of pentadecathlon on snacker, with a smaller boun ding box of 20x18",
+	"width": 20,
+	"height": 15,
+	"rule": "3/23"
+}

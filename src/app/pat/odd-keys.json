@@ -1,0 +1,9 @@
+{
+	"name": "Odd Keys",
+	"pattern": "10bob$bo7bobo$ob3o2b2obob$bo2bo2bo4b$4bo2bo",
+	"author": "Dean Hickerson",
+	"comments": "A period 3 oscillator. www.conwaylife.com/wiki/index.php?title=Odd_keys",
+	"width": 12,
+	"height": 5,
+	"rule": "3/23"
+}

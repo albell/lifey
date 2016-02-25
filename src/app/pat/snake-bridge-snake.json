@@ -1,0 +1,8 @@
+{
+	"name": "Snake Bridge Snake",
+	"pattern": "4b2o$4bob$5bo$4b2o$2obo2b$ob2o",
+	"comments": "A 12-cell still life composed of two diagonally-touching snakes. http://www.conwaylife.com/wiki/index.php?title=Snake_bridge_snake",
+	"width": 6,
+	"height": 6,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Toad Sucker",
+	"pattern": "bo16b$bo14bob$obo13bob$bo13bobo$bo6bo7bob$bo6b2o6bob$bo6b2o6bob$obo6bo6bob$bo13bobo$bo14bob$16bo",
+	"comments": "A period 60 oscillator that shifts a toad by applying domino sparks to it. www.conwaylife.com/wiki/index.php?title=Toad",
+	"width": 18,
+	"height": 11,
+	"rule": "23/3"
+}

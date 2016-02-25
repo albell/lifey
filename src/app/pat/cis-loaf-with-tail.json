@@ -1,0 +1,8 @@
+{
+	"name": "Cis-Loaf with Tail",
+	"pattern": "3b2ob$2bo2bo$bobobo$bo2bob$2o",
+	"comments": "An 11-cell still life. http://www.conwaylife.com/wiki/index.php?title=Cis-loaf_with_tail",
+	"width": 6,
+	"height": 5,
+	"rule": "3/23"
+}

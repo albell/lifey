@@ -1,0 +1,8 @@
+{
+	"name": "Maze 3-Cell Still Lifes",
+	"pattern": "o2b$bob$2bo",
+	"comments": "All 3-cell still lifes in the maze (12345/3) rule. www.conwaylife.com/wiki/index.php?title=Maze",
+	"width": 3,
+	"height": 3,
+	"rule": "12345/3"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Edna 26",
+	"pattern": "2o41b$o42b$o11bo30b$12b3o14b3o11b5$3b2o38b$3bo39b12$29bo11bob$29b3o10bo$42bo$25bo15b2o$24b2o",
+	"author": "Erik de Neve and Matthias M.",
+	"comments": "A methuselah with lifespan 31,082. www.conwaylife.com/wiki/index.php?title=Edna",
+	"width": 43,
+	"height": 26,
+	"rule": "3/23"
+}

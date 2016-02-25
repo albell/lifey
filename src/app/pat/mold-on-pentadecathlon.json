@@ -1,0 +1,8 @@
+{
+	"name": "Mold on Pentadecathlon",
+	"pattern": "2bo4bo2b$2ob4ob2o$2bo4bo2b5$6bobob$9bo$5bo2bob$4bobobob$4bo2bo2b$5b2o",
+	"comments": "A small non-trivial period 60 oscillator www.conwaylife.com/wiki/index.php?title=Mold_on_PD",
+	"width": 10,
+	"height": 13,
+	"rule": "3/23"
+}

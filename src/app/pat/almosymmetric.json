@@ -1,0 +1,8 @@
+{
+	"name": "Almosymmetric",
+	"pattern": "4bo4b$2o2bobo2b$obo6b$7b2o$bo7b$o6bob$2obobo3b$5bo",
+	"comments": "A period 2 oscillator found in 1971. www.conwaylife.com/wiki/index.php?title=Almosymmetric",
+	"width": 9,
+	"height": 8,
+	"rule": "3/23"
+}

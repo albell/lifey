@@ -1,0 +1,9 @@
+{
+	"name": "Scorpion Synth",
+	"author": "Dean Hickerson",
+	"comments": "Glider syntheses of Scorpion. http://conwaylife.com/wiki/Scorpion",
+	"width": 35,
+	"height": 47,
+	"rule": "3/23",
+	"pattern": "7bo27b$5bobo27b$6b2o27b4$13bo21b$11b2o22b$12b2o21b2$31bo3b$9b3o17b3o3b$9bo6b3o9bo3b2ob$10bo5bo11bobobobo$17bo11b2obobo$33bob5$6bo28b$6bobo26b$6b2o27b2$o34b$b2o32b$2o33b11$16b2o17b$16bobo16b$16bo18b$2b2o2b2o23bo3b$3b2obobo20b3o3b$2bo3bo21bo3b2ob$28bobobobo$10b2o17b2obobo$9b2o22bob$11bo"
+}

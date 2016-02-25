@@ -1,0 +1,9 @@
+{
+	"name": "Unidimensional Nothing",
+	"pattern": "6ob4ob3ob7ob5ob4ob4o71b4ob4ob5ob7ob3ob4ob6o",
+	"author": "Paul Callahan",
+	"comments": "A unidimensional pattern that dies out completely. Found in October  1998. www.conwaylife.com/wiki/index.php?title=Unidimensional_pattern",
+	"width": 149,
+	"height": 1,
+	"rule": "3/23"
+}

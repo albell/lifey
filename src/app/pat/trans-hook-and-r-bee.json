@@ -1,0 +1,8 @@
+{
+	"name": "Trans-Hook and R-Bee",
+	"pattern": "3b2o$bo2bo$b3ob2$b3ob$o2bob$b2o",
+	"comments": "A 14-cell still life composed of a bookend and a bun. http://www.conwaylife.com/wiki/index.php?title=Trans-hook_and_R-bee",
+	"width": 5,
+	"height": 7,
+	"rule": "3/23"
+}

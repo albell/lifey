@@ -1,0 +1,8 @@
+{
+	"name": "Mmp11",
+	"comments": "Mmp11 is a period 11 oscillator discovered by Matthias Merzenich In December, 2010. http://www.conwaylife.com/wiki/Mmp11",
+	"width": 21,
+	"height": 21,
+	"rule": "3/23",
+	"pattern": "11b2o$12bo$12bobo$10b2obobo$9bobobobo$8bobo2bo2b2o$7bo5bo4bo$6bo7b4o$5bo12b3o$4bo5bo5b2o2bo$3bobo3bobo3bobo$o2b2o5bo5bo$3o12bo$3b4o7bo$2bo4bo5bo$3b2o2bo2bobo$5bobobobo$5bobob2o$6bobo$8bo$8b2o"
+}

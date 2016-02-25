@@ -1,0 +1,9 @@
+{
+	"name": "Thumb 2",
+	"pattern": "5bo5b$b2o3bo4b$bo5bo3b$2b3obob2ob$7b2obo$6o4bo$o4b5ob$3bo7b$2bob4o3b$2bobo2bo3b$3bo",
+	"author": "David Eppstein",
+	"comments": "A thumb sparker found in June 2000. www.conwaylife.com/wiki/index.php?title=Thumb",
+	"width": 11,
+	"height": 11,
+	"rule": "23/3"
+}

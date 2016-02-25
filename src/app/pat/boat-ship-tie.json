@@ -1,0 +1,8 @@
+{
+	"name": "Boat-Ship-tie",
+	"pattern": "2o4b$obo3b$b2o3b$3b2ob$3bobo$4bo",
+	"comments": "An 11-cell still life made up of a ship and a boat. www.conwaylife.com/wiki/index.php?title=Boat-ship-tie",
+	"width": 6,
+	"height": 6,
+	"rule": "3/23"
+}

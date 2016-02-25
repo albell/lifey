@@ -1,0 +1,8 @@
+{
+	"name": "Block on table",
+	"pattern": "2b2o$2b2o2$4o$o2bo",
+	"comments": "A simple 10-cell still life. www.conwaylife.com/wiki/index.php?title=Block_on_table",
+	"width": 4,
+	"height": 5,
+	"rule": "3/23"
+}

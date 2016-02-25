@@ -1,0 +1,8 @@
+{
+	"name": "Loaf",
+	"pattern": "b2ob$o2bo$bobo$2bo",
+	"comments": "A very common 7-cell still life. www.conwaylife.com/wiki/index.php?title=Loaf",
+	"width": 4,
+	"height": 4,
+	"rule": "3/23"
+}

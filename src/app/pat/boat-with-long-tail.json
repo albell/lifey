@@ -1,0 +1,8 @@
+{
+	"name": "Boat with Long Tail",
+	"pattern": "2o4b$obo3b$bo2b2o$2b2obo",
+	"comments": "A 10-cell still life. http://www.conwaylife.com/wiki/index.php?title=Boat_with_long_tail",
+	"width": 6,
+	"height": 4,
+	"rule": "3/23"
+}

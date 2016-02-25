@@ -1,0 +1,9 @@
+{
+	"name": "Two-Glider Mess Synth",
+	"author": "Mark D. Niemiec",
+	"comments": "Glider synthesis of Two-Glider Mess. http://conwaylife.com/wiki/Two-glider_mess",
+	"width": 27,
+	"height": 8,
+	"rule": "23/3",
+	"pattern": "24bo2b$22bo2bob$3bobo20bo$4b2o15bo4bo$4bo16bo4bo$3o18bo3bob$2bo19bobo2b$bo"
+}

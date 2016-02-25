@@ -1,0 +1,9 @@
+{
+	"name": "Pulsar",
+	"pattern": "2b3o3b3o2b2$o4bobo4bo$o4bobo4bo$o4bobo4bo$2b3o3b3o2b2$2b3o3b3o2b$o4bobo4bo$o4bobo4bo$o4bobo4bo2$2b3o3b3o",
+	"author": "John Conway",
+	"comments": "A period 3 oscillator. Despite its size, this is the fourth most common oscillator (and by far the most common of period greater than 2). www.conwaylife.com/wiki/index.php?title=Pulsar",
+	"width": 13,
+	"height": 13,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Bent Keys",
+	"pattern": "bo8bob$obo6bobo$bob2o2b2obob$4bo2bo4b$4bo2bo",
+	"author": "Dean Hickerson",
+	"comments": "A period 3 oscillator found in August 1989. www.conwaylife.com/wiki/index.php?title=Bent_keys",
+	"width": 12,
+	"height": 5,
+	"rule": "3/23"
+}

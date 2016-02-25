@@ -1,0 +1,459 @@
+.modal-wrapper {
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: flex;
+
+	// Keep modals towards top in mobile view so they don't interfere with
+	// the keyboard overlay.
+	align-items: flex-start; 
+	padding-top: 25px;
+	justify-content: center;
+	z-index: 30;
+}
+
+.modal-wrapper--hide {
+	display: none;
+}
+
+.modal {
+	background: $lightGray;
+	border-radius: 3px;
+	border-top: 1px solid $offWhite;
+	box-shadow: 0 8px 40px 5px rgba(0,0,0,0.43);
+	font-size: 1em;
+	margin: 0 auto;
+	width: 498px;
+	min-height: 280px;
+	max-height: 95%;
+	max-width: 92%;
+}
+
+.modal__title {
+	background: linear-gradient(#e5e5e5, #d0d0d0);
+	border-bottom: 1px solid $midGray;
+	cursor: default;
+	text-align: center;
+}
+
+.modal__contents {
+	padding: 11px 4% 15px 4%;
+}
+
+.modal__configure {
+	display: inline-block;
+	position: relative;
+	width: calc(100% - 85px);
+}
+
+.modal__section {
+	border: 1px solid $midGray;
+	margin-bottom: 15px;
+	padding: 16px;
+	position: relative;
+}
+
+.modal__section-title {
+	background: $lightGray;
+	cursor: default;
+	display: inline-block;
+	height: 20px; // Don't let it overlap the inputs on mobile.
+	padding: 0 0.4em;
+	position: absolute;
+	top: -10px;
+	left: 17px;
+}
+
+.modal__prop,
+.modal__value {
+	display: inline-block;
+	min-height: 42px; // 34px content height + 8px padding bottom
+	padding-bottom: 0;
+	vertical-align: top;
+}
+
+.modal__prop {
+	padding-right: 7px;
+	text-align: right;
+	width: 43%; // Empirical.
+}
+
+.modal__value {
+	width: 50%;
+}
+
+.modal__prop-name,
+.modal__value-name {
+	display: inline-block;
+	min-height: 34px;
+	line-height: 34px;
+}
+
+// Shorter heights for text-only on mobile, e.g. "Current Size".
+@media (max-width: $desktopBreakpointWidth), (max-height: $desktopBreakpointHeight) {
+	.modal__prop--text-only,
+	.modal__value--text-only,
+	.modal__prop-name--text-only,
+	.modal__value-name--text-only {
+		min-height: 25px;
+		line-height: 25px;
+	}
+}
+
+.modal__numeric-input {
+	border: 1px solid #909090;
+	font-size: inherit;
+	display: inline-block;
+	height: 34px;
+	max-width: 100%;
+	padding: 0.1em 0.5em;
+	-moz-appearance: textfield;
+}
+
+.modal__numeric-input::-webkit-inner-spin-button, 
+.modal__numeric-input::-webkit-outer-spin-button { 
+  -webkit-appearance: none; 
+  margin: 0; 
+}
+
+.modal__confirm {
+	display: inline-block;
+	line-height: 0;
+	text-align: right;
+	vertical-align: top;
+	width: 85px;
+}
+
+.modal__confirm--bottom-corner {
+	clear: both;
+	float: right;
+	margin: 0 0 20px 0;
+	width: auto;
+}
+
+.modal__button {
+	border: 1px solid;
+	border-radius: 3px;
+	display: inline-block;
+	font-size: inherit;
+	height: 34px;
+	margin: 0 auto 13px;
+	padding: 0;
+	width: 75px;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}
+
+.modal-ok {
+	background: linear-gradient(#005ebd, #004e9b);
+	border-color: transparent;
+	color: #fff;
+}
+
+.modal-cancel {
+	background: #fff;
+	border-color: $darkGray;
+}
+
+.modal__button:active {
+	background: $deepBlue;
+	color: $lightGray;
+}
+
+.modal__file-input {
+	font-size: inherit;
+}
+
+.modal__file-input::-webkit-file-upload-button {
+	background: #fff;
+	border: 1px solid $darkGray;
+	border-radius: 3px;
+	display: inline-block;
+	font-size: inherit;
+	height: 34px;
+	margin: 0 auto 13px;
+	outline: 0;
+	padding: 0 0.6em;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+}
+
+.modal__file-input::-webkit-file-upload-button:active {
+	background: $deepBlue;
+	color: $lightGray;
+}
+
+.modal__error-text {
+	color: $errorRed;
+ // No minimum height on mobile to save previous space..
+}
+
+// DESKTOP VIEW, ALL MODALS
+
+@media (min-width: $desktopBreakpointWidth) and (min-height: $desktopBreakpointHeight) {
+	.modal-wrapper {	
+		// Geometrically centered on desktop.
+		align-items: center; 
+		padding-top: 0;
+	}
+
+	.modal {
+		font-size: .85em; // Smaller (?!)
+	}
+
+	.modal__contents {
+		padding: 18px 18px 30px 10px;
+	}
+
+	.modal__configure {
+		width: calc(100% - 100px);
+	}
+
+	.modal__section {
+		padding: 10px 10px 4px 10px;
+	}
+
+	.modal__prop,
+	.modal__value {
+		min-height: 34px;
+	}
+
+	.modal__prop-name,
+	.modal__value-name {
+		min-height: 20px;
+		line-height: 20px;
+	}
+
+	.modal__prop--text-only,
+	.modal__value--text-only,
+	.modal__prop-name--text-only,
+	.modal__value-name--text-only {
+		min-height: 27px;
+		line-height: 27px;
+	}
+
+	.modal__numeric-input {
+		height: 26px;
+		margin-bottom: 1px;
+		padding: .1em .3em;
+		width: 6.2em;
+	}
+
+	.modal__confirm {
+		width: 100px;
+	}
+
+	.modal__confirm--bottom-corner {
+		width: auto;
+	}
+
+	.modal__button {
+		height: 21px;
+		line-height: 19px; // Slightly high in the box.
+	}
+
+	.modal__file-input::-webkit-file-upload-button {
+		height: 21px;
+//		width: 80px;
+	}
+
+	.modal__error-text {
+		min-height: 1.2em; // On desktop, avoid a layout jump.
+	}
+}
+
+
+// *************************************************************
+// 
+// ---- Specific modals ----
+// 
+// *************************************************************
+
+
+// ---- Canvas Size ----
+
+// Anchors are actually 2px bigger on mobile to keep consistency on desktop.
+.modal__canvas-direction-button-container {
+	border-top: 1px solid $midGray;
+	border-left: 1px solid $midGray;
+	line-height: 0;
+	margin-bottom: 5px;
+	overflow: hidden;
+	padding: 0;
+	position: relative;
+	height: 76px;
+	width: 76px;
+}
+
+.modal__canvas-direction-button {
+	background: transparent;
+	border-top: 0;
+	border-right: 1px solid $midGray;
+	border-bottom: 1px solid $midGray;
+	border-left: 0;
+	display: inline-block;
+	margin: 0;
+	outline: 0;
+	position: relative;
+	height: 25px;
+	width: 25px;
+	z-index: 1;
+	-moz-appearance: none;
+	-webkit-appearance: none;
+}
+
+.modal__canvas-resize-arrows {
+	display: block;
+	position: absolute;
+	height: 74px;
+	width: 74px;;
+	top: 0;
+	left: 0;
+}
+
+.resize-icon-top    > .modal__canvas-resize-arrows {top: -25px;}
+.resize-icon-middle > .modal__canvas-resize-arrows {top: 0px;}
+.resize-icon-bottom > .modal__canvas-resize-arrows {top: 25px;}
+.resize-icon-left   > .modal__canvas-resize-arrows {left: -25px;}
+.resize-icon-center > .modal__canvas-resize-arrows {left: 0px;}
+.resize-icon-right  > .modal__canvas-resize-arrows {left: 25px;}
+
+// Reduce desktop button sizes.
+@media (min-width: $desktopBreakpointWidth) and (min-height: $desktopBreakpointHeight) {
+	.modal__canvas-direction-button-container {
+		height: 70px;
+		width: 70px;
+	}
+
+	.modal__canvas-direction-button {
+		height: 23px;
+		width: 23px;
+	}
+
+	.modal__canvas-resize-arrows {
+		height: 68px;
+		width: 68px;;
+	}
+
+	.resize-icon-top    > .modal__canvas-resize-arrows {top: -23px;}
+	.resize-icon-middle > .modal__canvas-resize-arrows {top: 0px;}
+	.resize-icon-bottom > .modal__canvas-resize-arrows {top: 23px;}
+	.resize-icon-left   > .modal__canvas-resize-arrows {left: -23px;}
+	.resize-icon-center > .modal__canvas-resize-arrows {left: 0px;}
+	.resize-icon-right  > .modal__canvas-resize-arrows {left: 23px;}
+}
+
+// ---- Open File ----
+
+.modal__input-file-wrapper {
+	margin-top: 20px;
+}
+
+.modal__file-input {
+	display: block;
+	width: 100%;
+}
+
+@media (min-width: 700px) and (min-height: 600px) {
+	.modal__open__instructions,
+	.modal__open__error-text,
+	.modal__input-file-wrapper {
+		padding-left: 20px;
+	}
+}
+
+//
+// ---- Save As ----
+//
+
+.modal__configure--save-as {
+	overflow: auto;
+	width: 100%; // Overrides the default calc().
+}
+
+.modal__save-pattern-option,
+.modal__save-pattern-option-input-wrapper {
+	padding: 0 0 0.5em 0;
+}
+
+.modal__save-pattern-option-input {
+	font-size: inherit;
+	height: 34px;
+	padding: 0 .5em;
+	width: 100%;
+	max-width: 100%;
+}
+
+.modal-ok--save-as,
+.modal-cancel--save-as {
+	margin: 0;
+}
+
+.modal-cancel--save-as {
+	margin-right: 10px;
+}
+
+@media (min-width: 700px) and (min-height: 600px) {
+
+	.modal__configure--save-as {
+		padding: 16px 16px 30px 16px;
+	}
+
+	.modal__save-pattern-option {
+		clear: both;
+		float: left;
+		width: 10em;
+	}
+
+	.modal__save-pattern-option,
+	.modal__save-pattern-option-input-wrapper {
+		padding: 0 0 0.7em 0;
+	}
+
+	.modal__save-pattern-option-input-wrapper {
+		float: left;
+	}
+
+	.modal__save-pattern-option-input {
+		height: 21px;
+		width: 23em;
+	}
+}
+
+// ---- Share ----
+
+.modal__shareable-url {
+	background: #b9e3f2;
+	border: 1px solid $darkGray;
+	font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+	font-size: .8em;
+	max-height: 90vh;
+	overflow: hidden;
+	padding: .5em;
+	// Must be selectable, unlike basically everything else.
+	-webkit-user-select: all;	// Chrome/Safari all
+     -moz-user-select: all;	// Firefox all
+      -ms-user-select: all;	// IE 10+
+          user-select: all;	// Likely future
+	word-break: break-all;
+}
+
+.modal__section-title--share {
+	padding-bottom: 20px;
+	position: relative;
+	top: 0;
+	left: 0;
+}
+
+@media (min-width: $desktopBreakpointWidth) and (min-height: $desktopBreakpointHeight) {
+	.modal__share__configure {
+		padding-left: 20px;	
+	}
+
+	.modal__shareable-url {
+		width: calc(100% - 40px);
+		margin: 0 20px;
+	}
+}

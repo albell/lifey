@@ -1,0 +1,82 @@
+.player {
+	height: 131px;
+	top: 300px;
+}
+
+.player__toroidal {
+	border-bottom: 1px solid $darkerGray;
+	padding: 5px 2px 3px 7px;
+}
+
+.player__toroidal-input {
+}
+
+.player__toroidal-label {
+	color: $midLightGray;
+	display: inline-block;
+	margin-left: 1em;
+}
+
+.player__speed {
+	display: flex;
+	padding: 1px 4px 4px;
+}
+
+.player__tortoise,
+.player__hare {
+	height: 19px;
+	margin: 4px;
+	width: 23px;
+	min-width: 23px;
+}
+
+.player__tortoise {
+	margin-right: 5px;
+}
+
+.player__hare {
+	margin-left: 5px;
+}
+
+.player__speed {
+	border-bottom: 1px solid $darkerGray;
+}
+
+.player__speed-input {
+	min-width: 1px; // Flexy flex
+}
+
+.player__generations {
+	cursor: default;
+	padding-top: 4px;
+}
+
+.player__generations-label {
+	padding-left: 7px;	
+}
+
+.player__generations-counter {
+	padding-right: 9px;
+	position: absolute;
+	text-align: right;
+	right: 0;
+}
+
+.player__buttons {
+	padding: 3px;	
+}
+
+// All buttons in the panels on the right.
+.player__button,
+.patterns__button {
+	margin-right: 4px;
+	width: 31px;
+}
+
+.player__stop,
+.player__play-button--is-playing .player__play {
+	visibility: hidden;
+}
+.player__play-button--is-playing .player__stop {
+	visibility: visible;
+}

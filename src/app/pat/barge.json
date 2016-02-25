@@ -1,0 +1,8 @@
+{
+	"name": "Barge",
+	"pattern": "bo2b$obob$bobo$2bo",
+	"comments": "A common 6-cell still life. www.conwaylife.com/wiki/index.php?title=Barge",
+	"width": 4,
+	"height": 4,
+	"rule": "3/23"
+}

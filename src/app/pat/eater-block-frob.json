@@ -1,0 +1,9 @@
+{
+	"name": "Eater/Block Frob",
+	"pattern": "b2o7b$2bo7b$2bobo5b$3bobo4b$5b2ob2o$8b2o$2b2o6b$3bo6b$3o7b$o",
+	"author": "David Buckingham",
+	"comments": "A period 4 oscillator found in 1976 or earlier. www.conwaylife.com/wiki/index.php?title=Eater/block_frob",
+	"width": 10,
+	"height": 10,
+	"rule": "3/23"
+}

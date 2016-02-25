@@ -1,0 +1,9 @@
+{
+	"name": "Mathematician",
+	"pattern": "4bo4b$3bobo3b$3bobo3b$2b2ob2o2b$o7bo$3o3b3o2$9o$o7bo$3b4o2b$3bo2b2o",
+	"author": "David Buckingham",
+	"comments": "A period 5 oscillator found in 1972. http://www.conwaylife.com/wiki/index.php?title=Mathematician",
+	"width": 9,
+	"height": 11,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Bakery",
+	"pattern": "4b2o4b$3bo2bo3b$3bobo4b$b2obo3bob$o2bo3bobo$obo3bo2bo$bo3bob2ob$4bobo3b$3bo2bo3b$4b2o",
+	"comments": "A common 28-cell still life formation of two bi-loaves. www.conwaylife.com/wiki/index.php?title=Bakery",
+	"width": 10,
+	"height": 10,
+	"rule": "3/23"
+}

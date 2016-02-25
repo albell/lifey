@@ -1,0 +1,8 @@
+{
+	"name": "Big S",
+	"pattern": "4b2ob$3bo2bo$3bob2o$2obo3b$o2bo3b$b2o",
+	"comments": "A 14-cell still life. www.conwaylife.com/wiki/index.php?title=Big_S",
+	"width": 7,
+	"height": 6,
+	"rule": "3/23"
+}

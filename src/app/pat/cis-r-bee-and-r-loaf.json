@@ -1,0 +1,8 @@
+{
+	"name": "Cis-R-Bee and R-Loaf",
+	"pattern": "b2ob$o2bo$b3o2$b3o$o2bo$obob$bo",
+	"comments": "A 15-cell still life. http://www.conwaylife.com/wiki/index.php?title=Cis-R-bee_and_R-loaf",
+	"width": 4,
+	"height": 8,
+	"rule": "3/23"
+}

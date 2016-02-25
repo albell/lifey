@@ -1,0 +1,8 @@
+{
+	"name": "Small Lake",
+	"pattern": "4bo4b$3bobo3b$3bobo3b$b2o3b2ob$o7bo$b2o3b2ob$3bobo3b$3bobo3b$4bo",
+	"comments": "A 20-cell still life. http://www.conwaylife.com/wiki/index.php?title=Small_lake",
+	"width": 9,
+	"height": 9,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Pond",
+	"pattern": "b2ob$o2bo$o2bo$b2o",
+	"comments": "An 8-cell still life. www.conwaylife.com/wiki/index.php?title=Pond",
+	"width": 4,
+	"height": 4,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Bunnies 9",
+	"pattern": "bo6b$2o5bo$6bob$6bob$5bo2b$4bo3b$4bo",
+	"author": "Paul Callahan",
+	"comments": "A methuselah with lifespan 17410 that evolves similarly to bunnie after generation 91. www.conwaylife.com/wiki/index.php?title=Bunnies_9",
+	"width": 8,
+	"height": 7,
+	"rule": "3/23"
+}

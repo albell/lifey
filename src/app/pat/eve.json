@@ -1,0 +1,14 @@
+{
+	"name": "Eve",
+	"author": "Andrzej Megier",
+	"comments": "A methuselah with lifespan 30046. Found in 2008.",
+	"width": 16,
+	"height": 10,
+	"rule": "3/23",
+	"minCanvasX": 800,
+	"minCanvasY": 800,
+	"offsetX": 375,
+	"offsetY": 400,
+	"pattern": "14bo$14bo$15bo$9bo3b2o$7bo4b3o$7bo3bo$9b2o$bo$3o$obo"
+}
+

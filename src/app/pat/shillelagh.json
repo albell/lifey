@@ -1,0 +1,8 @@
+{
+	"name": "Shillelagh",
+	"pattern": "2o3b$o2b2o$b2obo",
+	"comments": "A common 8-cell still life. http://www.conwaylife.com/wiki/index.php?title=Shillelagh",
+	"width": 5,
+	"height": 3,
+	"rule": "3/23"
+}

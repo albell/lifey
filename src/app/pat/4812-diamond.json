@@ -1,0 +1,8 @@
+{
+	"name": "4-8-12_diamond",
+	"pattern": "4b4o4b2$2b8o2b2$12o2$2b8o2b2$4b4o",
+	"comments": "A pure glider generator.",
+	"width": 12,
+	"height": 9,
+	"rule": "3/23"
+}

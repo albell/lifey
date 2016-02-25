@@ -1,0 +1,9 @@
+{
+	"name": "Thumb 1",
+	"pattern": "3b2o8b$3bobob2o2b2o$2obo3bobo2bo$2obo3bob3ob$3bo3bo5b$3bobob3o3b$4bobo3bo2b$6bo2b2o2b$6b2o",
+	"author": "Dean Hickerson",
+	"comments": "A period 9 thumb oscillator found in October 1998. www.conwaylife.com/wiki/index.php?title=Thumb_1",
+	"width": 13,
+	"height": 9,
+	"rule": "23/3"
+}

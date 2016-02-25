@@ -1,0 +1,9 @@
+{
+	"name": "Blocked p4-1",
+	"pattern": "11bo11b$4bo3bo5bo3bo4b$3bobo11bobo3b$3bobo11bobo3b$2obobob9obobob2o$2obo15bob2o$3bo15bo3b$3bobo4bobo4bobo3b$4bobob3ob3obobo4b$2bobob2o7b2obobo2b$2b2o5b2ob2o5b2o2b$10bobo10b$10bobo10b$11bo",
+	"author": "Adam P. Goucher",
+	"comments": "A period 4 oscillator. www.conwaylife.com/wiki/Blocked_p4-1",
+	"width": 23,
+	"height": 14,
+	"rule": "3/23"
+}

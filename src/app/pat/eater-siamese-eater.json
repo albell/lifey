@@ -1,0 +1,8 @@
+{
+	"name": "Eater Siamese Eater",
+	"pattern": "2o2b$obob$2bob$2b2o$3bo$3ob$o",
+	"comments": "A 12-cell still life composed of two eaters. http://www.conwaylife.com/wiki/index.php?title=Eater_siamese_eater",
+	"width": 4,
+	"height": 7,
+	"rule": "3/23"
+}

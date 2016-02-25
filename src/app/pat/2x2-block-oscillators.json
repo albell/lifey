@@ -1,0 +1,8 @@
+{
+	"name": "2x2 block oscillators",
+	"pattern": "8o6b12o$8o6b12o",
+	"comments": "Some block oscillators in the 2x2 rule. www.conwaylife.com/wiki/index.php?title=2x2",
+	"width": 26,
+	"height": 2,
+	"rule": "125/36"
+}

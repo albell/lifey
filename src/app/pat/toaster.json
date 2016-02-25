@@ -1,0 +1,9 @@
+{
+	"name": "Toaster",
+	"pattern": "2bo6b2o$bobob2o2bob$bobobobobob$2obo3bob2o$o2b2ob2o2bo$bo7bob$bo7bob$o2b2ob2o2bo$2obo3bob2o$bobobobobob$bobob2o2bob$2bo6b2o",
+	"author": "Dean Hickerson",
+	"comments": "A period 5 oscillator found in April 1992 that produces sparks similar to those of a lightweight spaceship. www.conwaylife.com/wiki/index.php?title=Toaster",
+	"width": 11,
+	"height": 12,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Long Boat",
+	"pattern": "bo2b$obob$bobo$2b2o",
+	"comments": "A 7-cell still life. http://www.conwaylife.com/wiki/index.php?title=Long_boat",
+	"width": 4,
+	"height": 4,
+	"rule": "3/23"
+}

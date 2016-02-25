@@ -1,0 +1,9 @@
+{
+	"name": "Gabriel's p138",
+	"pattern": "8b3o10b$7bo2bo10b$7bo2bo10b$7b2o12b4$17b3ob$17bo2bo$20bo$3o15b3o$o20b$o2bo17b$b3o17b4$12b2o7b$10bo2bo7b$10bo2bo7b$10b3o",
+	"author": "Gabriel Nivasch",
+	"comments": "A small period 138 oscillator, discovered on October 13, 2002 www.conwaylife.com/wiki/index.php?title=Gabriel's_p138",
+	"width": 21,
+	"height": 21,
+	"rule": "3/23"
+}

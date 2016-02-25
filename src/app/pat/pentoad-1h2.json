@@ -1,0 +1,8 @@
+{
+	"name": "Pentoad 1H2",
+	"pattern": "8b2o5b$8bobo2b2o$9b3ob2o2$5b2o8b$6bo8b$6bo8b$6b2o7b$2b2o11b$bobo11b$bo13b$2o",
+	"comments": "A period 5 oscillator. www.conwaylife.com/wiki/Pentoad_1H2",
+	"width": 15,
+	"height": 12,
+	"rule": "3/23"
+}

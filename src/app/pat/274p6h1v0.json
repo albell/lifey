@@ -1,0 +1,10 @@
+{
+	"name": "274P6H1V0",
+	"author": "Paul Tooke",
+	"comments": "The first c/6 orthogonal spaceship to be discovered that does not involve a dragon http://www.conwaylife.com/wiki/index.php?title=274P6H1V0",
+	"width": 58,
+	"height": 19,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "2bo14bo34bo5b$o2bo2b3o7bob4o15b2o11b2obo4b$o2bo12b3obobo9bo5bo7bo3bo7b$bobo2bo21b3o2bobob3o5bobobo4bo3b$2b2o6bo4bo16b6o2bo2bo3bo3bo2bo3b$bobo3b2o5bo3b2o6b2ob2o2bo2b2o2bobob2o2bo9b$2bo5bob2o2bo3b2o6b2o4bobobo2bo2bobobo6b2o2bo$2bo4b3o2bo9b3o7b3obob2o5bo7b3obo$12b9o3bo8b2ob3o3b4o9bobo2$12b9o3bo8b2ob3o3b4o9bobo$2bo4b3o2bo9b3o7b3obob2o5bo7b3obo$2bo5bob2o2bo3b2o6b2o4bobobo2bo2bobobo6b2o2bo$bobo3b2o5bo3b2o6b2ob2o2bo2b2o2bobob2o2bo9b$2b2o6bo4bo16b6o2bo2bo3bo3bo2bo3b$bobo2bo21b3o2bobob3o5bobobo4bo3b$o2bo12b3obobo9bo5bo7bo3bo7b$o2bo2b3o7bob4o15b2o11b2obo4b$2bo14bo34bo"
+}

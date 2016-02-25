@@ -1,0 +1,9 @@
+{
+	"name": "Conduit 1",
+	"pattern": "ob2o7b$2obo7b2$9b2o$9b2o",
+	"author": "David Buckingham",
+	"comments": "A conduit that transforms a B-heptomino into a Herschel after 59 generations. www.conwaylife.com/wiki/index.php?title=Conduit_1",
+	"width": 11,
+	"height": 5,
+	"rule": "3/23"
+}

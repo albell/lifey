@@ -1,0 +1,9 @@
+{
+	"name": "Monogram",
+	"pattern": "2o3b2o$bobobob$b2ob2ob$bobobob$2o3b2o",
+	"author": "Dean Hickerson",
+	"comments": "A period 4 oscillator found in August 1989. www.conwaylife.com/wiki/index.php?title=Monogram",
+	"width": 7,
+	"height": 5,
+	"rule": "3/23"
+}

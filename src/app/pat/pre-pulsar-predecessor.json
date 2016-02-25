@@ -1,0 +1,8 @@
+{
+	"name": "Pre-Pulsar Predecessor",
+	"pattern": "bo5bob$3o3b3o",
+	"comments": "A common four-generation predecessor of the pre-pulsar. www.conwaylife.com/wiki/index.php?title=Pre-pulsar",
+	"width": 9,
+	"height": 2,
+	"rule": "23/3"
+}

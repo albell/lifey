@@ -1,0 +1,8 @@
+{
+	"name": "Cis-Beacon and Table",
+	"pattern": "2b2o$3bo$o3b$2o2b2$4o$o2bo",
+	"comments": "A period 2 oscillator. www.conwaylife.com/wiki/index.php?title=Cis-beacon_and_table",
+	"width": 4,
+	"height": 7,
+	"rule": "3/23"
+}

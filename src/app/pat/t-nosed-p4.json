@@ -1,0 +1,9 @@
+{
+	"name": "T-Nosed p4",
+	"pattern": "4b3o4b$5bo5b2$4b3o4b$3bo3bo3b$2bo5bo2b$2bobobobo2b$b2obobob2ob$o2b2ob2o2bo$2o7b2o",
+	"author": "Robert Wainwright",
+	"comments": "A period 4 oscillator found in October 1989. www.conwaylife.com/wiki/index.php?title=T-nosed_p4",
+	"width": 11,
+	"height": 10,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Maze Wickstretcher",
+	"pattern": "2o4b$b3o2b$bob2ob$3b3o$3b2ob$bobo2b$b3o2b$2o",
+	"comments": "A common wickstretcher in the maze (12345/3) rule. www.conwaylife.com/wiki/index.php?title=Maze",
+	"width": 6,
+	"height": 8,
+	"rule": "12345/3"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Trans-Beacon and Cap",
+	"pattern": "4b2o$5bo$2bo3b$2b2o2b2$4o2b$o2bo2b$b2o",
+	"comments": "A period 2 oscillator. www.conwaylife.com/wiki/index.php?title=Trans-beacon_and_cap",
+	"width": 6,
+	"height": 8,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "P36 Toad Hassler",
+	"pattern": "2o16b2o$bo16bob$bobo12bobob$2b2o12b2o2b$7bo4bo7b$5b2ob4ob2o5b$7bo4bo7b$2b2o12b2o2b$bobo12bobob$bo16bob$2o16b2o$11bo8b$9bo2bo7b$9bo2bo7b$10bo9b$2o16b2o$bo16bob$bobo12bobob$2b2o12b2o2b$7bo4bo7b$5b2ob4ob2o5b$7bo4bo7b$2b2o12b2o2b$bobo12bobob$bo16bob$2o16b2o",
+	"author": "Robert Wainwright",
+	"comments": "The first period 36 oscillator to be discovered",
+	"width": 20,
+	"height": 26,
+	"rule": "3/23"
+}

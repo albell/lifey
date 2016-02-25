@@ -1,0 +1,8 @@
+{
+	"name": "Gray Counter",
+	"pattern": "6bo6b$5bobo5b$4bobobo4b$bo2bo3bo2bob$obobo3bobobo$bo2bo3bo2bob$4bobobo4b$5bobo5b$6bo",
+	"comments": "A period 4 oscillator. http://www.conwaylife.com/wiki/index.php?title=Gray_counter",
+	"width": 13,
+	"height": 9,
+	"rule": "3/23"
+}

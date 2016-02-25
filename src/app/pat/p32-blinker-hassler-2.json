@@ -1,0 +1,8 @@
+{
+	"name": "P32 Blinker Hassler 2. http://www.conwaylife.com/wiki/P32_blinker_hassler_2",
+	"comments": "",
+	"width": 24,
+	"height": 30,
+	"rule": "3/23",
+	"pattern": "9b2o7b2o$9bo2b2ob2o2bo$10b2obobob2o$11bobobobo$11bob3obo$12b5o4$13b3o$6b2o6bo$5bobo6bo$5b2o2$9b3o6b3o$9bobo6b3o$9b3o6b3o$21b3o$21b3o$21b3o2$4bo3bobobo3bo$3bobo9bobo$3bobo9bobo$2obobob7obobob2o$2obo13bob2o$3bo13bo$3bobo4bo4bobo$4b2o3bobo3b2o$10bo"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "Buckaroo",
+	"pattern": "9bo$7bobo$6bobo$2o3bo2bo$2o4bobo$7bobo9b2o$9bo9bobo$21bo$21b2o",
+	"author": "David Buckingham",
+	"comments": "A period 30 oscillator based on the queen bee shuttle. The oscillator will still function if the eater is moved   closer to the queen bee by one space, but it will lose   its ability to reflect gliders. www.conwaylife.com/wiki/index.php?title=Buckaroo",
+	"width": 23,
+	"height": 9,
+	"rule": "3/23"
+}

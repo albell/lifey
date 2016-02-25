@@ -1,0 +1,9 @@
+{
+	"name": "Short Keys",
+	"pattern": "bo8bob$ob3o2b3obo$bo2bo2bo2bob$4bo2bo",
+	"author": "Dean Hickerson",
+	"comments": "A period 3 oscillator. www.conwaylife.com/wiki/index.php?title=Short_keys",
+	"width": 12,
+	"height": 4,
+	"rule": "3/23"
+}

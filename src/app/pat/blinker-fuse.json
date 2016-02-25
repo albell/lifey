@@ -1,0 +1,8 @@
+{
+	"name": "Blinker Fuse",
+	"comments": "An orthogonal 2c/3 period 18 fuse that burns cleanly through blinkers. www.conwaylife.com/wiki/index.php?title=Blinker_fuse",
+	"width": 65,
+	"height": 5,
+	"rule": "3/23",
+	"pattern": "2o2bob2o$5obobo$8bob3ob3ob3ob3ob3ob3ob3ob3ob3ob3ob3ob3ob3ob3o$5obobo$2o2bob2o"
+}

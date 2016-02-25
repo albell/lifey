@@ -1,0 +1,10 @@
+{
+	"name": "Coe Ship",
+	"author": "Tim Coe",
+	"comments": "An orthogonal period 16 c/2 spaceship discovered in October 1995 that can act as a puffer engine. www.conwaylife.com/wiki/index.php?title=Coe_ship",
+	"width": 10,
+	"height": 9,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "4b6o$2b2o5bo$2obo5bo$4bo3bob$6bo3b$6b2o2b$5b4ob$5b2ob2o$7b2o"
+}

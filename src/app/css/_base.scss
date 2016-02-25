@@ -1,0 +1,93 @@
+.svg-definitions {
+	position: absolute;
+}
+
+html {
+	font-family: 'noto_sansregular';
+	font-weight: 400;
+}
+
+html, body {
+	background: #999;
+	height: 100%;
+	touch-action: none; // Prevent all document-level scrolling/panning/etc.
+} 
+
+body {
+	margin: 0;
+	overflow: hidden; // Prevents scrollbars due to rounding errors.
+}
+
+.outer-background {
+	height: 100%;
+	overflow: scroll;
+	position: fixed;
+	width: 100%;
+}
+
+/* Tool cursor gets set on inner bg so that ordinary pointer is
+	retained when hovering scrollbars */
+.inner-background {
+	-ms-flex-align: center;
+	align-items: center;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: center;
+  justify-content: center;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	min-height: 100%;
+	max-width: 100%; // Contains very wide canvases at low scale, zoomed out.
+	max-height: 100%; // Contains very tall canvases at low scale, zoomed out.
+  transition: height .1s ease-in-out,
+              width  .1s ease-in-out;
+}
+
+.inner-background--canvas-overflows {
+	// Margin is required in case explicit width plus zoom padding is
+	// less than horizontal Inner View.
+	margin: 0 auto; 
+	padding: 100px; // Tracked in application state. Must match line 132 of app.js
+	position: relative;
+	transition: none;
+	max-width: none; // Remove constraints.
+	max-height: none;
+}
+
+@media (min-width: $desktopBreakpointWidth) and (min-height: $desktopBreakpointHeight) {
+	
+	// 200 is a bit more than the right panels' width of 174px in panel.scss.
+	.inner-background--canvas-overflows {
+		padding: 200px; // Tracked in application state. Must match line 132 of app.js
+	}
+}
+
+.main-canvas {
+  background: #fff;
+  display: block;
+  margin: 0 auto;
+  transform: scale(6); /* must match line 87 of canvas.js */
+}
+
+// This needs to be removed and added on zoom in Blink in order to keep the
+// canvas edge from going blurry.
+.main-canvas--box-shadow {
+  box-shadow: 0 1.5px 3px 0.5px rgba(0,0,0,0.2);
+}
+
+.main-canvas--transition-scale {
+  transition: transform .1s ease-in-out;	
+}
+
+.pixelated {
+	-ms-interpolation-mode: nearest-neighbor;
+	image-rendering: -moz-crisp-edges; // FF 38 - 44
+	image-rendering: -webkit-crisp-edges; // Safari, theoretically but doesn't work on canvas :(
+	image-rendering: pixelated; // Standard
+}
+
+.inner-background--canvas-overflows > .main-canvas {
+	transition: none;	
+}

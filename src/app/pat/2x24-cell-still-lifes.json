@@ -1,0 +1,8 @@
+{
+	"name": "2x2 4-cell still lifes",
+	"pattern": "2o3bo6bob$2bo3bo4bobo$2bo4bo4bob$8bo",
+	"comments": "All 4-cell still lifes in the 2x2 (125/36) rule. www.conwaylife.com/wiki/index.php?title=2x2",
+	"width": 14,
+	"height": 4,
+	"rule": "125/36"
+}

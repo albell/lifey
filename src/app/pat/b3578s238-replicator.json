@@ -1,0 +1,9 @@
+{
+	"name": "B3578/S238 Replicator",
+	"pattern": "3o4b$obo4b$3o4b2$4b3o$4bobo$4b3o",
+	"author": "heyitsguay",
+	"comments": "A replicator in the B3578/S238 rule. http://echochamber.me/viewtopic.php?f=17&t=38992",
+	"width": 7,
+	"height": 7,
+	"rule": "238/3578"
+}

@@ -1,0 +1,13 @@
+{
+	"name": "Lidka",
+	"author": "Andrzej Okrasinski and David Bell",
+	"comments": "A methuselah with lifespan 29055. www.conwaylife.com/wiki/index.php?title=Lidka",
+	"width": 9,
+	"height": 15,
+	"rule": "3/23",
+	"minCanvasX": 800,
+	"minCanvasY": 800,
+	"offsetX": 400,
+	"offsetY": 400,
+	"pattern": "bo7b$obo6b$bo7b8$8bo$6bobo$5b2obo2$4b3o"
+}

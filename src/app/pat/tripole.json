@@ -1,0 +1,8 @@
+{
+	"name": "Tripole",
+	"pattern": "2o4b$obo3b2$2bobob$5bo$4b2o",
+	"comments": "The barberpole of length 3 and thus a period 2 oscillator. www.conwaylife.com/wiki/index.php?title=Tripole",
+	"width": 6,
+	"height": 6,
+	"rule": "3/23"
+}

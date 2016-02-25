@@ -1,0 +1,9 @@
+{
+	"name": "1-2-3",
+	"pattern": "2b2o6b$o2bo6b$2obob2o3b$bobo2bo3b$bo4bob2o$2b3obob2o$5bo4b$4bo5b$4b2o",
+	"author": "Dave Buckingham",
+	"comments": "A period 3 oscillator that was found in August 1972.",
+	"width": 10,
+	"height": 9,
+	"rule": "3/23"
+}

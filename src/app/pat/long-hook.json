@@ -1,0 +1,8 @@
+{
+	"name": "Long Hook",
+	"pattern": "3b2o$o3bo$4o",
+	"comments": "An induction coil that is a longer version of a bookend (aka. a hook). http://www.conwaylife.com/wiki/index.php?title=Long_hook",
+	"width": 5,
+	"height": 3,
+	"rule": "3/23"
+}

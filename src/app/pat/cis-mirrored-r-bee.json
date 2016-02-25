@@ -1,0 +1,8 @@
+{
+	"name": "Cis-Mirrored R-Bee",
+	"pattern": "b2ob2ob$obobobo$obobobo$bo3bo",
+	"comments": "A 14-cell still life made up of two buns facing each other. http://www.conwaylife.com/wiki/index.php?title=Cis-mirrored_R-bee",
+	"width": 7,
+	"height": 4,
+	"rule": "3/23"
+}

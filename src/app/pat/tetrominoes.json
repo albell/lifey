@@ -1,0 +1,8 @@
+{
+	"name": "Tetrominoes",
+	"pattern": "2o6b3o6b4o6b3o6b2ob$2o7bo19bo7b2o",
+	"comments": "A collection of all five tetrominoes. www.conwaylife.com/wiki/index.php?title=Polyominoetrominoes",
+	"width": 39,
+	"height": 2,
+	"rule": "3/23"
+}

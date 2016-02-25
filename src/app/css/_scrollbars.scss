@@ -1,0 +1,140 @@
+/* Scrollbars
+	https://css-tricks.com/examples/WebKitScrollbars/
+*/
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track:horizontal {
+	background-image: linear-gradient(
+		#323232 0%,
+		#434343 60%,
+		#3c3c3c 100%
+	);
+/*	background: blue; */
+}
+
+::-webkit-scrollbar-track:vertical {
+	background-image: linear-gradient( to right,
+		#323232 0%,
+		#434343 60%,
+		#3c3c3c 100%
+	);
+/*	background: green; */
+
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+	border-radius: 6px;
+	background: rgba(255,0,0,0.8);
+	box-shadow: inset 0 0  0 1px #9a9a9a;
+}
+
+::-webkit-scrollbar-thumb:horizontal {
+	background-image: linear-gradient(
+		#8a8a8a 0%,
+		#707070 100%
+	);
+	border-top: 2px solid #323232;
+	border-bottom: 2px solid #3e3e3e;
+}
+
+::-webkit-scrollbar-thumb:vertical {
+	background-image: linear-gradient( to right,
+		#8a8a8a 0%,
+		#707070 100%
+	);
+	border-left: 2px solid #323232;
+	border-right: 2px solid #3e3e3e;
+}
+
+::-webkit-scrollbar-corner,
+::-webkit-resizer {
+	background: $darkGray;
+}
+
+
+// Desktop scrollbars are thicker.
+@media (min-width: 700px) and (min-height: 600px) {
+	::-webkit-scrollbar {
+	  width: 16px;
+		height: 16px;
+	}
+
+	::-webkit-scrollbar-thumb:horizontal {
+		border-top: 4px solid #323232;
+		border-bottom: 4px solid #3e3e3e;
+	}
+	
+	::-webkit-scrollbar-thumb:vertical {
+		border-left: 4px solid #323232;
+		border-right: 4px solid #3e3e3e;
+	}
+}
+
+
+// ---- Firefox Scrollbars ----
+
+// Firefox doesn't natively support scrollbar styling. This is a funky hack
+// to get the scrollbar colors reversed without resorting to jank-prone script.
+@-moz-document url-prefix() {
+	.ff-scroll {
+		position: absolute;
+		pointer-events: none;
+	}
+	
+	.ff-scroll--horizontal {
+		bottom: 0px;
+		left: 0px;
+		height: 16px;
+	}
+
+	.ff-scroll--horizontal-with-corner {
+		width: calc(100% - 16px);
+	}
+
+	.ff-scroll--vertical {
+		right: 0px;
+		top: 0px;
+		width: 16px;
+	}
+
+	.ff-scroll--vertical-with-corner {
+		height: calc(100% - 16px);
+	}
+	
+	.ff-scroll--full-height {
+		height: 100%;
+	}
+
+	// Gross cleanup of a white line :/
+	.ff-scroll--single-line {
+		border-left: 1px solid $offBlack;
+	}
+	
+	// The first overlaid element inverts the color palette of the scrollbar
+	// and thumb underneath it.	
+	.ff-scroll--invert {
+		background-color: #fff;
+		mix-blend-mode: difference; 
+	}
+	
+	.ff-scroll--lighter {	
+		// The second element lightens the color palette of the scrollbars
+		// and thumb underneath it.
+		background-color: #444;
+		mix-blend-mode: screen; 
+	}
+	
+	.ff-scroll-corner {
+		background-color: $darkGray;
+		width: 16px;
+		height: 16px;
+		bottom: 0;
+		right: 0;
+	}
+}

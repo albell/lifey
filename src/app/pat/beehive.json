@@ -1,0 +1,9 @@
+{
+	"name": "Beehive",
+	"pattern": "b2ob$o2bo$b2o",
+	"author": "John Conway",
+	"comments": "An extremely common 6-cell still life. www.conwaylife.com/wiki/index.php?title=Beehive",
+	"width": 4,
+	"height": 3,
+	"rule": "3/23"
+}

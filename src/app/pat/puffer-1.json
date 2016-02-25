@@ -1,0 +1,12 @@
+{
+	"name": "Puffer 1",
+	"author": "Bill Gosper",
+	"comments": "An orthogonal, period-128 puffer and the first puffer to be discovered. http://www.conwaylife.com/wiki/index.php?title=Puffer_1",
+	"width": 27,
+	"height": 7,
+	"rule": "3/23",
+	"offsetY": 400,
+	"minCanvasX": 500,
+	"minCanvasY": 500,
+	"pattern": "b3o6bo5bo6b3ob$o2bo5b3o3b3o5bo2bo$3bo4b2obo3bob2o4bo3b$3bo19bo3b$3bo2bo13bo2bo3b$3bo2b2o11b2o2bo3b$2bo3b2o11b2o3bo"
+}

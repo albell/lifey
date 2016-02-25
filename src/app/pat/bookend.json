@@ -1,0 +1,8 @@
+{
+	"name": "Bookend",
+	"pattern": "2b2o$o2bo$3o",
+	"comments": "An induction coil. www.conwaylife.com/wiki/index.php?title=Bookend",
+	"width": 4,
+	"height": 3,
+	"rule": "3/23"
+}

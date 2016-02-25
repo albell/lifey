@@ -1,0 +1,158 @@
+.panel {
+	background: $darkGray;
+	border: 1px solid $offBlack;
+	box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.2);
+	color: #cfcfcf;
+	font-size: .625em;
+	position: absolute;
+}
+
+.hide-panels .panel {
+	display: none;
+}
+
+.panel--right {
+	right: 0;
+	width: 174px;
+}
+
+.panel__dragspot {
+	background: #434343;
+	border-bottom: 1px solid $offBlack;
+	height: 20px;
+	line-height: 1.1;
+	padding: 4px 0 0 7px;
+}
+
+.panel__display-name {
+	color: $midLightGray;
+	cursor: default;
+}
+
+.panel__button {
+	background: transparent;
+	border: 1px solid $darkGray;
+	border-radius: 2px;
+	display: inline-block;
+	outline: 0; /* kill focus (?) */
+	margin: 0 0 2px 0;
+	padding: 3px;
+	position: relative;
+}
+
+@media (min-width: $desktopBreakpointWidth) and (min-height: $desktopBreakpointHeight) {
+	.panel__button:hover {
+		background-image: linear-gradient(
+			#747474 0%,
+			#747474 10%,
+			#6c6c6c 50%,
+			#626262 100%
+		);
+		border: 1px solid $offBlack;
+		box-shadow: 0 0.3px 0px rgba(255, 255, 255, 0.4),
+			inset 0 1px 0 0 #919191;
+	}
+
+	.panel__button:active {
+		background-image: linear-gradient(
+			#3f3f3f 0%,
+			#383838 100%
+		);
+		border: 1px solid #292929;
+		box-shadow: 0 0.3px 0px rgba(255, 255, 255, 0.3),
+			inset 0 1px 0 0 #333;
+	}
+
+}
+
+// :active styles are erratic on touch. Add/remove a class instead.
+// These must override the hover selector above.
+.panel__button--touch-pressed.panel__button--touch-pressed,
+.panel__button--selected.panel__button--selected,
+.player__play-button--is-playing.player__play-button--is-playing {
+	background-image: linear-gradient(
+		#3f3f3f 0%,
+		#383838 100%
+	);
+	border: 1px solid #292929;
+	box-shadow: 0 0.3px 0px rgba(255, 255, 255, 0.3),
+		inset 0 1px 0 0 #333;
+}
+
+.panel__button-icon {
+	display: block;
+	margin: 0 auto;
+	width: 23px;
+	height: 19px;
+	max-height: 100%; // TO DO: REMOVE?
+	max-width: 100%;
+}
+
+.icon-path-main-color {
+	fill: $midLightGray;
+}
+
+.icon-path-main-color-stroke {
+	fill: none;
+	stroke: $midLightGray;
+}
+
+.icon-path-darker-tone {
+	fill: #acacac;
+}
+
+
+// ---- SVG DROPSHADOWS ----
+
+//    // Use simple SVG path for Webkit/Blink
+//    @supports (-webkit-appearance:none) {
+//    	.icon-path-main-color-stroke,
+//    	.icon-path-main-color,
+//    	.icon-path-darker-tone {
+//    		filter: url(#drop-shadow);
+//    	}
+//    }
+//    
+//    // Inline SVG path references break in FF without relative link.
+//    // A broken path will hide the entire SVG.
+//    // http://stackoverflow.com/questions/20330149/svg-filter-only-working-when-added-in-style-attribute-firefox
+//    
+//    @-moz-document url-prefix() { 
+//    	.icon-path-main-color-stroke,
+//    	.icon-path-main-color,
+//    	.icon-path-darker-tone {
+//    		filter: url(../index.html#drop-shadow);
+//    	}
+//    }
+
+.panel__button:hover .panel__button-icon > .icon-path-main-color,
+.panel__button--selected .panel__button-icon > .icon-path-main-color {
+	fill: #d7d7d7;
+}
+
+// Don't clutter the mobile UI with this stuff.
+@media (min-width: $desktopBreakpointWidth) and (min-height: $desktopBreakpointHeight) {
+	.panel--dragspot-bottom {
+		background: $darkGray;
+		border-top: 1px solid $midDarkGray;
+	}
+	
+	.toolbox__dragspot-image--bottom {
+		margin: 0 auto;
+	}
+	
+	.panel--is-dragging {
+		will-change: transform;
+	}
+	
+	.z-index1 {z-index: 1}
+	.z-index2 {z-index: 2}
+	.z-index3 {z-index: 3}
+	.z-index4 {z-index: 4}
+	.z-index5 {z-index: 5}
+	.z-index6 {z-index: 6}
+	.z-index7 {z-index: 7}
+	.z-index8 {z-index: 8}
+	.z-index9 {z-index: 9}
+}
+

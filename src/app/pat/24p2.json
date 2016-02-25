@@ -1,0 +1,8 @@
+{
+	"name": "24P2",
+	"pattern": "4bo3b$2o2b3ob$o6bo$b5obo$6bob$3bo4b$3b2o",
+	"comments": "A period 2 oscillator. www.conwaylife.com/wiki/index.php?title=24P2",
+	"width": 8,
+	"height": 7,
+	"rule": "3/23"
+}

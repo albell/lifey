@@ -1,0 +1,9 @@
+{
+	"name": "Garden of Eden 3",
+	"pattern": "2bob3o6b$2obob5obob$obob2obobo3b$b4obob3o2b$obob2ob3obob$b3ob2obobo2b$2bo3b3o2b2o$bob2obobob2ob$3ob4obobob$bob4o3bo2b$bobob2o2bo3b$b2obo2b2o2bo",
+	"author": "Achim Flammenkamp",
+	"comments": "A Garden of Eden found on June 14, 2004, that was the smallest at the time of its discovery. www.conwaylife.com/wiki/index.php?title=Garden_of_Eden_3",
+	"width": 13,
+	"height": 12,
+	"rule": "3/23"
+}

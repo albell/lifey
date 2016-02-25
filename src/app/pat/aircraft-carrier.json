@@ -1,0 +1,8 @@
+{
+	"name": "Aircraft Carrier",
+	"pattern": "2o2b$o2bo$2b2o",
+	"comments": "A 6-cell still life that is the smallest still life with more than one island. www.conwaylife.com/wiki/index.php?title=Aircraft_carrier",
+	"width": 4,
+	"height": 3,
+	"rule": "3/23"
+}

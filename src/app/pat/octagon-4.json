@@ -1,0 +1,8 @@
+{
+	"name": "Octagon 4",
+	"comments": "Octagon 4 is a period 4 oscillator, discovered in 1979 by Robert Wainwright. It consists of a regular octagon with sides four cells long and of four blocks. In August 2004 Jason Summers and Mark Niemiec found a 34-glider synthesis of this oscillator. http://www.conwaylife.com/wiki/Octagon_4",
+	"width": 16,
+	"height": 16,
+	"rule": "3/23",
+	"pattern": "7b2o$7b2o2$6b4o$5bo4bo$4bo6bo$3bo8bo$2obo8bob2o$2obo8bob2o$3bo8bo$4bo6bo$5bo4bo$6b4o2$7b2o$7b2o"
+}

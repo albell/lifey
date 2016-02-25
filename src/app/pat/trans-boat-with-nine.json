@@ -1,0 +1,8 @@
+{
+	"name": "Trans-Boat with Nine",
+	"pattern": "2o4b$obo3b$bo4b$2b3ob$5bo$4b2o",
+	"comments": "An 11-cell still life. http://www.conwaylife.com/wiki/index.php?title=Trans-boat_with_nine",
+	"width": 6,
+	"height": 6,
+	"rule": "3/23"
+}

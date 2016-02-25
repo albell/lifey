@@ -1,0 +1,8 @@
+{
+	"name": "Block and Cap",
+	"pattern": "b2ob$o2bo$4o2$2o2b$2o",
+	"comments": "A 12-cell still life. http://www.conwaylife.com/wiki/index.php?title=Block_and_cap",
+	"width": 4,
+	"height": 6,
+	"rule": "3/23"
+}

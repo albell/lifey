@@ -1,0 +1,9 @@
+{
+	"name": "Middleweight Volcano",
+	"pattern": "4b5o4b$3bo5bo3b$b3o5b3ob$o11bo$ob3obob4ob$bo3b3o5b$3bo5b2obo$2b2obobobob2o$3bobo2bo4b$3bo2b2o5b$2b2o",
+	"author": "Dean Hickerson",
+	"comments": "A period 5 oscillator found in April 1992 that produces sparks much like a middleweight spaceship. www.conwaylife.com/wiki/index.php?title=Middleweight_volcano",
+	"width": 13,
+	"height": 11,
+	"rule": "3/23"
+}

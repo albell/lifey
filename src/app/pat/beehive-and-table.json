@@ -1,0 +1,8 @@
+{
+	"name": "Beehive and Table",
+	"pattern": "2b2ob$bo2bo$2b2ob2$4ob$o2bo",
+	"comments": "A 12-cell still life. http://www.conwaylife.com/wiki/index.php?title=Beehive_and_table",
+	"width": 5,
+	"height": 6,
+	"rule": "3/23"
+}

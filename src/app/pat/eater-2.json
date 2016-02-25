@@ -1,0 +1,9 @@
+{
+	"name": "Eater 2",
+	"pattern": "3bob2o$b3ob2o$o6b$b3ob2o$3bobob$3bobob$4bo",
+	"author": "David Buckingham",
+	"comments": "A well-known eater and 19-cell still life that can eat gliders that approach it along four different paths. http://www.conwaylife.com/wiki/index.php?title=Eater_2",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

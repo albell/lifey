@@ -1,0 +1,8 @@
+{
+	"name": "Interchange",
+	"pattern": "2b3o4b3o2b2$o12bo$o12bo$o12bo2$2b3o4b3o",
+	"comments": "A common period 2 oscillator made up of six blinkers. www.conwaylife.com/wiki/index.php?title=Interchange",
+	"width": 14,
+	"height": 7,
+	"rule": "3/23"
+}

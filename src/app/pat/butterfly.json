@@ -1,0 +1,8 @@
+{
+	"name": "Butterfly",
+	"pattern": "o3b$2o2b$obob$b3o",
+	"comments": "Evolves into a formation of two beehives after 33 generations. www.conwaylife.com/wiki/index.php?title=Butterfly",
+	"width": 4,
+	"height": 4,
+	"rule": "3/23"
+}

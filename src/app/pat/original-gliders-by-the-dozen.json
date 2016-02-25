@@ -1,0 +1,9 @@
+{
+	"name": "Original Gliders by the Dozen",
+	"pattern": "2b2ob2o2b$bobobobob$o2bobo2bo$bobobobob$2b2ob2o",
+	"author": "Roger H. Rosenbaum",
+	"comments": "The original form of gliders by the dozen http://www.conwaylife.com/wiki/index.php?title=Gliders_by_the_dozen",
+	"width": 9,
+	"height": 5,
+	"rule": "3/23"
+}

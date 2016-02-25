@@ -1,0 +1,8 @@
+{
+	"name": "Z-Hexomino",
+	"pattern": "2ob$bob$bob$b2o",
+	"comments": "One of 35 hexominoes. It appears in pentoad and Achim's p144. www.conwaylife.com/wiki/index.php?title=Z-hexomino",
+	"width": 3,
+	"height": 4,
+	"rule": "3/23"
+}

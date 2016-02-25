@@ -1,0 +1,8 @@
+{
+	"name": "Ortho-Loaf and Table",
+	"pattern": "2bo2b$bobob$bo2bo$2b2ob2$4ob$o2bo",
+	"comments": "A 13-cell still life. http://www.conwaylife.com/wiki/index.php?title=Ortho-loaf_and_table",
+	"width": 5,
+	"height": 7,
+	"rule": "3/23"
+}

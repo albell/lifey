@@ -1,0 +1,8 @@
+{
+	"name": "Hertz Oscillator",
+	"pattern": "3b2obo4b$3bob2o4b2$4b3o4b$3bobobob2o$3bo3bob2o$2obo3bo3b$2obo3bo3b$4b3o4b2$4b2obo3b$4bob2o",
+	"comments": "A period 8 oscillator found by John Conway's group in 1970. http://www.conwaylife.com/wiki/index.php?title=Hertz_oscillator",
+	"width": 11,
+	"height": 12,
+	"rule": "3/23"
+}

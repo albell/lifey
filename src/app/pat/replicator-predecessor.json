@@ -1,0 +1,9 @@
+{
+	"name": "Replicator Predecessor",
+	"pattern": "b3o$o3b$o3b$o",
+	"author": "Nathan Thompson",
+	"comments": "A 3-generation predecessor of the HighLife replicator. www.conwaylife.com/wiki/index.php?title=HighLife",
+	"width": 4,
+	"height": 4,
+	"rule": "23/36"
+}

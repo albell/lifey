@@ -1,0 +1,8 @@
+{
+	"name": "Light Bulb",
+	"pattern": "b2obo2b$bob2o2b2$2b3o2b$bo3bob$bo3bob$2bobo2b$obobobo$2o3b2o",
+	"comments": "A period 2 oscillator that was found in 1971. www.conwaylife.com/wiki/index.php?title=Light_bulb",
+	"width": 7,
+	"height": 9,
+	"rule": "3/23"
+}

@@ -1,0 +1,49 @@
+.info {
+	height: 100px;
+	right: 0;
+	top: 200px;
+}
+
+.info__contents-wrapper {
+	padding: 7px;
+}
+
+.info__cursor,
+.info__dimension {
+	display: inline-block;
+}
+
+.info__cursor {
+	padding-right: 7px;
+	width: 50%;
+}
+
+.info__dimension {
+	border-left: 1px solid $offBlack;
+	padding-left: 7px;
+	width: 50%;
+}
+
+.info__cursor-icon,
+.info__dimension-icon {
+	height: 19px;
+	margin: 0 5px 10px 0;
+	width: 19px;
+}
+
+.info__cursor-icon {
+}
+
+.info__dimension-icon {
+	position: relative;
+	left: 3px;
+}
+
+.info__value {
+	float: right;
+}
+
+.info__button--resize {
+	height: 27px;
+	width: 31px;
+}

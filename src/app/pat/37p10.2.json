@@ -1,0 +1,9 @@
+{
+	"name": "37P10.2",
+	"pattern": "2b2o9b$3bo9b$2bo10b$2b2o5b2o2b$4bo3bobo2b$4o5bo3b$o5bo5bo$3b2o3b5o$2bo2bobo5b$2b2o5b2o2b$10bo2b$9bo3b$9b2o",
+	"author": "Dean Hickerson",
+	"comments": "A small period-10 oscillator related to 37P10.1 http://www.conwaylife.com/wiki/index.php?title=37P10.1",
+	"width": 13,
+	"height": 13,
+	"rule": "3/23"
+}

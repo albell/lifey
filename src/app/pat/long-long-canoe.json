@@ -1,0 +1,8 @@
+{
+	"name": "Long Long Canoe",
+	"pattern": "5b2o$6bo$5bob$4bo2b$3bo3b$obo4b$2o",
+	"comments": "A 10-cell still life. http://www.conwaylife.com/wiki/index.php?title=Long_long_canoe",
+	"width": 7,
+	"height": 7,
+	"rule": "3/23"
+}

@@ -1,0 +1,9 @@
+{
+	"name": "A for All",
+	"pattern": "4b2o4b$3bo2bo3b$3b4o3b$bobo2bobob$o8bo$o8bo$bobo2bobob$3b4o3b$3bo2bo3b$4b2o",
+	"author": "Dean Hickerson",
+	"comments": "A period 6 oscillator found in March 1993. www.conwaylife.com/wiki/index.php?title=A_for_all",
+	"width": 10,
+	"height": 10,
+	"rule": "3/23"
+}

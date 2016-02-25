@@ -1,0 +1,10 @@
+{
+	"name": "Weekender",
+	"author": "David Eppstein",
+	"comments": "An orthogonal period 7 spaceship with speed 2c/7. www.conwaylife.com/wiki/index.php?title=Weekender",
+	"width": 16,
+	"height": 11,
+	"rule": "3/23",
+	"toroidal": true,
+	"pattern": "bo12bob$bo12bob$obo10bobo$bo12bob$bo12bob$2bo3b4o3bo2b$6b4o6b$2b4o4b4o2b2$4bo6bo4b$5b2o2b2o"
+}

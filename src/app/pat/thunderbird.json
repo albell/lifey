@@ -1,0 +1,8 @@
+{
+	"name": "Thunderbird",
+	"pattern": "3o2$bob$bob$bo",
+	"comments": "A methuselah with lifespan 243. www.conwaylife.com/wiki/index.php?title=Thunderbird",
+	"width": 3,
+	"height": 5,
+	"rule": "3/23"
+}

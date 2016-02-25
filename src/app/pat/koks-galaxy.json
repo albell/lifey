@@ -1,0 +1,9 @@
+{
+	"name": "Kok's Galaxy",
+	"pattern": "2bo2bobob$2obob3ob$bo6bo$2o5bob2$bo5b2o$o6bob$b3obob2o$bobo2bo",
+	"author": "Jan Kok",
+	"comments": "A period 8 oscillator that was found in 1971. www.conwaylife.com/wiki/index.php?title=Kok's_galaxy",
+	"width": 9,
+	"height": 9,
+	"rule": "23/3"
+}

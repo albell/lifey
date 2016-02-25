@@ -1,0 +1,9 @@
+{
+	"name": "Harbor",
+	"pattern": "5b2o3b2o5b$5bobobobo5b$6bo3bo6b2$5b2o3b2o5b$2o2bobo3bobo2b2o$obob2o5b2obobo$bo13bob2$bo13bob$obob2o5b2obobo$2o2bobo3bobo2b2o$5b2o3b2o5b2$6bo3bo6b$5bobobobo5b$5b2o3b2o",
+	"author": "David Buckingham",
+	"comments": "A period 5 oscillator found in September 1978. www.conwaylife.com/wiki/index.php?title=Harbor",
+	"width": 17,
+	"height": 17,
+	"rule": "3/23"
+}

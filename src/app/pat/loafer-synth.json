@@ -1,0 +1,9 @@
+{
+	"name": "Loafer Synth",
+	"pattern": "33bo$31b2o$32b2o$9bo$bo8bo$2bo5b3o$3o3$5bo$6bo$4b3o$24bobo$25b2o$25bo2$27bobo$27b2o$28bo$31b3o$31bo$32bo7$5b2o$6b2o$5bo",
+	"author": "Matthias Merzenich",
+	"comments": "8-glider synthesis of loafer found 18 February 2013, based on 18-glider synthesis found by Adam Goucher on 17 February. http://www.conwaylife.com/forums/viewtopic.php?f=2&t=10317465 http://conwaylife.com/wiki/Loafer",
+	"width": 34,
+	"height": 31,
+	"rule": "3/23"
+}

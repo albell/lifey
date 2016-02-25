@@ -1,0 +1,9 @@
+{
+	"name": "Dinner Table",
+	"pattern": "bo11b$b3o7b2o$4bo6bob$3b2o4bobob$9b2o2b$6bo6b$4b2obo5b2$2bo3bo2bo3b$bob2o4bo3b$bo6bo4b$2o7b3ob$11bo",
+	"author": "Robert Wainwright",
+	"comments": "The first period 12 oscillator to be found. Discovered in 1972. www.conwaylife.com/wiki/index.php?title=Dinner_table",
+	"width": 13,
+	"height": 13,
+	"rule": "3/23"
+}

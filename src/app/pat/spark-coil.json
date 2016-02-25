@@ -1,0 +1,8 @@
+{
+	"name": "Spark Coil",
+	"pattern": "2o4b2o$obo2bobo$2bo2bo2b$obo2bobo$2o4b2o",
+	"comments": "A period 2 oscillator found in 1971. www.conwaylife.com/wiki/index.php?title=Spark_coil",
+	"width": 8,
+	"height": 5,
+	"rule": "3/23"
+}

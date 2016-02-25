@@ -1,0 +1,9 @@
+{
+	"name": "Unix",
+	"pattern": "b2o5b$b2o5b2$bo6b$obo5b$o2bo2b2o$4bob2o$2b2o",
+	"author": "David Buckingham",
+	"comments": "A period 6 oscillator that consists of two blocks eating a barge. http://www.conwaylife.com/wiki/index.php?title=Unix",
+	"width": 8,
+	"height": 8,
+	"rule": "3/23"
+}

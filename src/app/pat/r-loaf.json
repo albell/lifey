@@ -1,0 +1,8 @@
+{
+	"name": "R-Loaf",
+	"pattern": "3ob$o2bo$bobo$2bo",
+	"comments": "A small induction coil. www.conwaylife.com/wiki/index.php?title=R-loaf",
+	"width": 4,
+	"height": 4,
+	"rule": "3/23"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Pentapole",
+	"pattern": "2o6b$obo5b2$2bobo3b2$4bobob$7bo$6b2o",
+	"comments": "The barberpole of length 5 and thus a period 2 oscillator. www.conwaylife.com/wiki/index.php?title=Pentapole",
+	"width": 8,
+	"height": 8,
+	"rule": "3/23"
+}

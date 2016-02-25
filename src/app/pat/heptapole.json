@@ -1,0 +1,8 @@
+{
+	"name": "Heptapole",
+	"pattern": "2o8b$obo7b2$2bobo5b2$4bobo3b2$6bobob$9bo$8b2o",
+	"comments": "The barberpole of length 7 and thus a period 2 oscillator. www.conwaylife.com/wiki/index.php?title=Heptapole",
+	"width": 10,
+	"height": 10,
+	"rule": "3/23"
+}
