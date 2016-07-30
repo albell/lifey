@@ -14,8 +14,6 @@ module.exports = function(grunt) {
 			src: ['src/app/js/es6/app.js', 'src/app/js/es6/modules/*.js'],
 			options: {
 				preset: 'jquery',
-				esnext: true,
-				verbose: true,
 				requireCurlyBraces: [ "if" ]
 			}
 		},
@@ -82,7 +80,7 @@ module.exports = function(grunt) {
 				module : {
 					loaders: [
 						{
-							loader: 'babel',	
+							loader: 'babel',
 							query: {
 								// https://github.com/babel/babel-loader#options
 								// cacheDirectory: true,
@@ -113,7 +111,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.` )
 		 		},
 		 		resolveLoader: {
 			 		root: path.join(__dirname, "dist/js")
-			 	}	
+			 	}
 			}, // Specific builds.
 			build: {
 				plugins: [
@@ -127,7 +125,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.` )
 					new webpack.DefinePlugin({
 						__DEV__: true // Environment variable set inside closure.
 					})
-				],		
+				],
 			}
 		},
 
@@ -144,16 +142,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.` )
 		},
 
 		minifyHtml: {
-			options: {
-				// cdata: true
-			},
 			dist: {
 				files: {
 					'dist/index.html': 'dist/index.html'
 				}
 			}
 		},
-		
+
 		watch: {
 			html: {
 				files: ['src/index.html'],
@@ -190,13 +185,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.` )
 
 	});
 
-	// Is this line needed with the JIT compiler?
-	grunt.loadNpmTasks('intern');
-
-	// Unit tests only.
+	// Unit tests only, for the time being.
 	grunt.registerTask('test', ['intern']);
 
-	// For quick development builds.
+	// For development builds.
 	grunt.registerTask('default', [ 'jscs',
 	                                'jshint',
 	                                'jsonlint',
@@ -206,9 +198,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.` )
 	                                'minifyHtml'
 	                              ] );
 
-	// For final release.
+	// For production builds.
 	grunt.registerTask('prod', [ 'jscs', 'jshint', 'jsonlint', 'copy', 'webpack:build',
 	                             'sass', 'minifyHtml' ]);
 };
-
-
