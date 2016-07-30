@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 	<title>Lifey</title>
 	<meta name='description' content="Player for Conway's Game of Life, built with modern web tech">
-	<link rel="stylesheet" href="css/min/style.min.css">
+	<link rel="stylesheet" href="css/style.min.css">
 	<link rel="icon" type="image/png" href="icon/favicon-32x32.png" sizes="32x32">
 	<link rel="icon" type="image/png" href="icon/favicon-194x194.png" sizes="194x194">
 	<link rel="icon" type="image/png" href="icon/favicon-96x96.png" sizes="96x96">
@@ -13,14 +13,14 @@
 	<link rel="icon" type="image/png" href="icon/favicon-16x16.png" sizes="16x16">
 	<link rel="manifest" href="manifest.json">
 	<script>
-		var browser = {
-			cutsMustard: document.documentElement.classList &&
-				"imageRendering" in document.documentElement.style &&
-				typeof window.fetch === "function"
-		};
-		if (browser.cutsMustard) {
-			document.documentElement.classList.remove("browser-unsupported");
-		}
+var browser = {
+	cutsMustard: document.documentElement.classList &&
+		"imageRendering" in document.documentElement.style &&
+		typeof window.fetch === "function"
+};
+if (browser.cutsMustard) {
+	document.documentElement.classList.remove("browser-unsupported");
+}
 	</script>
 	<style id="scroll-stylesheet"></style>
 	<meta property="og:url" content="https://bellandwhistle.net/lifey/"/>
@@ -42,7 +42,7 @@
 			<feMergeNode in="SourceGraphic"></feMergeNode>
 		</feMerge>
 	</filter>
-	
+
 	<defs>
 		<g id="toolbar-line">
 			<rect x="9" y="3" fill="#282828" width="1" height="4"/>
@@ -59,7 +59,7 @@
 			<use x="14" y="0" xlink:href="#toolbar-line"/>
 			<use x="16" y="0" xlink:href="#toolbar-line"/>
 			<use x="10" y="0" xlink:href="#toolbar-line"/>
-		</g>		
+		</g>
 	</defs>
 </svg>
 
@@ -109,7 +109,7 @@
 			data-tool-button=hand data-tooltip="Hand Tool (H)">
 			<svg class="panel__button-icon" xmlns="http://www.w3.org/2000/svg"
 				viewBox="0 0 24 20" >
-				<path class="icon-path-main-color" filter="url(#drop-shadow)" 
+				<path class="icon-path-main-color" filter="url(#drop-shadow)"
 					d="M9.21,18.51h7.46c0,0,0.15-1.23,
 					0.31-2.07c0.11-0.61,0.28-1.06,0.52-2.12c0.18-0.76,0.31-2.33,0.73-3.21
 					c0.58-1.21,1.18-2.86,1.3-3.09c0.17-0.33,0.86-2.18,0.05-2.47
@@ -208,9 +208,9 @@
 				><span class="info__value" data-info-cursor-position-y></span
 			></div>
 		</div
-		
+
 		><div class="info__dimension">
-			
+
 			<button class="panel__button info__button info__button--resize"
 				data-info-button=resize>
 				<svg class="info__dimension-icon" xmlns="http://www.w3.org/2000/svg"
@@ -278,7 +278,7 @@
 		</svg>
 		<div class="player__speed-input-wrapper">
 			<input type="range" class="player__speed-input" data-player-speed-input min="0" max="6" step="1">
-			
+
 			<svg class="player__speed__thumb-icon" xmlns="http://www.w3.org/2000/svg" width="13px" height="10px" viewBox="0 0 13 10" >
 				<linearGradient id="slider-thumb-gradient" gradientUnits="userSpaceOnUse" x1="6.5" y1="0.5421" x2="6.5" y2="8.4798">
 					<stop  offset="0" style="stop-color:#D3D3D3"/>
@@ -288,7 +288,7 @@
 L11.5,5.2z"/>
 			</svg>
 
-			
+
 		</div>
 		<svg class="player__hare" xmlns="http://www.w3.org/2000/svg"
 			viewBox="0 0 23 19">
@@ -313,7 +313,7 @@ L11.5,5.2z"/>
 				c-0.17-0.44-0.23-0.92-0.3-1.39c-0.03-0.18,0.06-0.37,0.1-0.56c0.18,0.04,0.42,
 				0.02,0.54,0.14c0.63,0.62,1.25,1.27,1.85,1.92c0.27,0.3,0.5,0.63,0.74,
 				0.95C15.43,4.62,15.46,4.6,15.49,4.59z"/>
-		</svg>		
+		</svg>
 	</div>
 
 	<div class="player__generations">
@@ -1402,7 +1402,7 @@ L11.5,5.2z"/>
 				</svg>
 
 				<p class="splash__browser-compatibility-warning">Sorry, but your browser doesn't support the modern features that this application requires. Please visit this site using the latest version of Firefox, Chrome, Opera, or Vivaldi.</p>
-				<p class="splash__version-number">version 0.1.0</p>
+				<p class="splash__version-number">version 0.1.1</p>
 			</div><!-- /innermost-container -->
 		</div><!-- /inner-container -->
 	</div><!-- /outer-container -->

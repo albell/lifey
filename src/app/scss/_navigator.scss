@@ -1,0 +1,48 @@
+.navigator {
+    top: 0;
+    right: 0;
+    height: 200px;
+}
+
+.navigator__canvas-outer-wrapper {
+    align-items: center;
+    display: flex;
+    height: 180px; // = Navigator height - dragspot.
+    justify-content: center;
+    padding: 7px 7px 9px 7px;
+    pointer-events: none;
+}
+
+// Don't change to i-beam on drag.
+.navigator__canvas-outer-wrapper,
+.navigator__canvas-outer-wrapper:active {
+    cursor: default;
+}
+
+.navigator__canvas-inner-wrapper {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative; // For the contained outline.
+}
+
+.navigator__canvas {
+    background: #fff;
+    display: block;
+}
+
+.navigator__canvas-outline {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    left: 0;
+    top: 0;
+    outline: 2px solid #ff4a4a; // Adobe red.
+}
+
+// Initially hidden during load.
+.navigator__canvas-outline--hidden {
+    visibility: hidden;
+}

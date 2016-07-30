@@ -40,7 +40,7 @@ const scrollSs = doc.querySelector( "#scroll-stylesheet" ).sheet;
 
 const outerBgEl = doc.querySelector( ".outer-background" );
 const innerViewEl = doc.querySelector( ".inner-background" );
-const	canvasEl = doc.querySelector( ".main-canvas" );
+const canvasEl = doc.querySelector( ".main-canvas" );
 const canvasCtx = canvasEl.getContext( "2d" );
 
 const splashEl = doc.querySelector( ".splash" );
@@ -209,6 +209,18 @@ patternPanel.initFlingable( panelArray[ 4 ], {
 .initResizable( panelArray[ 4 ], {
 	rzblTop: false,
 	rzblHorizontalCssProp: "right"
+} );
+
+//*******************************************
+//*******
+//******* ---- Prevent Default on Panel drag
+//*******
+//*******************************************
+
+// Suppresses the default I-beam cursor when user is mistakenly trying to drag
+// by something other than the "panel__dragspot".
+Gator( bodyEl ).on( [ "mousedown" ], ".panel", function( e ) {
+	e.preventDefault();
 } );
 
 //*******************************************

@@ -2,23 +2,18 @@
 	cursor: inherit;
 }
 
-.brush-tool    {cursor: url('lib-img/brush-cursor.cur')       0 28, default;}
-
-.eraser-tool   {cursor: url('lib-img/eraser-cursor.cur')      0 28, default;}
-
-.zoom-in-tool  {cursor: url('lib-img/zoom-in-cursor.cur')     6 26, default;}
-
-.zoom-out-tool {cursor: url('lib-img/zoom-out-cursor.cur')    0 15, default;}
-
+.brush-tool    {cursor: url('../img/brush-cursor.cur')       0 28, default;}
+.eraser-tool   {cursor: url('../img/eraser-cursor.cur')      0 28, default;}
+.zoom-in-tool  {cursor: url('../img/zoom-in-cursor.cur')     6 26, default;}
+.zoom-out-tool {cursor: url('../img/zoom-out-cursor.cur')    0 15, default;}
 
 // Keep hand near bottom of the cascade.
 .hand-tool,
 .shift-depressed,
 .shift-depressed .inner-background,
 .shift-depressed > .toolbox {
-	cursor: url('lib-img/hand-cursor.cur') 6 26, default;
+	cursor: url('../img/hand-cursor.cur') 6 26, default;
 }
-
 
 .player__button,
 .info__button,
@@ -29,11 +24,9 @@
 	cursor: pointer;
 }
 
-.info__dimension-axis {
-	cursor: default; // Not sure why this alone goes to text selection I-beam. TO DO: cleanup.
-}
-
+// Not sure why info__dimension-axis goes to text selection I-beam. TO DO: cleanup.
 // Keep cursor from changing when it leaves the panel briefly during a fast drag.
+.info__dimension-axis,
 .panel--is-flinging,
 .panel--is-flinging > div,
 .panel--is-flinging > canvas,
