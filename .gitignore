@@ -2,6 +2,9 @@
 dist/
 node_modules/
 
+# Ignore log files
+lcov.info
+
 #Ignore Mac OS files
 .DS_Store
 .AppleDouble
@@ -9,7 +12,6 @@ node_modules/
 
 # Icon must end with two \r
 Icon
-
 
 # Thumbnails
 ._*
