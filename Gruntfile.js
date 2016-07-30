@@ -157,6 +157,12 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.` )
     // Unit tests only, for the time being.
     grunt.registerTask('test', ['intern']);
 
+    // Scripts-only task.
+    grunt.registerTask('prod', [ 'jscs',
+                                 'jshint',
+                                 'webpack:build'
+                                ] );
+
     // Development build.
     grunt.registerTask('default', [ 'jscs',
                                     'jshint',
