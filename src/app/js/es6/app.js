@@ -217,10 +217,14 @@ patternPanel.initFlingable( panelArray[ 4 ], {
 //*******
 //*******************************************
 
-// Suppresses the default I-beam cursor when user is mistakenly trying to drag
-// by something other than the "panel__dragspot".
+// Suppress the default I-beam cursor when user is mistakenly trying to drag
+// a panel by something other than the "panel__dragspot" at the top.
+// The only time we want to allow default native mousedown behavior is when the
+// speed slider is dragged.
 Gator( bodyEl ).on( [ "mousedown" ], ".panel", function( e ) {
-	e.preventDefault();
+	if ( e.target.className !== "player__speed-input" ) {
+		e.preventDefault();
+	}
 } );
 
 //*******************************************
