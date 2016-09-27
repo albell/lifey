@@ -6,7 +6,7 @@
 
 ### Browser Support
 
-To minimize the code base, and keep things lightweight, Lifey only runs on modern, standards-based browsers. That currently means Firefox 44+, Chrome 48+. No Safari or Microsoft Edge yet, because those browsers don't support the Fetch API, or CSS "image-rendering" on <canvas> elements. Soon.
+To minimize the code base, and keep things lightweight, Lifey only runs on modern, standards-based browsers. That currently means Firefox 44+, Chrome 48+, and Safari 10+. No Microsoft Edge yet, because it doesn't support CSS "image-rendering" on <canvas> elements. Soon, hopefully.
 
 ### Issues
 
@@ -21,7 +21,7 @@ Test that Grunt's command line interface is installed by running `grunt --versio
 1. Fork and then clone the Github repo.
 1. Run `cd filepath`, to change directory to the repo replacing "filepath" with the local filepath of your repository.
 1. Run `npm install` to install all dependencies (including Grunt).
-1. Run `grunt` to grunt this project. The grunt tasks will create a "dist" folder containing the built project, which you can use to serve files locally for testing.
+1. Run `grunt` to build Lifey from the source files. The grunt tasks will create an "index.html" file, and "css" and "js" folders in the root directory, which you can use to serve files locally for testing. There is no "dist" directory, for compatibility with Github Pages.
 
 ### Contributing
 
