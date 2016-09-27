@@ -81,9 +81,13 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.` )
                 }
             },
 
-            // Specific builds.
+            // Feature flags for specific builds.
+            // https://github.com/petehunt/webpack-howto
             build: {
                 plugins: [
+                    new webpack.DefinePlugin({
+                        __DEV__: false // Environment variable gets set inside closure.
+                    }),
                     new webpack.optimize.UglifyJsPlugin({
                         sourceMap: true
                     })
@@ -92,7 +96,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.` )
             buildDev: {
                 plugins: [
                     new webpack.DefinePlugin({
-                        __DEV__: true // Environment variable set inside closure.
+                        __DEV__: true
                     })
                 ],
             }
