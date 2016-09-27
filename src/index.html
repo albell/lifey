@@ -15,8 +15,7 @@
 	<script>
 var browser = {
 	cutsMustard: document.documentElement.classList &&
-		"imageRendering" in document.documentElement.style &&
-		typeof window.fetch === "function"
+		"imageRendering" in document.documentElement.style
 };
 if (browser.cutsMustard) {
 	document.documentElement.classList.remove("browser-unsupported");
