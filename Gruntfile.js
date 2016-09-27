@@ -36,7 +36,13 @@ module.exports = function(grunt) {
 
         webpack: {
             options: { // Config for all builds.
-                entry: "./src/app/js/es6/app.js", // Work from the copied file.
+
+                // Safari 10 still doesn't support fetch.
+                // Polyfill both Promise and fetch.
+                // Don't use webpack.ProvidePlugin, that is actually incorrect
+                // and unnecessary overhead. Read comments by tarikjn at:
+                // https://gist.github.com/Couto/b29676dd1ab8714a818f
+                entry: ['es6-promise', 'whatwg-fetch', './src/app/js/es6/app.js'],
                 output: {
                     path: path.join(__dirname, "js"),
                     filename: "app.min.js",
