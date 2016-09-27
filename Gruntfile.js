@@ -158,7 +158,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.` )
     grunt.registerTask('test', ['intern']);
 
     // Scripts-only task.
-    grunt.registerTask('prod', [ 'jscs',
+    grunt.registerTask('dev', [ 'jscs',
                                  'jshint',
                                  'webpack:build'
                                 ] );
