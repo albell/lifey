@@ -2369,10 +2369,11 @@ let onWindowResize = function() {
 //*******
 //*******************************************
 
-// Uglify should automatically rip the block below out for production builds.
+// Uglify should automatically rip the block below out for 'grunt prod' builds.
 // http://philipwalton.com/articles/how-to-unit-test-private-functions-in-javascript/
 // https://github.com/petehunt/webpack-howto
-// Note that this line will throw a "condition always true" warning in webpack dev builds.
+// Note that this line will throw a "condition always true" warning
+// in webpack dev builds.
 if ( __DEV__ ) {
 	w.Flingable = function() { return Flingable; };
 	w.Resizable = function() { return Resizable; };
