@@ -1,0 +1,11 @@
+{
+	"name": "Copperhead",
+    "author": "zdr",
+    "comments":  "A c/10 orthogonal spaceship. First published at http://www.conwaylife.com/forums/viewtopic.php?t=2057&f=2",
+	"width": 10,
+	"height": 13,
+	"minCanvasX": 100,
+	"minCanvasY": 100,
+	"toroidal": true,
+	"pattern": "4b2o$3b4o2$2b6o$3b4o2$2b2o2b2o$2obo2bob2o$3bo2bo3$4b2o$4b2o"
+}
