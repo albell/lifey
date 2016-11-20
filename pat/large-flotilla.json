@@ -1,0 +1,9 @@
+{
+	"name": "Large Flotilla",
+	"width": 29,
+	"height": 52,
+	"minCanvasX": 100,
+	"minCanvasY": 100,
+	"toroidal": true,
+	"pattern": "16bo2bo$20bo$16bo3bo$17b4o4$13b10o$12bo9bo$22bo$12bo8bo$10b2o$8bo14bo$24bo$8bo15bo$9b16o4$5b22o$4bo21bo$26bo$4bo20bo$2b2o$o26bo$28bo$o27bo$b28o4$5b22o$4bo21bo$26bo$4bo20bo$6b2o$8bo14bo$24bo$8bo15bo$9b16o4$13b10o$12bo9bo$22bo$12bo8bo$14b2o$16bo2bo$20bo$16bo3bo$17b4o"
+}
