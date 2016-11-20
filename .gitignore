@@ -1,5 +1,4 @@
-#Ignore built files and NPM files
-dist/
+#Ignore NPM files
 node_modules/
 
 # Ignore log files
@@ -9,9 +8,6 @@ lcov.info
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# Icon must end with two \r
-Icon
 
 # Thumbnails
 ._*
